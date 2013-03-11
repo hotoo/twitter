@@ -16,11 +16,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "296222095996768258",
-  "text" : "如何多人共同管理一个 #npm 模块？或者如何删除已注册到 npm 的模块？我很早之前有个脚本放在github，后来有个同事拿去改了作为 node 模块发布了。现在我把这个脚本做了大幅度更新，并且符合 CommonJS 规范，想把这个更好的版本发布的 npm。 #nodejs",
+  "text" : "\u5982\u4F55\u591A\u4EBA\u5171\u540C\u7BA1\u7406\u4E00\u4E2A #npm \u6A21\u5757\uFF1F\u6216\u8005\u5982\u4F55\u5220\u9664\u5DF2\u6CE8\u518C\u5230 npm \u7684\u6A21\u5757\uFF1F\u6211\u5F88\u65E9\u4E4B\u524D\u6709\u4E2A\u811A\u672C\u653E\u5728github\uFF0C\u540E\u6765\u6709\u4E2A\u540C\u4E8B\u62FF\u53BB\u6539\u4E86\u4F5C\u4E3A node \u6A21\u5757\u53D1\u5E03\u4E86\u3002\u73B0\u5728\u6211\u628A\u8FD9\u4E2A\u811A\u672C\u505A\u4E86\u5927\u5E45\u5EA6\u66F4\u65B0\uFF0C\u5E76\u4E14\u7B26\u5408 CommonJS \u89C4\u8303\uFF0C\u60F3\u628A\u8FD9\u4E2A\u66F4\u597D\u7684\u7248\u672C\u53D1\u5E03\u7684 npm\u3002 #nodejs",
   "id" : 296222095996768258,
   "created_at" : "Tue Jan 29 11:43:45 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -38,17 +38,17 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 44, 65 ],
       "url" : "https://t.co/3cGR8t0Z",
       "expanded_url" : "https://maps.google.com/maps?q=Pyongyang&hl=en&ll=39.020784,125.753288&spn=0.05328,0.077162&sll=37.0625,-95.677068&sspn=54.928982,79.013672&hnear=Pyongyang,+North+Korea&t=m&z=14",
-      "display_url" : "maps.google.com/maps?q=Pyongya…"
+      "display_url" : "maps.google.com/maps?q=Pyongya\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "296132734206738435",
-  "text" : "朝鲜被 Google Maps 收录了，以前只有卫星照片，地图数据一片空白。这个是平壤 https://t.co/3cGR8t0Z",
+  "text" : "\u671D\u9C9C\u88AB Google Maps \u6536\u5F55\u4E86\uFF0C\u4EE5\u524D\u53EA\u6709\u536B\u661F\u7167\u7247\uFF0C\u5730\u56FE\u6570\u636E\u4E00\u7247\u7A7A\u767D\u3002\u8FD9\u4E2A\u662F\u5E73\u58E4 https://t.co/3cGR8t0Z",
   "id" : 296132734206738435,
   "created_at" : "Tue Jan 29 05:48:40 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -60,13 +60,13 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "中文锐推客",
+      "name" : "\u4E2D\u6587\u9510\u63A8\u5BA2",
       "screen_name" : "RTKcn",
       "indices" : [ 3, 9 ],
       "id_str" : "151877169",
       "id" : 151877169
     }, {
-      "name" : "丁丁猫",
+      "name" : "\u4E01\u4E01\u732B",
       "screen_name" : "avb001",
       "indices" : [ 18, 25 ],
       "id_str" : "129237555",
@@ -79,12 +79,12 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "295778607849156608",
-  "text" : "RT @RTKcn: 21+ RT @avb001: 问：在抗日战争中，中国军方编制下那个单位消灭鬼子最多？答：八一电影制片厂。",
+  "text" : "RT @RTKcn: 21+ RT @avb001: \u95EE\uFF1A\u5728\u6297\u65E5\u6218\u4E89\u4E2D\uFF0C\u4E2D\u56FD\u519B\u65B9\u7F16\u5236\u4E0B\u90A3\u4E2A\u5355\u4F4D\u6D88\u706D\u9B3C\u5B50\u6700\u591A\uFF1F\u7B54\uFF1A\u516B\u4E00\u7535\u5F71\u5236\u7247\u5382\u3002",
   "retweeted_status" : {
     "source" : "<a href=\"http://rtbot.laobubu.net\" rel=\"nofollow\">RTKcn(beta)</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "丁丁猫",
+        "name" : "\u4E01\u4E01\u732B",
         "screen_name" : "avb001",
         "indices" : [ 7, 14 ],
         "id_str" : "129237555",
@@ -97,11 +97,11 @@ Grailbird.data.tweets_2013_01 =
     "geo" : {
     },
     "id_str" : "295764155493912577",
-    "text" : "21+ RT @avb001: 问：在抗日战争中，中国军方编制下那个单位消灭鬼子最多？答：八一电影制片厂。",
+    "text" : "21+ RT @avb001: \u95EE\uFF1A\u5728\u6297\u65E5\u6218\u4E89\u4E2D\uFF0C\u4E2D\u56FD\u519B\u65B9\u7F16\u5236\u4E0B\u90A3\u4E2A\u5355\u4F4D\u6D88\u706D\u9B3C\u5B50\u6700\u591A\uFF1F\u7B54\uFF1A\u516B\u4E00\u7535\u5F71\u5236\u7247\u5382\u3002",
     "id" : 295764155493912577,
     "created_at" : "Mon Jan 28 05:24:04 +0000 2013",
     "user" : {
-      "name" : "中文锐推客",
+      "name" : "\u4E2D\u6587\u9510\u63A8\u5BA2",
       "screen_name" : "RTKcn",
       "protected" : false,
       "id_str" : "151877169",
@@ -113,7 +113,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 295778607849156608,
   "created_at" : "Mon Jan 28 06:21:30 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -137,11 +137,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "295777641909334017",
-  "text" : "http://t.co/fHs7c9y2 没有协作模式的么，多人协作同一个项目，某一个项目由指定的几个人进行 publish 等操作。或者转让给他人管理什么的。",
+  "text" : "http://t.co/fHs7c9y2 \u6CA1\u6709\u534F\u4F5C\u6A21\u5F0F\u7684\u4E48\uFF0C\u591A\u4EBA\u534F\u4F5C\u540C\u4E00\u4E2A\u9879\u76EE\uFF0C\u67D0\u4E00\u4E2A\u9879\u76EE\u7531\u6307\u5B9A\u7684\u51E0\u4E2A\u4EBA\u8FDB\u884C publish \u7B49\u64CD\u4F5C\u3002\u6216\u8005\u8F6C\u8BA9\u7ED9\u4ED6\u4EBA\u7BA1\u7406\u4EC0\u4E48\u7684\u3002",
   "id" : 295777641909334017,
   "created_at" : "Mon Jan 28 06:17:39 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -159,7 +159,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 0, 21 ],
       "url" : "https://t.co/Zmrickkk",
       "expanded_url" : "https://github.com/hotoo/node-pinyin",
-      "display_url" : "github.com/hotoo/node-pin…"
+      "display_url" : "github.com/hotoo/node-pin\u2026"
     } ]
   },
   "geo" : {
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 295767070224822272,
   "created_at" : "Mon Jan 28 05:35:39 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -194,9 +194,9 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "295751605096181762",
-  "text" : "RT @rzosea: 老师，我11岁，大家都叫你老师所以想问一个问题。” “你好，想问神马？” “基友和炮友有什么不同啊？” 我顿时觉得肩负着一种来自祖国未来的巨大压力。。。然后很认真地回答了他：“基友就是一起吃肯德基的朋友，炮友就是一起吃泡面的朋友。前者注重交流，后者注重效率",
+  "text" : "RT @rzosea: \u8001\u5E08\uFF0C\u621111\u5C81\uFF0C\u5927\u5BB6\u90FD\u53EB\u4F60\u8001\u5E08\u6240\u4EE5\u60F3\u95EE\u4E00\u4E2A\u95EE\u9898\u3002\u201D \u201C\u4F60\u597D\uFF0C\u60F3\u95EE\u795E\u9A6C\uFF1F\u201D \u201C\u57FA\u53CB\u548C\u70AE\u53CB\u6709\u4EC0\u4E48\u4E0D\u540C\u554A\uFF1F\u201D \u6211\u987F\u65F6\u89C9\u5F97\u80A9\u8D1F\u7740\u4E00\u79CD\u6765\u81EA\u7956\u56FD\u672A\u6765\u7684\u5DE8\u5927\u538B\u529B\u3002\u3002\u3002\u7136\u540E\u5F88\u8BA4\u771F\u5730\u56DE\u7B54\u4E86\u4ED6\uFF1A\u201C\u57FA\u53CB\u5C31\u662F\u4E00\u8D77\u5403\u80AF\u5FB7\u57FA\u7684\u670B\u53CB\uFF0C\u70AE\u53CB\u5C31\u662F\u4E00\u8D77\u5403\u6CE1\u9762\u7684\u670B\u53CB\u3002\u524D\u8005\u6CE8\u91CD\u4EA4\u6D41\uFF0C\u540E\u8005\u6CE8\u91CD\u6548\u7387",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tuite369.com/index.php\" rel=\"nofollow\">推土机(墙内直接点击)</a>",
+    "source" : "<a href=\"http://www.tuite369.com/index.php\" rel=\"nofollow\">\u63A8\u571F\u673A(\u5899\u5185\u76F4\u63A5\u70B9\u51FB)</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2013_01 =
     "geo" : {
     },
     "id_str" : "295576735846633472",
-    "text" : "老师，我11岁，大家都叫你老师所以想问一个问题。” “你好，想问神马？” “基友和炮友有什么不同啊？” 我顿时觉得肩负着一种来自祖国未来的巨大压力。。。然后很认真地回答了他：“基友就是一起吃肯德基的朋友，炮友就是一起吃泡面的朋友。前者注重交流，后者注重效率",
+    "text" : "\u8001\u5E08\uFF0C\u621111\u5C81\uFF0C\u5927\u5BB6\u90FD\u53EB\u4F60\u8001\u5E08\u6240\u4EE5\u60F3\u95EE\u4E00\u4E2A\u95EE\u9898\u3002\u201D \u201C\u4F60\u597D\uFF0C\u60F3\u95EE\u795E\u9A6C\uFF1F\u201D \u201C\u57FA\u53CB\u548C\u70AE\u53CB\u6709\u4EC0\u4E48\u4E0D\u540C\u554A\uFF1F\u201D \u6211\u987F\u65F6\u89C9\u5F97\u80A9\u8D1F\u7740\u4E00\u79CD\u6765\u81EA\u7956\u56FD\u672A\u6765\u7684\u5DE8\u5927\u538B\u529B\u3002\u3002\u3002\u7136\u540E\u5F88\u8BA4\u771F\u5730\u56DE\u7B54\u4E86\u4ED6\uFF1A\u201C\u57FA\u53CB\u5C31\u662F\u4E00\u8D77\u5403\u80AF\u5FB7\u57FA\u7684\u670B\u53CB\uFF0C\u70AE\u53CB\u5C31\u662F\u4E00\u8D77\u5403\u6CE1\u9762\u7684\u670B\u53CB\u3002\u524D\u8005\u6CE8\u91CD\u4EA4\u6D41\uFF0C\u540E\u8005\u6CE8\u91CD\u6548\u7387",
     "id" : 295576735846633472,
     "created_at" : "Sun Jan 27 16:59:20 +0000 2013",
     "user" : {
@@ -222,7 +222,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 295751605096181762,
   "created_at" : "Mon Jan 28 04:34:12 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -246,11 +246,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "295139217414184960",
-  "text" : "Mac 上安装 DiskDrill 恢复了一个磁盘上的数据，发现 Mac 上多了100G+ 的其他文件，SSD 已经满了求救！ help!  SOS\n http://t.co/2Rj2FwpF",
+  "text" : "Mac \u4E0A\u5B89\u88C5 DiskDrill \u6062\u590D\u4E86\u4E00\u4E2A\u78C1\u76D8\u4E0A\u7684\u6570\u636E\uFF0C\u53D1\u73B0 Mac \u4E0A\u591A\u4E86100G+ \u7684\u5176\u4ED6\u6587\u4EF6\uFF0CSSD \u5DF2\u7ECF\u6EE1\u4E86\u6C42\u6551\uFF01 help!  SOS\n http://t.co/2Rj2FwpF",
   "id" : 295139217414184960,
   "created_at" : "Sat Jan 26 12:00:47 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -277,14 +277,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295138981656539136",
   "in_reply_to_user_id" : 97830312,
-  "text" : "@ethan168 一直想把 TotalTerminal 的切换 Tab 改成 Command+1 这样的快捷键方式未遂~",
+  "text" : "@ethan168 \u4E00\u76F4\u60F3\u628A TotalTerminal \u7684\u5207\u6362 Tab \u6539\u6210 Command+1 \u8FD9\u6837\u7684\u5FEB\u6377\u952E\u65B9\u5F0F\u672A\u9042~",
   "id" : 295138981656539136,
   "in_reply_to_status_id" : 295088986907635712,
   "created_at" : "Sat Jan 26 11:59:51 +0000 2013",
   "in_reply_to_screen_name" : "ethan168",
   "in_reply_to_user_id_str" : "97830312",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -296,7 +296,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "支付宝|Alipay",
+      "name" : "\u652F\u4ED8\u5B9D|Alipay",
       "screen_name" : "Alipay",
       "indices" : [ 15, 22 ],
       "id_str" : "13712792",
@@ -308,14 +308,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 29.44577298595518, 115.3485148587407 ]
+    "coordinates" : [ 29.445772986, 115.3485148587 ]
   },
   "id_str" : "294752175400316929",
-  "text" : "话说支付宝钱包的图标真心难看 @Alipay",
+  "text" : "\u8BDD\u8BF4\u652F\u4ED8\u5B9D\u94B1\u5305\u7684\u56FE\u6807\u771F\u5FC3\u96BE\u770B @Alipay",
   "id" : 294752175400316929,
   "created_at" : "Fri Jan 25 10:22:49 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -327,25 +327,25 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "您的好友老杨",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
       "id" : 50969839
     }, {
-      "name" : "大男",
+      "name" : "\u5927\u7537",
       "screen_name" : "bigman510",
       "indices" : [ 31, 41 ],
       "id_str" : "28527406",
       "id" : 28527406
     }, {
-      "name" : "醉葫芦",
+      "name" : "\u9189\u846B\u82A6",
       "screen_name" : "zuihulu",
       "indices" : [ 49, 57 ],
       "id_str" : "43070782",
       "id" : 43070782
     }, {
-      "name" : "黑暗猫屎大王",
+      "name" : "\u9ED1\u6697\u732B\u5C4E\u5927\u738B",
       "screen_name" : "ripleyyu",
       "indices" : [ 69, 78 ],
       "id_str" : "40822999",
@@ -358,24 +358,24 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "294462800250667009",
-  "text" : "RT @laoyang945: 别断句，是「B能干的」 RT @bigman510 有歧义 RT @zuihulu B项包括会做饭吧RT @ripleyyu: 世界末日大逃亡的时候，有三种女人，你认为哪种能活得最久？A 漂亮的 B 能干的 C 会卖萌的",
+  "text" : "RT @laoyang945: \u522B\u65AD\u53E5\uFF0C\u662F\u300CB\u80FD\u5E72\u7684\u300D RT @bigman510 \u6709\u6B67\u4E49 RT @zuihulu B\u9879\u5305\u62EC\u4F1A\u505A\u996D\u5427RT @ripleyyu: \u4E16\u754C\u672B\u65E5\u5927\u9003\u4EA1\u7684\u65F6\u5019\uFF0C\u6709\u4E09\u79CD\u5973\u4EBA\uFF0C\u4F60\u8BA4\u4E3A\u54EA\u79CD\u80FD\u6D3B\u5F97\u6700\u4E45\uFF1FA \u6F02\u4EAE\u7684 B \u80FD\u5E72\u7684 C \u4F1A\u5356\u840C\u7684",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "大男",
+        "name" : "\u5927\u7537",
         "screen_name" : "bigman510",
         "indices" : [ 15, 25 ],
         "id_str" : "28527406",
         "id" : 28527406
       }, {
-        "name" : "醉葫芦",
+        "name" : "\u9189\u846B\u82A6",
         "screen_name" : "zuihulu",
         "indices" : [ 33, 41 ],
         "id_str" : "43070782",
         "id" : 43070782
       }, {
-        "name" : "黑暗猫屎大王",
+        "name" : "\u9ED1\u6697\u732B\u5C4E\u5927\u738B",
         "screen_name" : "ripleyyu",
         "indices" : [ 53, 62 ],
         "id_str" : "40822999",
@@ -390,14 +390,14 @@ Grailbird.data.tweets_2013_01 =
     },
     "id_str" : "294333344492158976",
     "in_reply_to_user_id" : 28527406,
-    "text" : "别断句，是「B能干的」 RT @bigman510 有歧义 RT @zuihulu B项包括会做饭吧RT @ripleyyu: 世界末日大逃亡的时候，有三种女人，你认为哪种能活得最久？A 漂亮的 B 能干的 C 会卖萌的",
+    "text" : "\u522B\u65AD\u53E5\uFF0C\u662F\u300CB\u80FD\u5E72\u7684\u300D RT @bigman510 \u6709\u6B67\u4E49 RT @zuihulu B\u9879\u5305\u62EC\u4F1A\u505A\u996D\u5427RT @ripleyyu: \u4E16\u754C\u672B\u65E5\u5927\u9003\u4EA1\u7684\u65F6\u5019\uFF0C\u6709\u4E09\u79CD\u5973\u4EBA\uFF0C\u4F60\u8BA4\u4E3A\u54EA\u79CD\u80FD\u6D3B\u5F97\u6700\u4E45\uFF1FA \u6F02\u4EAE\u7684 B \u80FD\u5E72\u7684 C \u4F1A\u5356\u840C\u7684",
     "id" : 294333344492158976,
     "in_reply_to_status_id" : 294332950147891201,
     "created_at" : "Thu Jan 24 06:38:32 +0000 2013",
     "in_reply_to_screen_name" : "bigman510",
     "in_reply_to_user_id_str" : "28527406",
     "user" : {
-      "name" : "您的好友老杨",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 294462800250667009,
   "created_at" : "Thu Jan 24 15:12:57 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -433,11 +433,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "294085992036581376",
-  "text" : "http://t.co/svRk9wyH Web 表单字段标准",
+  "text" : "http://t.co/svRk9wyH Web \u8868\u5355\u5B57\u6BB5\u6807\u51C6",
   "id" : 294085992036581376,
   "created_at" : "Wed Jan 23 14:15:39 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -461,13 +461,13 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 51, 71 ],
       "url" : "http://t.co/5kUfWLU6",
       "expanded_url" : "http://www.hi-pda.com/forum/viewthread.php?tid=1124017&extra=page%3D1",
-      "display_url" : "hi-pda.com/forum/viewthre…"
+      "display_url" : "hi-pda.com/forum/viewthre\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "293597608742617088",
-  "text" : "RT @scomper: Hi-Pda网友分享版柴静的《看见》，下载地址就在帖子里，能看见就下载吧。 http://t.co/5kUfWLU6",
+  "text" : "RT @scomper: Hi-Pda\u7F51\u53CB\u5206\u4EAB\u7248\u67F4\u9759\u7684\u300A\u770B\u89C1\u300B\uFF0C\u4E0B\u8F7D\u5730\u5740\u5C31\u5728\u5E16\u5B50\u91CC\uFF0C\u80FD\u770B\u89C1\u5C31\u4E0B\u8F7D\u5427\u3002 http://t.co/5kUfWLU6",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -478,13 +478,13 @@ Grailbird.data.tweets_2013_01 =
         "indices" : [ 38, 58 ],
         "url" : "http://t.co/5kUfWLU6",
         "expanded_url" : "http://www.hi-pda.com/forum/viewthread.php?tid=1124017&extra=page%3D1",
-        "display_url" : "hi-pda.com/forum/viewthre…"
+        "display_url" : "hi-pda.com/forum/viewthre\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "293596473281638400",
-    "text" : "Hi-Pda网友分享版柴静的《看见》，下载地址就在帖子里，能看见就下载吧。 http://t.co/5kUfWLU6",
+    "text" : "Hi-Pda\u7F51\u53CB\u5206\u4EAB\u7248\u67F4\u9759\u7684\u300A\u770B\u89C1\u300B\uFF0C\u4E0B\u8F7D\u5730\u5740\u5C31\u5728\u5E16\u5B50\u91CC\uFF0C\u80FD\u770B\u89C1\u5C31\u4E0B\u8F7D\u5427\u3002 http://t.co/5kUfWLU6",
     "id" : 293596473281638400,
     "created_at" : "Tue Jan 22 05:50:28 +0000 2013",
     "user" : {
@@ -500,7 +500,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 293597608742617088,
   "created_at" : "Tue Jan 22 05:54:59 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -527,14 +527,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293542012219699200",
   "in_reply_to_user_id" : 39922316,
-  "text" : "@chou_eric 对 Mac 的菜单栏无效的，菜单栏是一直显示的。",
+  "text" : "@chou_eric \u5BF9 Mac \u7684\u83DC\u5355\u680F\u65E0\u6548\u7684\uFF0C\u83DC\u5355\u680F\u662F\u4E00\u76F4\u663E\u793A\u7684\u3002",
   "id" : 293542012219699200,
   "in_reply_to_status_id" : 293373362938458113,
   "created_at" : "Tue Jan 22 02:14:04 +0000 2013",
   "in_reply_to_screen_name" : "chou_eric",
   "in_reply_to_user_id_str" : "39922316",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -553,11 +553,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "293541658895716353",
-  "text" : "Chrome 插件开发，更新 i18n 的 messages.json 经常重新加载得不到更新，要重启浏览器。。。",
+  "text" : "Chrome \u63D2\u4EF6\u5F00\u53D1\uFF0C\u66F4\u65B0 i18n \u7684 messages.json \u7ECF\u5E38\u91CD\u65B0\u52A0\u8F7D\u5F97\u4E0D\u5230\u66F4\u65B0\uFF0C\u8981\u91CD\u542F\u6D4F\u89C8\u5668\u3002\u3002\u3002",
   "id" : 293541658895716353,
   "created_at" : "Tue Jan 22 02:12:39 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -584,14 +584,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293331684559048704",
   "in_reply_to_user_id" : 39922316,
-  "text" : "@chou_eric 你是 Windows 吧。看来最好是在写插件的时候判断 &amp;guioptions 是否包含 m 标志，然后决定是否添加菜单。",
+  "text" : "@chou_eric \u4F60\u662F Windows \u5427\u3002\u770B\u6765\u6700\u597D\u662F\u5728\u5199\u63D2\u4EF6\u7684\u65F6\u5019\u5224\u65AD &amp;guioptions \u662F\u5426\u5305\u542B m \u6807\u5FD7\uFF0C\u7136\u540E\u51B3\u5B9A\u662F\u5426\u6DFB\u52A0\u83DC\u5355\u3002",
   "id" : 293331684559048704,
   "in_reply_to_status_id" : 293212837583659010,
   "created_at" : "Mon Jan 21 12:18:18 +0000 2013",
   "in_reply_to_screen_name" : "chou_eric",
   "in_reply_to_user_id_str" : "39922316",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -618,14 +618,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293163289888817152",
   "in_reply_to_user_id" : 754441,
-  "text" : "@calon Mac 菜单栏一直会显示的。",
+  "text" : "@calon Mac \u83DC\u5355\u680F\u4E00\u76F4\u4F1A\u663E\u793A\u7684\u3002",
   "id" : 293163289888817152,
   "in_reply_to_status_id" : 293162972635860993,
   "created_at" : "Mon Jan 21 01:09:09 +0000 2013",
   "in_reply_to_screen_name" : "calon",
   "in_reply_to_user_id_str" : "754441",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -647,11 +647,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "293162342554931201",
-  "text" : "最烦 #Vim 插件添加菜单栏了，尤其是添加主菜单栏了。这是 Vim 使用者推荐的是否方法么，这是 Vim 开发者应该鼓励用户这么使用这个插件的么。从来都用不上的菜单栏长到都把我的状态栏弄看不到了！",
+  "text" : "\u6700\u70E6 #Vim \u63D2\u4EF6\u6DFB\u52A0\u83DC\u5355\u680F\u4E86\uFF0C\u5C24\u5176\u662F\u6DFB\u52A0\u4E3B\u83DC\u5355\u680F\u4E86\u3002\u8FD9\u662F Vim \u4F7F\u7528\u8005\u63A8\u8350\u7684\u662F\u5426\u65B9\u6CD5\u4E48\uFF0C\u8FD9\u662F Vim \u5F00\u53D1\u8005\u5E94\u8BE5\u9F13\u52B1\u7528\u6237\u8FD9\u4E48\u4F7F\u7528\u8FD9\u4E2A\u63D2\u4EF6\u7684\u4E48\u3002\u4ECE\u6765\u90FD\u7528\u4E0D\u4E0A\u7684\u83DC\u5355\u680F\u957F\u5230\u90FD\u628A\u6211\u7684\u72B6\u6001\u680F\u5F04\u770B\u4E0D\u5230\u4E86\uFF01",
   "id" : 293162342554931201,
   "created_at" : "Mon Jan 21 01:05:23 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -678,14 +678,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292567924944805888",
   "in_reply_to_user_id" : 4433831,
-  "text" : "@harryxu 相比 Vundle 的优点是什么？",
+  "text" : "@harryxu \u76F8\u6BD4 Vundle \u7684\u4F18\u70B9\u662F\u4EC0\u4E48\uFF1F",
   "id" : 292567924944805888,
   "in_reply_to_status_id" : 292567227205570560,
   "created_at" : "Sat Jan 19 09:43:23 +0000 2013",
   "in_reply_to_screen_name" : "harryxu",
   "in_reply_to_user_id_str" : "4433831",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -712,14 +712,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292566049218514945",
   "in_reply_to_user_id" : 10991642,
-  "text" : "@yaroot .vim/snippets 会覆盖 .vim/bound/snipMate.vim/snippets 下对应的配置么？或者是继承保留未复写的部分？这个等下试试。 Tks :)",
+  "text" : "@yaroot .vim/snippets \u4F1A\u8986\u76D6 .vim/bound/snipMate.vim/snippets \u4E0B\u5BF9\u5E94\u7684\u914D\u7F6E\u4E48\uFF1F\u6216\u8005\u662F\u7EE7\u627F\u4FDD\u7559\u672A\u590D\u5199\u7684\u90E8\u5206\uFF1F\u8FD9\u4E2A\u7B49\u4E0B\u8BD5\u8BD5\u3002 Tks :)",
   "id" : 292566049218514945,
   "in_reply_to_status_id" : 292563907346825216,
   "created_at" : "Sat Jan 19 09:35:56 +0000 2013",
   "in_reply_to_screen_name" : "yaroot",
   "in_reply_to_user_id_str" : "10991642",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -741,11 +741,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "292563406639210496",
-  "text" : "现在 #Vim 的配置流行使用 Vundle，大家的 bundle 目录是在 .gitignore 里的吧。那么请问 snipMate 插件希望使用自己、或者第三方维护的代码片段库，最佳实践是什么？",
+  "text" : "\u73B0\u5728 #Vim \u7684\u914D\u7F6E\u6D41\u884C\u4F7F\u7528 Vundle\uFF0C\u5927\u5BB6\u7684 bundle \u76EE\u5F55\u662F\u5728 .gitignore \u91CC\u7684\u5427\u3002\u90A3\u4E48\u8BF7\u95EE snipMate \u63D2\u4EF6\u5E0C\u671B\u4F7F\u7528\u81EA\u5DF1\u3001\u6216\u8005\u7B2C\u4E09\u65B9\u7EF4\u62A4\u7684\u4EE3\u7801\u7247\u6BB5\u5E93\uFF0C\u6700\u4F73\u5B9E\u8DF5\u662F\u4EC0\u4E48\uFF1F",
   "id" : 292563406639210496,
   "created_at" : "Sat Jan 19 09:25:26 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -778,14 +778,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292520818179706881",
   "in_reply_to_user_id" : 25628357,
-  "text" : "@don9z @tualatrix 装之后感觉用处还是比较有限，甚至有些碍眼碍事，习惯快捷键了。",
+  "text" : "@don9z @tualatrix \u88C5\u4E4B\u540E\u611F\u89C9\u7528\u5904\u8FD8\u662F\u6BD4\u8F83\u6709\u9650\uFF0C\u751A\u81F3\u6709\u4E9B\u788D\u773C\u788D\u4E8B\uFF0C\u4E60\u60EF\u5FEB\u6377\u952E\u4E86\u3002",
   "id" : 292520818179706881,
   "in_reply_to_status_id" : 292322315289649152,
   "created_at" : "Sat Jan 19 06:36:12 +0000 2013",
   "in_reply_to_screen_name" : "don9z",
   "in_reply_to_user_id_str" : "25628357",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -804,11 +804,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "292273337063845889",
-  "text" : "尼玛，都是插件惹的祸，明知不合规，还搞那么张扬~ 现在 github 被你搞死了，狗日的。",
+  "text" : "\u5C3C\u739B\uFF0C\u90FD\u662F\u63D2\u4EF6\u60F9\u7684\u7978\uFF0C\u660E\u77E5\u4E0D\u5408\u89C4\uFF0C\u8FD8\u641E\u90A3\u4E48\u5F20\u626C~ \u73B0\u5728 github \u88AB\u4F60\u641E\u6B7B\u4E86\uFF0C\u72D7\u65E5\u7684\u3002",
   "id" : 292273337063845889,
   "created_at" : "Fri Jan 18 14:12:48 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -827,11 +827,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "291883994830761984",
-  "text" : "今天接到两通电话，一通说可以换 iPhone 5，没兴趣就挂了。另一通是杭州什么医疗调查，问的问题太不专业太没水准，回答了几个就拒绝了（话说电话调查没接过专业的）。。。",
+  "text" : "\u4ECA\u5929\u63A5\u5230\u4E24\u901A\u7535\u8BDD\uFF0C\u4E00\u901A\u8BF4\u53EF\u4EE5\u6362 iPhone 5\uFF0C\u6CA1\u5174\u8DA3\u5C31\u6302\u4E86\u3002\u53E6\u4E00\u901A\u662F\u676D\u5DDE\u4EC0\u4E48\u533B\u7597\u8C03\u67E5\uFF0C\u95EE\u7684\u95EE\u9898\u592A\u4E0D\u4E13\u4E1A\u592A\u6CA1\u6C34\u51C6\uFF0C\u56DE\u7B54\u4E86\u51E0\u4E2A\u5C31\u62D2\u7EDD\u4E86\uFF08\u8BDD\u8BF4\u7535\u8BDD\u8C03\u67E5\u6CA1\u63A5\u8FC7\u4E13\u4E1A\u7684\uFF09\u3002\u3002\u3002",
   "id" : 291883994830761984,
   "created_at" : "Thu Jan 17 12:25:41 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -850,11 +850,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "291168353429639168",
-  "text" : "Chrome 24 又做了一个垃圾 input[type=date] 默认控件，设置了 max 但仍然可以通过点击递增按钮绕过，日历及其触发器也是丑到不行，还各种没法设置。总有一天 WebForm 2 要被你们这些厂商搞死的~",
+  "text" : "Chrome 24 \u53C8\u505A\u4E86\u4E00\u4E2A\u5783\u573E input[type=date] \u9ED8\u8BA4\u63A7\u4EF6\uFF0C\u8BBE\u7F6E\u4E86 max \u4F46\u4ECD\u7136\u53EF\u4EE5\u901A\u8FC7\u70B9\u51FB\u9012\u589E\u6309\u94AE\u7ED5\u8FC7\uFF0C\u65E5\u5386\u53CA\u5176\u89E6\u53D1\u5668\u4E5F\u662F\u4E11\u5230\u4E0D\u884C\uFF0C\u8FD8\u5404\u79CD\u6CA1\u6CD5\u8BBE\u7F6E\u3002\u603B\u6709\u4E00\u5929 WebForm 2 \u8981\u88AB\u4F60\u4EEC\u8FD9\u4E9B\u5382\u5546\u641E\u6B7B\u7684~",
   "id" : 291168353429639168,
   "created_at" : "Tue Jan 15 13:01:59 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -873,11 +873,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "291143629014179840",
-  "text" : "终于来电了。农村停电都不给个发个通告，哪怕通知到各村，村里通知到个小组组长也好啊。现在农村电器也用的很多，停电受影响还是不小的，比如电饭煲，电压锅，洗衣机，电冰箱，当然还有必须的照明。电视当然不用说，电脑现在也很普遍。",
+  "text" : "\u7EC8\u4E8E\u6765\u7535\u4E86\u3002\u519C\u6751\u505C\u7535\u90FD\u4E0D\u7ED9\u4E2A\u53D1\u4E2A\u901A\u544A\uFF0C\u54EA\u6015\u901A\u77E5\u5230\u5404\u6751\uFF0C\u6751\u91CC\u901A\u77E5\u5230\u4E2A\u5C0F\u7EC4\u7EC4\u957F\u4E5F\u597D\u554A\u3002\u73B0\u5728\u519C\u6751\u7535\u5668\u4E5F\u7528\u7684\u5F88\u591A\uFF0C\u505C\u7535\u53D7\u5F71\u54CD\u8FD8\u662F\u4E0D\u5C0F\u7684\uFF0C\u6BD4\u5982\u7535\u996D\u7172\uFF0C\u7535\u538B\u9505\uFF0C\u6D17\u8863\u673A\uFF0C\u7535\u51B0\u7BB1\uFF0C\u5F53\u7136\u8FD8\u6709\u5FC5\u987B\u7684\u7167\u660E\u3002\u7535\u89C6\u5F53\u7136\u4E0D\u7528\u8BF4\uFF0C\u7535\u8111\u73B0\u5728\u4E5F\u5F88\u666E\u904D\u3002",
   "id" : 291143629014179840,
   "created_at" : "Tue Jan 15 11:23:44 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -901,11 +901,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "290706128294252544",
-  "text" : "在家做萝卜干  http://t.co/4bopxrpy",
+  "text" : "\u5728\u5BB6\u505A\u841D\u535C\u5E72  http://t.co/4bopxrpy",
   "id" : 290706128294252544,
   "created_at" : "Mon Jan 14 06:25:16 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -924,11 +924,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "290705742581866496",
-  "text" : "现在农村都被强制数字电视了，有线电视马上就被取缔，不换就没电视看了。",
+  "text" : "\u73B0\u5728\u519C\u6751\u90FD\u88AB\u5F3A\u5236\u6570\u5B57\u7535\u89C6\u4E86\uFF0C\u6709\u7EBF\u7535\u89C6\u9A6C\u4E0A\u5C31\u88AB\u53D6\u7F14\uFF0C\u4E0D\u6362\u5C31\u6CA1\u7535\u89C6\u770B\u4E86\u3002",
   "id" : 290705742581866496,
   "created_at" : "Mon Jan 14 06:23:44 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -957,11 +957,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "288636900649086978",
-  "text" : "http://t.co/QcKIVPqQ  http://t.co/OvE4gGoP 非常赞的个人数据分析。现在在用的 RescueTime 可以做这样的报表么？",
+  "text" : "http://t.co/QcKIVPqQ  http://t.co/OvE4gGoP \u975E\u5E38\u8D5E\u7684\u4E2A\u4EBA\u6570\u636E\u5206\u6790\u3002\u73B0\u5728\u5728\u7528\u7684 RescueTime \u53EF\u4EE5\u505A\u8FD9\u6837\u7684\u62A5\u8868\u4E48\uFF1F",
   "id" : 288636900649086978,
   "created_at" : "Tue Jan 08 13:22:54 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -980,11 +980,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "288250428053913600",
-  "text" : "function hit(rate){\n  return (0 == Math.floor(Math.random()/rate));\n}\n这个 JavaScrpt 采样率算法，本地循环测试是没有问题的，但是作为网页 PV 采样算法时，实际命中率只有指定命中率的 35% 左右。",
+  "text" : "function hit(rate){\n  return (0 == Math.floor(Math.random()/rate));\n}\n\u8FD9\u4E2A JavaScrpt \u91C7\u6837\u7387\u7B97\u6CD5\uFF0C\u672C\u5730\u5FAA\u73AF\u6D4B\u8BD5\u662F\u6CA1\u6709\u95EE\u9898\u7684\uFF0C\u4F46\u662F\u4F5C\u4E3A\u7F51\u9875 PV \u91C7\u6837\u7B97\u6CD5\u65F6\uFF0C\u5B9E\u9645\u547D\u4E2D\u7387\u53EA\u6709\u6307\u5B9A\u547D\u4E2D\u7387\u7684 35% \u5DE6\u53F3\u3002",
   "id" : 288250428053913600,
   "created_at" : "Mon Jan 07 11:47:12 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1011,14 +1011,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288149802863177728",
   "in_reply_to_user_id" : 26438828,
-  "text" : "@chrisyipw 我以前（受他人影响）喜欢4个空格的缩进，而现在更喜欢2个空格的宽度。如果使用 tab 缩进，通过修改编辑器 tab 显示宽度的方式可以满足代码统一，同时满足不同人或同一人不同时期喜好的个性化需求，不是非常好么。",
+  "text" : "@chrisyipw \u6211\u4EE5\u524D\uFF08\u53D7\u4ED6\u4EBA\u5F71\u54CD\uFF09\u559C\u6B224\u4E2A\u7A7A\u683C\u7684\u7F29\u8FDB\uFF0C\u800C\u73B0\u5728\u66F4\u559C\u6B222\u4E2A\u7A7A\u683C\u7684\u5BBD\u5EA6\u3002\u5982\u679C\u4F7F\u7528 tab \u7F29\u8FDB\uFF0C\u901A\u8FC7\u4FEE\u6539\u7F16\u8F91\u5668 tab \u663E\u793A\u5BBD\u5EA6\u7684\u65B9\u5F0F\u53EF\u4EE5\u6EE1\u8DB3\u4EE3\u7801\u7EDF\u4E00\uFF0C\u540C\u65F6\u6EE1\u8DB3\u4E0D\u540C\u4EBA\u6216\u540C\u4E00\u4EBA\u4E0D\u540C\u65F6\u671F\u559C\u597D\u7684\u4E2A\u6027\u5316\u9700\u6C42\uFF0C\u4E0D\u662F\u975E\u5E38\u597D\u4E48\u3002",
   "id" : 288149802863177728,
   "in_reply_to_status_id" : 288147990609289216,
   "created_at" : "Mon Jan 07 05:07:21 +0000 2013",
   "in_reply_to_screen_name" : "chrisyipw",
   "in_reply_to_user_id_str" : "26438828",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1045,14 +1045,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288148969249464320",
   "in_reply_to_user_id" : 26438828,
-  "text" : "@chrisyipw 我也不是说反对使用空格，只是更建议使用 tab，希望有一天所有编辑器、代码查看器都支持 tab 缩进的显示宽度，大家都使用 tab 来缩进没有争议就好了。",
+  "text" : "@chrisyipw \u6211\u4E5F\u4E0D\u662F\u8BF4\u53CD\u5BF9\u4F7F\u7528\u7A7A\u683C\uFF0C\u53EA\u662F\u66F4\u5EFA\u8BAE\u4F7F\u7528 tab\uFF0C\u5E0C\u671B\u6709\u4E00\u5929\u6240\u6709\u7F16\u8F91\u5668\u3001\u4EE3\u7801\u67E5\u770B\u5668\u90FD\u652F\u6301 tab \u7F29\u8FDB\u7684\u663E\u793A\u5BBD\u5EA6\uFF0C\u5927\u5BB6\u90FD\u4F7F\u7528 tab \u6765\u7F29\u8FDB\u6CA1\u6709\u4E89\u8BAE\u5C31\u597D\u4E86\u3002",
   "id" : 288148969249464320,
   "in_reply_to_status_id" : 288147990609289216,
   "created_at" : "Mon Jan 07 05:04:02 +0000 2013",
   "in_reply_to_screen_name" : "chrisyipw",
   "in_reply_to_user_id_str" : "26438828",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1079,14 +1079,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288147584512581632",
   "in_reply_to_user_id" : 26438828,
-  "text" : "@chrisyipw 如果大家都使用 tab 进行缩进，每个人通过设置编辑器的 tab 显示宽度来符合自己的口味，缩进部分的风格就可以没有口水了大概",
+  "text" : "@chrisyipw \u5982\u679C\u5927\u5BB6\u90FD\u4F7F\u7528 tab \u8FDB\u884C\u7F29\u8FDB\uFF0C\u6BCF\u4E2A\u4EBA\u901A\u8FC7\u8BBE\u7F6E\u7F16\u8F91\u5668\u7684 tab \u663E\u793A\u5BBD\u5EA6\u6765\u7B26\u5408\u81EA\u5DF1\u7684\u53E3\u5473\uFF0C\u7F29\u8FDB\u90E8\u5206\u7684\u98CE\u683C\u5C31\u53EF\u4EE5\u6CA1\u6709\u53E3\u6C34\u4E86\u5927\u6982",
   "id" : 288147584512581632,
   "in_reply_to_status_id" : 288146744255057922,
   "created_at" : "Mon Jan 07 04:58:32 +0000 2013",
   "in_reply_to_screen_name" : "chrisyipw",
   "in_reply_to_user_id_str" : "26438828",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1113,14 +1113,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288147091467943936",
   "in_reply_to_user_id" : 26438828,
-  "text" : "@chrisyipw 不是说换整个代码风格，但是缩进风格可以通过使用 tab 的方式来满足个性化显示，统一代码本身的要求。",
+  "text" : "@chrisyipw \u4E0D\u662F\u8BF4\u6362\u6574\u4E2A\u4EE3\u7801\u98CE\u683C\uFF0C\u4F46\u662F\u7F29\u8FDB\u98CE\u683C\u53EF\u4EE5\u901A\u8FC7\u4F7F\u7528 tab \u7684\u65B9\u5F0F\u6765\u6EE1\u8DB3\u4E2A\u6027\u5316\u663E\u793A\uFF0C\u7EDF\u4E00\u4EE3\u7801\u672C\u8EAB\u7684\u8981\u6C42\u3002",
   "id" : 288147091467943936,
   "in_reply_to_status_id" : 288146744255057922,
   "created_at" : "Mon Jan 07 04:56:34 +0000 2013",
   "in_reply_to_screen_name" : "chrisyipw",
   "in_reply_to_user_id_str" : "26438828",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1147,14 +1147,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288146304205463553",
   "in_reply_to_user_id" : 26438828,
-  "text" : "@chrisyipw tab 可以通过编辑器设置显示为几个空格宽度，每个人可以根据自己的喜欢进行设置，但代码本身还是 tab 不变。space 的话，写好几个就是几个，要更换显示风格只能修改代码本身。",
+  "text" : "@chrisyipw tab \u53EF\u4EE5\u901A\u8FC7\u7F16\u8F91\u5668\u8BBE\u7F6E\u663E\u793A\u4E3A\u51E0\u4E2A\u7A7A\u683C\u5BBD\u5EA6\uFF0C\u6BCF\u4E2A\u4EBA\u53EF\u4EE5\u6839\u636E\u81EA\u5DF1\u7684\u559C\u6B22\u8FDB\u884C\u8BBE\u7F6E\uFF0C\u4F46\u4EE3\u7801\u672C\u8EAB\u8FD8\u662F tab \u4E0D\u53D8\u3002space \u7684\u8BDD\uFF0C\u5199\u597D\u51E0\u4E2A\u5C31\u662F\u51E0\u4E2A\uFF0C\u8981\u66F4\u6362\u663E\u793A\u98CE\u683C\u53EA\u80FD\u4FEE\u6539\u4EE3\u7801\u672C\u8EAB\u3002",
   "id" : 288146304205463553,
   "in_reply_to_status_id" : 288145520889827329,
   "created_at" : "Mon Jan 07 04:53:27 +0000 2013",
   "in_reply_to_screen_name" : "chrisyipw",
   "in_reply_to_user_id_str" : "26438828",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1181,14 +1181,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288104882152566785",
   "in_reply_to_user_id" : 39451089,
-  "text" : "@stan_jia 对于老人和伤残人士，选则下铺确实是有必要的哇！",
+  "text" : "@stan_jia \u5BF9\u4E8E\u8001\u4EBA\u548C\u4F24\u6B8B\u4EBA\u58EB\uFF0C\u9009\u5219\u4E0B\u94FA\u786E\u5B9E\u662F\u6709\u5FC5\u8981\u7684\u54C7\uFF01",
   "id" : 288104882152566785,
   "in_reply_to_status_id" : 288104361333227520,
   "created_at" : "Mon Jan 07 02:08:51 +0000 2013",
   "in_reply_to_screen_name" : "stan_jia",
   "in_reply_to_user_id_str" : "39451089",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1207,11 +1207,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "288091774793170944",
-  "text" : "愈发觉得用 Tab 缩进代码是最好的选择了。应为每个人可以显示的不一样，但是代码本身是一样的。",
+  "text" : "\u6108\u53D1\u89C9\u5F97\u7528 Tab \u7F29\u8FDB\u4EE3\u7801\u662F\u6700\u597D\u7684\u9009\u62E9\u4E86\u3002\u5E94\u4E3A\u6BCF\u4E2A\u4EBA\u53EF\u4EE5\u663E\u793A\u7684\u4E0D\u4E00\u6837\uFF0C\u4F46\u662F\u4EE3\u7801\u672C\u8EAB\u662F\u4E00\u6837\u7684\u3002",
   "id" : 288091774793170944,
   "created_at" : "Mon Jan 07 01:16:46 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1230,11 +1230,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "288091220817879040",
-  "text" : "以前用 Google 拼音等输入法的时候，都喜欢候选词横排，但是用了鼠须管，为什么就喜欢竖排了？感觉竖排时每组词列的很清楚，横排的时候长短不一。是皮肤的原因么？",
+  "text" : "\u4EE5\u524D\u7528 Google \u62FC\u97F3\u7B49\u8F93\u5165\u6CD5\u7684\u65F6\u5019\uFF0C\u90FD\u559C\u6B22\u5019\u9009\u8BCD\u6A2A\u6392\uFF0C\u4F46\u662F\u7528\u4E86\u9F20\u987B\u7BA1\uFF0C\u4E3A\u4EC0\u4E48\u5C31\u559C\u6B22\u7AD6\u6392\u4E86\uFF1F\u611F\u89C9\u7AD6\u6392\u65F6\u6BCF\u7EC4\u8BCD\u5217\u7684\u5F88\u6E05\u695A\uFF0C\u6A2A\u6392\u7684\u65F6\u5019\u957F\u77ED\u4E0D\u4E00\u3002\u662F\u76AE\u80A4\u7684\u539F\u56E0\u4E48\uFF1F",
   "id" : 288091220817879040,
   "created_at" : "Mon Jan 07 01:14:34 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1253,11 +1253,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "287840150141165568",
-  "text" : "1. 12306 隐藏的卧铺位选择不知道是不是有效，选择的下铺，确认的时候提示随机，然后给了中铺。2. 修改账户信息的会通过身份证进行生日和性别校验，你就不能直接通过身份证获取这些信息咩。3. 车票预订只知道是否有票，余票查询可以查询余票数，你俩就不能合体么，另外给增加个票价吧。",
+  "text" : "1. 12306 \u9690\u85CF\u7684\u5367\u94FA\u4F4D\u9009\u62E9\u4E0D\u77E5\u9053\u662F\u4E0D\u662F\u6709\u6548\uFF0C\u9009\u62E9\u7684\u4E0B\u94FA\uFF0C\u786E\u8BA4\u7684\u65F6\u5019\u63D0\u793A\u968F\u673A\uFF0C\u7136\u540E\u7ED9\u4E86\u4E2D\u94FA\u30022. \u4FEE\u6539\u8D26\u6237\u4FE1\u606F\u7684\u4F1A\u901A\u8FC7\u8EAB\u4EFD\u8BC1\u8FDB\u884C\u751F\u65E5\u548C\u6027\u522B\u6821\u9A8C\uFF0C\u4F60\u5C31\u4E0D\u80FD\u76F4\u63A5\u901A\u8FC7\u8EAB\u4EFD\u8BC1\u83B7\u53D6\u8FD9\u4E9B\u4FE1\u606F\u54A9\u30023. \u8F66\u7968\u9884\u8BA2\u53EA\u77E5\u9053\u662F\u5426\u6709\u7968\uFF0C\u4F59\u7968\u67E5\u8BE2\u53EF\u4EE5\u67E5\u8BE2\u4F59\u7968\u6570\uFF0C\u4F60\u4FE9\u5C31\u4E0D\u80FD\u5408\u4F53\u4E48\uFF0C\u53E6\u5916\u7ED9\u589E\u52A0\u4E2A\u7968\u4EF7\u5427\u3002",
   "id" : 287840150141165568,
   "created_at" : "Sun Jan 06 08:36:54 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1275,7 +1275,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 0, 21 ],
       "url" : "https://t.co/7fo72vpD",
       "expanded_url" : "https://github.com/hotoo/bing-wallpaper",
-      "display_url" : "github.com/hotoo/bing-wal…"
+      "display_url" : "github.com/hotoo/bing-wal\u2026"
     }, {
       "indices" : [ 29, 49 ],
       "url" : "http://t.co/kyKbSueW",
@@ -1291,11 +1291,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "287818848399417344",
-  "text" : "https://t.co/7fo72vpD 支持同时下载 http://t.co/kyKbSueW, http://t.co/yPpuzod8 的壁纸。给 Mac 做动态壁纸再好不过了 ：）",
+  "text" : "https://t.co/7fo72vpD \u652F\u6301\u540C\u65F6\u4E0B\u8F7D http://t.co/kyKbSueW, http://t.co/yPpuzod8 \u7684\u58C1\u7EB8\u3002\u7ED9 Mac \u505A\u52A8\u6001\u58C1\u7EB8\u518D\u597D\u4E0D\u8FC7\u4E86 \uFF1A\uFF09",
   "id" : 287818848399417344,
   "created_at" : "Sun Jan 06 07:12:15 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1328,14 +1328,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287462575686447104",
   "in_reply_to_user_id" : 14868888,
-  "text" : "@ratazzi_potts @labikyo 多谢 ：）",
+  "text" : "@ratazzi_potts @labikyo \u591A\u8C22 \uFF1A\uFF09",
   "id" : 287462575686447104,
   "in_reply_to_status_id" : 287458040494571520,
   "created_at" : "Sat Jan 05 07:36:33 +0000 2013",
   "in_reply_to_screen_name" : "ratazzi_potts",
   "in_reply_to_user_id_str" : "14868888",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1354,11 +1354,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "287457847648858112",
-  "text" : "问个问题，git 在 dev 分支下开发到一半，还不到 ci 的程度，这时候有个紧急问题要切换到其他分支怎么办？只能很恶心的提交了么？或者 clone 一份下来？还有更好的方式么？",
+  "text" : "\u95EE\u4E2A\u95EE\u9898\uFF0Cgit \u5728 dev \u5206\u652F\u4E0B\u5F00\u53D1\u5230\u4E00\u534A\uFF0C\u8FD8\u4E0D\u5230 ci \u7684\u7A0B\u5EA6\uFF0C\u8FD9\u65F6\u5019\u6709\u4E2A\u7D27\u6025\u95EE\u9898\u8981\u5207\u6362\u5230\u5176\u4ED6\u5206\u652F\u600E\u4E48\u529E\uFF1F\u53EA\u80FD\u5F88\u6076\u5FC3\u7684\u63D0\u4EA4\u4E86\u4E48\uFF1F\u6216\u8005 clone \u4E00\u4EFD\u4E0B\u6765\uFF1F\u8FD8\u6709\u66F4\u597D\u7684\u65B9\u5F0F\u4E48\uFF1F",
   "id" : 287457847648858112,
   "created_at" : "Sat Jan 05 07:17:46 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1377,11 +1377,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "287436912682205184",
-  "text" : "Google Contacts 的 Find &amp; merge duplicates… 有点弱。手工查找&amp;合并后，和 Mac Address 同步的时候有冲突，本选择使用 Google Contacts 进行解决，但仍然被 Address 覆盖了。。。",
+  "text" : "Google Contacts \u7684 Find &amp; merge duplicates\u2026 \u6709\u70B9\u5F31\u3002\u624B\u5DE5\u67E5\u627E&amp;\u5408\u5E76\u540E\uFF0C\u548C Mac Address \u540C\u6B65\u7684\u65F6\u5019\u6709\u51B2\u7A81\uFF0C\u672C\u9009\u62E9\u4F7F\u7528 Google Contacts \u8FDB\u884C\u89E3\u51B3\uFF0C\u4F46\u4ECD\u7136\u88AB Address \u8986\u76D6\u4E86\u3002\u3002\u3002",
   "id" : 287436912682205184,
   "created_at" : "Sat Jan 05 05:54:34 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1400,11 +1400,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "287379157015478273",
-  "text" : "擦，Mac 准点报时以前是对的，比如现在时间十点钟，最近不知道做了什么（最相关的可能是地区设置改成香港然后改回中国，为了解决Excel CSV 分隔符问题），结果现在报时成了现在是一零点钟。。。",
+  "text" : "\u64E6\uFF0CMac \u51C6\u70B9\u62A5\u65F6\u4EE5\u524D\u662F\u5BF9\u7684\uFF0C\u6BD4\u5982\u73B0\u5728\u65F6\u95F4\u5341\u70B9\u949F\uFF0C\u6700\u8FD1\u4E0D\u77E5\u9053\u505A\u4E86\u4EC0\u4E48\uFF08\u6700\u76F8\u5173\u7684\u53EF\u80FD\u662F\u5730\u533A\u8BBE\u7F6E\u6539\u6210\u9999\u6E2F\u7136\u540E\u6539\u56DE\u4E2D\u56FD\uFF0C\u4E3A\u4E86\u89E3\u51B3Excel CSV \u5206\u9694\u7B26\u95EE\u9898\uFF09\uFF0C\u7ED3\u679C\u73B0\u5728\u62A5\u65F6\u6210\u4E86\u73B0\u5728\u662F\u4E00\u96F6\u70B9\u949F\u3002\u3002\u3002",
   "id" : 287379157015478273,
   "created_at" : "Sat Jan 05 02:05:04 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1431,14 +1431,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287071155813228544",
   "in_reply_to_user_id" : 22910493,
-  "text" : "@bupt 。。。",
+  "text" : "@bupt \u3002\u3002\u3002",
   "id" : 287071155813228544,
   "in_reply_to_status_id" : 287049274762596352,
   "created_at" : "Fri Jan 04 05:41:11 +0000 2013",
   "in_reply_to_screen_name" : "bupt",
   "in_reply_to_user_id_str" : "22910493",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1465,14 +1465,14 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287012979780771841",
   "in_reply_to_user_id" : 22910493,
-  "text" : "@bupt 可以了么，前几天还是随机发放铺位的。。。",
+  "text" : "@bupt \u53EF\u4EE5\u4E86\u4E48\uFF0C\u524D\u51E0\u5929\u8FD8\u662F\u968F\u673A\u53D1\u653E\u94FA\u4F4D\u7684\u3002\u3002\u3002",
   "id" : 287012979780771841,
   "in_reply_to_status_id" : 287007434634059776,
   "created_at" : "Fri Jan 04 01:50:01 +0000 2013",
   "in_reply_to_screen_name" : "bupt",
   "in_reply_to_user_id_str" : "22910493",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1491,11 +1491,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "286797507344875520",
-  "text" : "设计智能合并装载的装载器比想象的复杂好多。",
+  "text" : "\u8BBE\u8BA1\u667A\u80FD\u5408\u5E76\u88C5\u8F7D\u7684\u88C5\u8F7D\u5668\u6BD4\u60F3\u8C61\u7684\u590D\u6742\u597D\u591A\u3002",
   "id" : 286797507344875520,
   "created_at" : "Thu Jan 03 11:33:48 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1519,11 +1519,11 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "286637246742925312",
-  "text" : "http://t.co/40oJH4cn 没备案被阿里云关了。",
+  "text" : "http://t.co/40oJH4cn \u6CA1\u5907\u6848\u88AB\u963F\u91CC\u4E91\u5173\u4E86\u3002",
   "id" : 286637246742925312,
   "created_at" : "Thu Jan 03 00:56:59 +0000 2013",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",

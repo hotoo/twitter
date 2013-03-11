@@ -10,11 +10,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2951500387",
-  "text" : "无耻啊，罚公盟的款，没收公盟的东西，抓公盟的人，禁公盟的网。 http://www.gongmeng.cn/ 已经无法访问，被导向垃圾场114 http://www.drunkpiano-liuyu.net/?p=363",
+  "text" : "\u65E0\u803B\u554A\uFF0C\u7F5A\u516C\u76DF\u7684\u6B3E\uFF0C\u6CA1\u6536\u516C\u76DF\u7684\u4E1C\u897F\uFF0C\u6293\u516C\u76DF\u7684\u4EBA\uFF0C\u7981\u516C\u76DF\u7684\u7F51\u3002 http://www.gongmeng.cn/ \u5DF2\u7ECF\u65E0\u6CD5\u8BBF\u95EE\uFF0C\u88AB\u5BFC\u5411\u5783\u573E\u573A114 http://www.drunkpiano-liuyu.net/?p=363",
   "id" : 2951500387,
   "created_at" : "Fri Jul 31 14:09:30 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -26,7 +26,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "佛陀",
+      "name" : "\u4F5B\u9640",
       "screen_name" : "Fotuo",
       "indices" : [ 0, 6 ],
       "id_str" : "37009756",
@@ -41,14 +41,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2951254505",
   "in_reply_to_user_id" : 37009756,
-  "text" : "@Fotuo 有井水洗澡，这个只有在老家才有的待遇呢。",
+  "text" : "@Fotuo \u6709\u4E95\u6C34\u6D17\u6FA1\uFF0C\u8FD9\u4E2A\u53EA\u6709\u5728\u8001\u5BB6\u624D\u6709\u7684\u5F85\u9047\u5462\u3002",
   "id" : 2951254505,
   "in_reply_to_status_id" : 2950190393,
   "created_at" : "Fri Jul 31 13:53:39 +0000 2009",
   "in_reply_to_screen_name" : "Fotuo",
   "in_reply_to_user_id_str" : "37009756",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "怿飞",
+      "name" : "\u603F\u98DE",
       "screen_name" : "blankzheng",
       "indices" : [ 0, 11 ],
       "id_str" : "15421906",
@@ -82,7 +82,7 @@ Grailbird.data.tweets_2009_07 =
   "in_reply_to_screen_name" : "blankzheng",
   "in_reply_to_user_id_str" : "15421906",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -94,7 +94,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "佛陀",
+      "name" : "\u4F5B\u9640",
       "screen_name" : "Fotuo",
       "indices" : [ 0, 6 ],
       "id_str" : "37009756",
@@ -109,14 +109,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2950154352",
   "in_reply_to_user_id" : 37009756,
-  "text" : "@Fotuo 好幸福，好羡慕。",
+  "text" : "@Fotuo \u597D\u5E78\u798F\uFF0C\u597D\u7FA1\u6155\u3002",
   "id" : 2950154352,
   "in_reply_to_status_id" : 2950023886,
   "created_at" : "Fri Jul 31 12:30:21 +0000 2009",
   "in_reply_to_screen_name" : "Fotuo",
   "in_reply_to_user_id_str" : "37009756",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -135,11 +135,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2950149873",
-  "text" : "“为什么要给畜牲自由？它们一代代的命运就是套上枷锁，接受鞭挞。” -普希金 http://bit.ly/hMcAR\n 《活着，不带撒谎》",
+  "text" : "\u201C\u4E3A\u4EC0\u4E48\u8981\u7ED9\u755C\u7272\u81EA\u7531\uFF1F\u5B83\u4EEC\u4E00\u4EE3\u4EE3\u7684\u547D\u8FD0\u5C31\u662F\u5957\u4E0A\u67B7\u9501\uFF0C\u63A5\u53D7\u97AD\u631E\u3002\u201D -\u666E\u5E0C\u91D1 http://bit.ly/hMcAR\n \u300A\u6D3B\u7740\uFF0C\u4E0D\u5E26\u6492\u8C0E\u300B",
   "id" : 2950149873,
   "created_at" : "Fri Jul 31 12:30:01 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -158,11 +158,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2949456401",
-  "text" : "快捷启动 http://xbeta.info/win-run.htm",
+  "text" : "\u5FEB\u6377\u542F\u52A8 http://xbeta.info/win-run.htm",
   "id" : 2949456401,
   "created_at" : "Fri Jul 31 11:21:20 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -193,11 +193,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2949294322",
-  "text" : "RT @virushuo RT @jason5ng32: 绿色表示下跌,红色表示上涨.为什么中国股市的涨跌表示要跟大多数国家相反呢? //中国有什么事情是跟大多数国家不相反的吗？ //公司的一个报表设计也这样，我提出来，对方说：1，习惯了；2.传说红色对心脏不好，尤其是下跌这种事",
+  "text" : "RT @virushuo RT @jason5ng32: \u7EFF\u8272\u8868\u793A\u4E0B\u8DCC,\u7EA2\u8272\u8868\u793A\u4E0A\u6DA8.\u4E3A\u4EC0\u4E48\u4E2D\u56FD\u80A1\u5E02\u7684\u6DA8\u8DCC\u8868\u793A\u8981\u8DDF\u5927\u591A\u6570\u56FD\u5BB6\u76F8\u53CD\u5462? //\u4E2D\u56FD\u6709\u4EC0\u4E48\u4E8B\u60C5\u662F\u8DDF\u5927\u591A\u6570\u56FD\u5BB6\u4E0D\u76F8\u53CD\u7684\u5417\uFF1F //\u516C\u53F8\u7684\u4E00\u4E2A\u62A5\u8868\u8BBE\u8BA1\u4E5F\u8FD9\u6837\uFF0C\u6211\u63D0\u51FA\u6765\uFF0C\u5BF9\u65B9\u8BF4\uFF1A1\uFF0C\u4E60\u60EF\u4E86\uFF1B2.\u4F20\u8BF4\u7EA2\u8272\u5BF9\u5FC3\u810F\u4E0D\u597D\uFF0C\u5C24\u5176\u662F\u4E0B\u8DCC\u8FD9\u79CD\u4E8B",
   "id" : 2949294322,
   "created_at" : "Fri Jul 31 11:02:49 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -225,11 +225,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2949129981",
-  "text" : "请问 #gvim 打开url的命令是什么？ #vim , #vi , gvim都试过不行，用菜单的打开命令可以打开",
+  "text" : "\u8BF7\u95EE #gvim \u6253\u5F00url\u7684\u547D\u4EE4\u662F\u4EC0\u4E48\uFF1F #vim , #vi , gvim\u90FD\u8BD5\u8FC7\u4E0D\u884C\uFF0C\u7528\u83DC\u5355\u7684\u6253\u5F00\u547D\u4EE4\u53EF\u4EE5\u6253\u5F00",
   "id" : 2949129981,
   "created_at" : "Fri Jul 31 10:43:04 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -251,11 +251,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2943987991",
-  "text" : "上传文件时，浏览器应该为脚本语言提供文件大小、已上传字节数的API，这样做进度条要方便多少啊。 #browser",
+  "text" : "\u4E0A\u4F20\u6587\u4EF6\u65F6\uFF0C\u6D4F\u89C8\u5668\u5E94\u8BE5\u4E3A\u811A\u672C\u8BED\u8A00\u63D0\u4F9B\u6587\u4EF6\u5927\u5C0F\u3001\u5DF2\u4E0A\u4F20\u5B57\u8282\u6570\u7684API\uFF0C\u8FD9\u6837\u505A\u8FDB\u5EA6\u6761\u8981\u65B9\u4FBF\u591A\u5C11\u554A\u3002 #browser",
   "id" : 2943987991,
   "created_at" : "Fri Jul 31 03:07:46 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -282,14 +282,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2930711269",
   "in_reply_to_user_id" : 17775557,
-  "text" : "@daatoo 传说对胃有好处，另外是个磨牙的好方法。不知道能减肥不，不过俺不需要。",
+  "text" : "@daatoo \u4F20\u8BF4\u5BF9\u80C3\u6709\u597D\u5904\uFF0C\u53E6\u5916\u662F\u4E2A\u78E8\u7259\u7684\u597D\u65B9\u6CD5\u3002\u4E0D\u77E5\u9053\u80FD\u51CF\u80A5\u4E0D\uFF0C\u4E0D\u8FC7\u4FFA\u4E0D\u9700\u8981\u3002",
   "id" : 2930711269,
   "in_reply_to_status_id" : 2930659918,
   "created_at" : "Thu Jul 30 14:20:10 +0000 2009",
   "in_reply_to_screen_name" : "daatoo",
   "in_reply_to_user_id_str" : "17775557",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -308,11 +308,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2930637908",
-  "text" : "中午试了下嚼36下的吃饭方法，一开始数着好累，一口要吃好久的样子（虽然事实上就是好久），后来慢慢习惯了，把嘴里的嚼烂了在吞。有一块好硬的牛肉我足足嚼了90多下。",
+  "text" : "\u4E2D\u5348\u8BD5\u4E86\u4E0B\u56BC36\u4E0B\u7684\u5403\u996D\u65B9\u6CD5\uFF0C\u4E00\u5F00\u59CB\u6570\u7740\u597D\u7D2F\uFF0C\u4E00\u53E3\u8981\u5403\u597D\u4E45\u7684\u6837\u5B50\uFF08\u867D\u7136\u4E8B\u5B9E\u4E0A\u5C31\u662F\u597D\u4E45\uFF09\uFF0C\u540E\u6765\u6162\u6162\u4E60\u60EF\u4E86\uFF0C\u628A\u5634\u91CC\u7684\u56BC\u70C2\u4E86\u5728\u541E\u3002\u6709\u4E00\u5757\u597D\u786C\u7684\u725B\u8089\u6211\u8DB3\u8DB3\u56BC\u4E8690\u591A\u4E0B\u3002",
   "id" : 2930637908,
   "created_at" : "Thu Jul 30 14:15:35 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -334,11 +334,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2926285761",
-  "text" : "#Gmail 的reply all的labs也不见了？！以前不长用这功能，试用了几次就撤销了，现在公司邮件适合reply all，想启用却没了 - -!",
+  "text" : "#Gmail \u7684reply all\u7684labs\u4E5F\u4E0D\u89C1\u4E86\uFF1F\uFF01\u4EE5\u524D\u4E0D\u957F\u7528\u8FD9\u529F\u80FD\uFF0C\u8BD5\u7528\u4E86\u51E0\u6B21\u5C31\u64A4\u9500\u4E86\uFF0C\u73B0\u5728\u516C\u53F8\u90AE\u4EF6\u9002\u5408reply all\uFF0C\u60F3\u542F\u7528\u5374\u6CA1\u4E86 - -!",
   "id" : 2926285761,
   "created_at" : "Thu Jul 30 07:13:48 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -384,11 +384,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2908260926",
-  "text" : "RT @Thinkqob: RT @seansay: RT @sogoogle: RT @guxiaoqiang: http://twitpic.com/c0bt7 - 幼女行凶，正太含泪 #Orz //我记得另有一个字幕版的，对白配的很精彩",
+  "text" : "RT @Thinkqob: RT @seansay: RT @sogoogle: RT @guxiaoqiang: http://twitpic.com/c0bt7 - \u5E7C\u5973\u884C\u51F6\uFF0C\u6B63\u592A\u542B\u6CEA #Orz //\u6211\u8BB0\u5F97\u53E6\u6709\u4E00\u4E2A\u5B57\u5E55\u7248\u7684\uFF0C\u5BF9\u767D\u914D\u7684\u5F88\u7CBE\u5F69",
   "id" : 2908260926,
   "created_at" : "Wed Jul 29 11:53:20 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -412,7 +412,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "10759922",
       "id" : 10759922
     }, {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 29, 35 ],
       "id_str" : "20674328",
@@ -425,11 +425,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2908237882",
-  "text" : "RT @webcjz: RT @Thinkqob: RT @hotoo: 加旺旺好友跟加msn好友一样不靠谱，对方资料太少，无法判断有否加的价值，甚至无法判断是男女。//能问清楚商品 就行 又不是为了交友//通过人家的语言判断//我只买东西没开店，但是经常被加，不说话",
+  "text" : "RT @webcjz: RT @Thinkqob: RT @hotoo: \u52A0\u65FA\u65FA\u597D\u53CB\u8DDF\u52A0msn\u597D\u53CB\u4E00\u6837\u4E0D\u9760\u8C31\uFF0C\u5BF9\u65B9\u8D44\u6599\u592A\u5C11\uFF0C\u65E0\u6CD5\u5224\u65AD\u6709\u5426\u52A0\u7684\u4EF7\u503C\uFF0C\u751A\u81F3\u65E0\u6CD5\u5224\u65AD\u662F\u7537\u5973\u3002//\u80FD\u95EE\u6E05\u695A\u5546\u54C1 \u5C31\u884C \u53C8\u4E0D\u662F\u4E3A\u4E86\u4EA4\u53CB//\u901A\u8FC7\u4EBA\u5BB6\u7684\u8BED\u8A00\u5224\u65AD//\u6211\u53EA\u4E70\u4E1C\u897F\u6CA1\u5F00\u5E97\uFF0C\u4F46\u662F\u7ECF\u5E38\u88AB\u52A0\uFF0C\u4E0D\u8BF4\u8BDD",
   "id" : 2908237882,
   "created_at" : "Wed Jul 29 11:50:54 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -451,11 +451,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2908110382",
-  "text" : "不小心发现 http://bit.ly/4OsR9\n ... 边侧栏的支付宝专区有好几个 # 的链接 #taobao",
+  "text" : "\u4E0D\u5C0F\u5FC3\u53D1\u73B0 http://bit.ly/4OsR9\n ... \u8FB9\u4FA7\u680F\u7684\u652F\u4ED8\u5B9D\u4E13\u533A\u6709\u597D\u51E0\u4E2A # \u7684\u94FE\u63A5 #taobao",
   "id" : 2908110382,
   "created_at" : "Wed Jul 29 11:37:11 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -480,11 +480,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2908075630",
-  "text" : "RT @xjacks 用了一口咀嚼36下的方法吃饭才发现，之前我们给予胃的负担实在太重了，很多东西根本都没有充分咀嚼就咽了进去，牙齿基本上没有起到作用。以后要坚持细嚼慢咽！ //要嚼这么多下？！- -! 我都三下五除二狼吞虎咽的。",
+  "text" : "RT @xjacks \u7528\u4E86\u4E00\u53E3\u5480\u56BC36\u4E0B\u7684\u65B9\u6CD5\u5403\u996D\u624D\u53D1\u73B0\uFF0C\u4E4B\u524D\u6211\u4EEC\u7ED9\u4E88\u80C3\u7684\u8D1F\u62C5\u5B9E\u5728\u592A\u91CD\u4E86\uFF0C\u5F88\u591A\u4E1C\u897F\u6839\u672C\u90FD\u6CA1\u6709\u5145\u5206\u5480\u56BC\u5C31\u54BD\u4E86\u8FDB\u53BB\uFF0C\u7259\u9F7F\u57FA\u672C\u4E0A\u6CA1\u6709\u8D77\u5230\u4F5C\u7528\u3002\u4EE5\u540E\u8981\u575A\u6301\u7EC6\u56BC\u6162\u54BD\uFF01 //\u8981\u56BC\u8FD9\u4E48\u591A\u4E0B\uFF1F\uFF01- -! \u6211\u90FD\u4E09\u4E0B\u4E94\u9664\u4E8C\u72FC\u541E\u864E\u54BD\u7684\u3002",
   "id" : 2908075630,
   "created_at" : "Wed Jul 29 11:33:21 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -503,11 +503,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2907664086",
-  "text" : "加旺旺好友跟加msn好友一样不靠谱，对方资料太少，无法判断有否加的价值，甚至无法判断是男女。",
+  "text" : "\u52A0\u65FA\u65FA\u597D\u53CB\u8DDF\u52A0msn\u597D\u53CB\u4E00\u6837\u4E0D\u9760\u8C31\uFF0C\u5BF9\u65B9\u8D44\u6599\u592A\u5C11\uFF0C\u65E0\u6CD5\u5224\u65AD\u6709\u5426\u52A0\u7684\u4EF7\u503C\uFF0C\u751A\u81F3\u65E0\u6CD5\u5224\u65AD\u662F\u7537\u5973\u3002",
   "id" : 2907664086,
   "created_at" : "Wed Jul 29 10:45:46 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -526,11 +526,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2906942395",
-  "text" : "使用任何模拟的IE版本共存工具都靠不住，还是使用虚拟机或测试机才行，但是这么多版本，得装多少虚拟机或用多少测试机才行，对普通人来说，这也不靠谱。",
+  "text" : "\u4F7F\u7528\u4EFB\u4F55\u6A21\u62DF\u7684IE\u7248\u672C\u5171\u5B58\u5DE5\u5177\u90FD\u9760\u4E0D\u4F4F\uFF0C\u8FD8\u662F\u4F7F\u7528\u865A\u62DF\u673A\u6216\u6D4B\u8BD5\u673A\u624D\u884C\uFF0C\u4F46\u662F\u8FD9\u4E48\u591A\u7248\u672C\uFF0C\u5F97\u88C5\u591A\u5C11\u865A\u62DF\u673A\u6216\u7528\u591A\u5C11\u6D4B\u8BD5\u673A\u624D\u884C\uFF0C\u5BF9\u666E\u901A\u4EBA\u6765\u8BF4\uFF0C\u8FD9\u4E5F\u4E0D\u9760\u8C31\u3002",
   "id" : 2906942395,
   "created_at" : "Wed Jul 29 09:18:13 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -544,7 +544,7 @@ Grailbird.data.tweets_2009_07 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "极品评论",
+      "text" : "\u6781\u54C1\u8BC4\u8BBA",
       "indices" : [ 34, 39 ]
     } ],
     "urls" : [ ]
@@ -552,11 +552,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2905591387",
-  "text" : "快使用南山法院，哼哼哈嘿。 http://bit.ly/iHA22 #极品评论",
+  "text" : "\u5FEB\u4F7F\u7528\u5357\u5C71\u6CD5\u9662\uFF0C\u54FC\u54FC\u54C8\u563F\u3002 http://bit.ly/iHA22 #\u6781\u54C1\u8BC4\u8BBA",
   "id" : 2905591387,
   "created_at" : "Wed Jul 29 06:48:38 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -568,13 +568,13 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "佛陀",
+      "name" : "\u4F5B\u9640",
       "screen_name" : "Fotuo",
       "indices" : [ 3, 9 ],
       "id_str" : "37009756",
       "id" : 37009756
     }, {
-      "name" : "Fanny Lawren 梵婗 / 劉影",
+      "name" : "Fanny Lawren \u68B5\u5A57 / \u5289\u5F71",
       "screen_name" : "fannylawrenC",
       "indices" : [ 14, 27 ],
       "id_str" : "33281381",
@@ -587,11 +587,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2903703865",
-  "text" : "RT @Fotuo: RT @fannylawrenC Online = 網上，Offline = 什麼？//线上，线下。 //联机，离线",
+  "text" : "RT @Fotuo: RT @fannylawrenC Online = \u7DB2\u4E0A\uFF0COffline = \u4EC0\u9EBC\uFF1F//\u7EBF\u4E0A\uFF0C\u7EBF\u4E0B\u3002 //\u8054\u673A\uFF0C\u79BB\u7EBF",
   "id" : 2903703865,
   "created_at" : "Wed Jul 29 04:15:51 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -616,11 +616,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2892427638",
-  "text" : "#taobao 有些地方很奇怪的用了异步交互方式，而更奇怪的是，原生 #Firefox (无插件)可以正常执行这些异步请求，但是我日常使用的Profile总也得不到这些异步数据。因为Noscript允许了淘宝上所有的域，所以很可能是Adblock plus把这些内容当作广告屏蔽了",
+  "text" : "#taobao \u6709\u4E9B\u5730\u65B9\u5F88\u5947\u602A\u7684\u7528\u4E86\u5F02\u6B65\u4EA4\u4E92\u65B9\u5F0F\uFF0C\u800C\u66F4\u5947\u602A\u7684\u662F\uFF0C\u539F\u751F #Firefox (\u65E0\u63D2\u4EF6)\u53EF\u4EE5\u6B63\u5E38\u6267\u884C\u8FD9\u4E9B\u5F02\u6B65\u8BF7\u6C42\uFF0C\u4F46\u662F\u6211\u65E5\u5E38\u4F7F\u7528\u7684Profile\u603B\u4E5F\u5F97\u4E0D\u5230\u8FD9\u4E9B\u5F02\u6B65\u6570\u636E\u3002\u56E0\u4E3ANoscript\u5141\u8BB8\u4E86\u6DD8\u5B9D\u4E0A\u6240\u6709\u7684\u57DF\uFF0C\u6240\u4EE5\u5F88\u53EF\u80FD\u662FAdblock plus\u628A\u8FD9\u4E9B\u5185\u5BB9\u5F53\u4F5C\u5E7F\u544A\u5C4F\u853D\u4E86",
   "id" : 2892427638,
   "created_at" : "Tue Jul 28 16:23:52 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -642,11 +642,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2890084444",
-  "text" : "我的 #Twitter 头像“被”验证了",
+  "text" : "\u6211\u7684 #Twitter \u5934\u50CF\u201C\u88AB\u201D\u9A8C\u8BC1\u4E86",
   "id" : 2890084444,
   "created_at" : "Tue Jul 28 13:55:38 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -665,11 +665,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2889653045",
-  "text" : "经常看到评论里有“好文，收藏至20ju.com”的字样，总给我一种“超级不要脸”的错?觉。",
+  "text" : "\u7ECF\u5E38\u770B\u5230\u8BC4\u8BBA\u91CC\u6709\u201C\u597D\u6587\uFF0C\u6536\u85CF\u81F320ju.com\u201D\u7684\u5B57\u6837\uFF0C\u603B\u7ED9\u6211\u4E00\u79CD\u201C\u8D85\u7EA7\u4E0D\u8981\u8138\u201D\u7684\u9519?\u89C9\u3002",
   "id" : 2889653045,
   "created_at" : "Tue Jul 28 13:24:02 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -695,13 +695,13 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2887996747",
   "in_reply_to_user_id" : 16680753,
-  "text" : "@heely 你的头像是怎么回事，Firefox也搞什么活动？",
+  "text" : "@heely \u4F60\u7684\u5934\u50CF\u662F\u600E\u4E48\u56DE\u4E8B\uFF0CFirefox\u4E5F\u641E\u4EC0\u4E48\u6D3B\u52A8\uFF1F",
   "id" : 2887996747,
   "created_at" : "Tue Jul 28 10:43:11 +0000 2009",
   "in_reply_to_screen_name" : "heely",
   "in_reply_to_user_id_str" : "16680753",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -720,11 +720,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2886162118",
-  "text" : "我看旺旺上有一个不错的广告，点击后被默认的Firefox打开，这个广告页面alert说不支持非IE浏览器，然后就被导向到了另一个专门（但并不美观）的不支持提示页面。我想拷贝一下那个广告页面地址的机会都不给，这体验做的。",
+  "text" : "\u6211\u770B\u65FA\u65FA\u4E0A\u6709\u4E00\u4E2A\u4E0D\u9519\u7684\u5E7F\u544A\uFF0C\u70B9\u51FB\u540E\u88AB\u9ED8\u8BA4\u7684Firefox\u6253\u5F00\uFF0C\u8FD9\u4E2A\u5E7F\u544A\u9875\u9762alert\u8BF4\u4E0D\u652F\u6301\u975EIE\u6D4F\u89C8\u5668\uFF0C\u7136\u540E\u5C31\u88AB\u5BFC\u5411\u5230\u4E86\u53E6\u4E00\u4E2A\u4E13\u95E8\uFF08\u4F46\u5E76\u4E0D\u7F8E\u89C2\uFF09\u7684\u4E0D\u652F\u6301\u63D0\u793A\u9875\u9762\u3002\u6211\u60F3\u62F7\u8D1D\u4E00\u4E0B\u90A3\u4E2A\u5E7F\u544A\u9875\u9762\u5730\u5740\u7684\u673A\u4F1A\u90FD\u4E0D\u7ED9\uFF0C\u8FD9\u4F53\u9A8C\u505A\u7684\u3002",
   "id" : 2886162118,
   "created_at" : "Tue Jul 28 07:07:28 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -736,7 +736,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "王保平 玉伯  ♨",
+      "name" : "\u738B\u4FDD\u5E73 \u7389\u4F2F \uF8FF \u2668",
       "screen_name" : "lifesinger",
       "indices" : [ 0, 11 ],
       "id_str" : "16681326",
@@ -751,14 +751,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2884593283",
   "in_reply_to_user_id" : 16681326,
-  "text" : "@lifesinger 一般情况下，b替换成strong没什么问题，不过就语义来说，替换成strong还是em，这是一个问题。另外i比较特殊，在中文用户中也较少用，可以保留，也可以抛弃。",
+  "text" : "@lifesinger \u4E00\u822C\u60C5\u51B5\u4E0B\uFF0Cb\u66FF\u6362\u6210strong\u6CA1\u4EC0\u4E48\u95EE\u9898\uFF0C\u4E0D\u8FC7\u5C31\u8BED\u4E49\u6765\u8BF4\uFF0C\u66FF\u6362\u6210strong\u8FD8\u662Fem\uFF0C\u8FD9\u662F\u4E00\u4E2A\u95EE\u9898\u3002\u53E6\u5916i\u6BD4\u8F83\u7279\u6B8A\uFF0C\u5728\u4E2D\u6587\u7528\u6237\u4E2D\u4E5F\u8F83\u5C11\u7528\uFF0C\u53EF\u4EE5\u4FDD\u7559\uFF0C\u4E5F\u53EF\u4EE5\u629B\u5F03\u3002",
   "id" : 2884593283,
   "in_reply_to_status_id" : 2884440629,
   "created_at" : "Tue Jul 28 04:50:11 +0000 2009",
   "in_reply_to_screen_name" : "lifesinger",
   "in_reply_to_user_id_str" : "16681326",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -770,7 +770,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "王保平 玉伯  ♨",
+      "name" : "\u738B\u4FDD\u5E73 \u7389\u4F2F \uF8FF \u2668",
       "screen_name" : "lifesinger",
       "indices" : [ 0, 11 ],
       "id_str" : "16681326",
@@ -785,14 +785,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2884092761",
   "in_reply_to_user_id" : 16681326,
-  "text" : "@lifesinger 请给个例子，粗体但不是强调的。人们使用粗体，无非就是想强调一下吧。？",
+  "text" : "@lifesinger \u8BF7\u7ED9\u4E2A\u4F8B\u5B50\uFF0C\u7C97\u4F53\u4F46\u4E0D\u662F\u5F3A\u8C03\u7684\u3002\u4EBA\u4EEC\u4F7F\u7528\u7C97\u4F53\uFF0C\u65E0\u975E\u5C31\u662F\u60F3\u5F3A\u8C03\u4E00\u4E0B\u5427\u3002\uFF1F",
   "id" : 2884092761,
   "in_reply_to_status_id" : 2883948615,
   "created_at" : "Tue Jul 28 04:15:42 +0000 2009",
   "in_reply_to_screen_name" : "lifesinger",
   "in_reply_to_user_id_str" : "16681326",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -817,11 +817,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2869834131",
-  "text" : "RT @jeffz_cn 和IT168商量下来，他们会补充原文链接。另付交谈过程中对方部分反馈：那你觉得这文章不传播 只放在你得博客比较好？！那叫互联网吗？你可真逗，你看哪个网站转载附链接啊。你觉得挑起大家争议这件事很有意思吗？呵呵 做学问的人 不要沽名钓誉。//人至贱则无敌",
+  "text" : "RT @jeffz_cn \u548CIT168\u5546\u91CF\u4E0B\u6765\uFF0C\u4ED6\u4EEC\u4F1A\u8865\u5145\u539F\u6587\u94FE\u63A5\u3002\u53E6\u4ED8\u4EA4\u8C08\u8FC7\u7A0B\u4E2D\u5BF9\u65B9\u90E8\u5206\u53CD\u9988\uFF1A\u90A3\u4F60\u89C9\u5F97\u8FD9\u6587\u7AE0\u4E0D\u4F20\u64AD \u53EA\u653E\u5728\u4F60\u5F97\u535A\u5BA2\u6BD4\u8F83\u597D\uFF1F\uFF01\u90A3\u53EB\u4E92\u8054\u7F51\u5417\uFF1F\u4F60\u53EF\u771F\u9017\uFF0C\u4F60\u770B\u54EA\u4E2A\u7F51\u7AD9\u8F6C\u8F7D\u9644\u94FE\u63A5\u554A\u3002\u4F60\u89C9\u5F97\u6311\u8D77\u5927\u5BB6\u4E89\u8BAE\u8FD9\u4EF6\u4E8B\u5F88\u6709\u610F\u601D\u5417\uFF1F\u5475\u5475 \u505A\u5B66\u95EE\u7684\u4EBA \u4E0D\u8981\u6CBD\u540D\u9493\u8A89\u3002//\u4EBA\u81F3\u8D31\u5219\u65E0\u654C",
   "id" : 2869834131,
   "created_at" : "Mon Jul 27 13:02:21 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -849,11 +849,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2869123800",
-  "text" : "右键菜单的细节 http://bit.ly/17L3OB #blog #Design #UED",
+  "text" : "\u53F3\u952E\u83DC\u5355\u7684\u7EC6\u8282 http://bit.ly/17L3OB #blog #Design #UED",
   "id" : 2869123800,
   "created_at" : "Mon Jul 27 11:54:36 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "腾风无踪",
+      "name" : "\u817E\u98CE\u65E0\u8E2A",
       "screen_name" : "BreeStealth",
       "indices" : [ 0, 12 ],
       "id_str" : "18861097",
@@ -880,14 +880,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2853135313",
   "in_reply_to_user_id" : 18861097,
-  "text" : "@BreeStealth 不是译言的，不过不在乎是哪里的，在乎的是这种翻译风格。",
+  "text" : "@BreeStealth \u4E0D\u662F\u8BD1\u8A00\u7684\uFF0C\u4E0D\u8FC7\u4E0D\u5728\u4E4E\u662F\u54EA\u91CC\u7684\uFF0C\u5728\u4E4E\u7684\u662F\u8FD9\u79CD\u7FFB\u8BD1\u98CE\u683C\u3002",
   "id" : 2853135313,
   "in_reply_to_status_id" : 2852241354,
   "created_at" : "Sun Jul 26 13:50:55 +0000 2009",
   "in_reply_to_screen_name" : "BreeStealth",
   "in_reply_to_user_id_str" : "18861097",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -906,11 +906,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2852105356",
-  "text" : "在痛苦的看一篇译文，译者把原文和译文隔段呈现在读者的面前，应该说他尊重原著，还是不尊重呢？不过我觉得这样挺虐待读者的。",
+  "text" : "\u5728\u75DB\u82E6\u7684\u770B\u4E00\u7BC7\u8BD1\u6587\uFF0C\u8BD1\u8005\u628A\u539F\u6587\u548C\u8BD1\u6587\u9694\u6BB5\u5448\u73B0\u5728\u8BFB\u8005\u7684\u9762\u524D\uFF0C\u5E94\u8BE5\u8BF4\u4ED6\u5C0A\u91CD\u539F\u8457\uFF0C\u8FD8\u662F\u4E0D\u5C0A\u91CD\u5462\uFF1F\u4E0D\u8FC7\u6211\u89C9\u5F97\u8FD9\u6837\u633A\u8650\u5F85\u8BFB\u8005\u7684\u3002",
   "id" : 2852105356,
   "created_at" : "Sun Jul 26 11:40:03 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -929,11 +929,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2851709364",
-  "text" : "Google地图上搜的西城这边的陶瓷市场，我骑车转一下午都没找到，好不容易看到一个精品店面，可想而知是不会有我期望的那种大而粗糙的茶壶的。淘宝上有搜了下，杭州果然没有，看来只好从我们江西景德镇买一个了，喝大壶茶，我喜欢。",
+  "text" : "Google\u5730\u56FE\u4E0A\u641C\u7684\u897F\u57CE\u8FD9\u8FB9\u7684\u9676\u74F7\u5E02\u573A\uFF0C\u6211\u9A91\u8F66\u8F6C\u4E00\u4E0B\u5348\u90FD\u6CA1\u627E\u5230\uFF0C\u597D\u4E0D\u5BB9\u6613\u770B\u5230\u4E00\u4E2A\u7CBE\u54C1\u5E97\u9762\uFF0C\u53EF\u60F3\u800C\u77E5\u662F\u4E0D\u4F1A\u6709\u6211\u671F\u671B\u7684\u90A3\u79CD\u5927\u800C\u7C97\u7CD9\u7684\u8336\u58F6\u7684\u3002\u6DD8\u5B9D\u4E0A\u6709\u641C\u4E86\u4E0B\uFF0C\u676D\u5DDE\u679C\u7136\u6CA1\u6709\uFF0C\u770B\u6765\u53EA\u597D\u4ECE\u6211\u4EEC\u6C5F\u897F\u666F\u5FB7\u9547\u4E70\u4E00\u4E2A\u4E86\uFF0C\u559D\u5927\u58F6\u8336\uFF0C\u6211\u559C\u6B22\u3002",
   "id" : 2851709364,
   "created_at" : "Sun Jul 26 10:39:40 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -951,13 +951,13 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "5821872",
       "id" : 5821872
     }, {
-      "name" : "莫希",
+      "name" : "\u83AB\u5E0C",
       "screen_name" : "Terryxiao",
       "indices" : [ 19, 29 ],
       "id_str" : "23572399",
       "id" : 23572399
     }, {
-      "name" : "米兜",
+      "name" : "\u7C73\u515C",
       "screen_name" : "middle6",
       "indices" : [ 35, 43 ],
       "id_str" : "35711284",
@@ -970,11 +970,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2851611303",
-  "text" : "RT @buchimifan: RT @Terryxiao: RT: @middle6: “我在马路边撞倒一青年，把他交到警察叔叔手里边，叔叔拿了钱，才判我3年，我高兴地的说了声，叔叔再见。”",
+  "text" : "RT @buchimifan: RT @Terryxiao: RT: @middle6: \u201C\u6211\u5728\u9A6C\u8DEF\u8FB9\u649E\u5012\u4E00\u9752\u5E74\uFF0C\u628A\u4ED6\u4EA4\u5230\u8B66\u5BDF\u53D4\u53D4\u624B\u91CC\u8FB9\uFF0C\u53D4\u53D4\u62FF\u4E86\u94B1\uFF0C\u624D\u5224\u62113\u5E74\uFF0C\u6211\u9AD8\u5174\u5730\u7684\u8BF4\u4E86\u58F0\uFF0C\u53D4\u53D4\u518D\u89C1\u3002\u201D",
   "id" : 2851611303,
   "created_at" : "Sun Jul 26 10:25:16 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -993,11 +993,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2849718681",
-  "text" : "引导用户升级/切换浏览器 http://bit.ly/OoUVq",
+  "text" : "\u5F15\u5BFC\u7528\u6237\u5347\u7EA7/\u5207\u6362\u6D4F\u89C8\u5668 http://bit.ly/OoUVq",
   "id" : 2849718681,
   "created_at" : "Sun Jul 26 06:21:18 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1009,13 +1009,13 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "中文锐推榜机器人",
+      "name" : "\u4E2D\u6587\u9510\u63A8\u699C\u673A\u5668\u4EBA",
       "screen_name" : "rtmeme",
       "indices" : [ 3, 10 ],
       "id_str" : "20765944",
       "id" : 20765944
     }, {
-      "name" : "Wheat0r | 麦子",
+      "name" : "Wheat0r | \u9EA6\u5B50",
       "screen_name" : "wheat0r",
       "indices" : [ 15, 23 ],
       "id_str" : "18856412",
@@ -1028,11 +1028,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2847883012",
-  "text" : "RT @rtmeme: RT @wheat0r: 严重鄙视谷歌输入法自动联想下一个字的功能，因为这个倒霉功能，我的错别字不知多了多少 //同鄙视，这破功能还没法关 //取消选中“启用智能组句”即可",
+  "text" : "RT @rtmeme: RT @wheat0r: \u4E25\u91CD\u9119\u89C6\u8C37\u6B4C\u8F93\u5165\u6CD5\u81EA\u52A8\u8054\u60F3\u4E0B\u4E00\u4E2A\u5B57\u7684\u529F\u80FD\uFF0C\u56E0\u4E3A\u8FD9\u4E2A\u5012\u9709\u529F\u80FD\uFF0C\u6211\u7684\u9519\u522B\u5B57\u4E0D\u77E5\u591A\u4E86\u591A\u5C11 //\u540C\u9119\u89C6\uFF0C\u8FD9\u7834\u529F\u80FD\u8FD8\u6CA1\u6CD5\u5173 //\u53D6\u6D88\u9009\u4E2D\u201C\u542F\u7528\u667A\u80FD\u7EC4\u53E5\u201D\u5373\u53EF",
   "id" : 2847883012,
   "created_at" : "Sun Jul 26 03:44:30 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1044,7 +1044,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "强迫症ing",
+      "name" : "\u5F3A\u8FEB\u75C7ing",
       "screen_name" : "SnaiX",
       "indices" : [ 3, 9 ],
       "id_str" : "6253012",
@@ -1057,11 +1057,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2840610412",
-  "text" : "RT @SnaiX: 各位IT从业人员，如果你有个儿子，会希望（这里只是希望，不是强求）让他继续做计算机相关的事业么？//希望他（有能力）自己选择职业，家人的意见不要听太多，最重要的是不要随波逐流。",
+  "text" : "RT @SnaiX: \u5404\u4F4DIT\u4ECE\u4E1A\u4EBA\u5458\uFF0C\u5982\u679C\u4F60\u6709\u4E2A\u513F\u5B50\uFF0C\u4F1A\u5E0C\u671B\uFF08\u8FD9\u91CC\u53EA\u662F\u5E0C\u671B\uFF0C\u4E0D\u662F\u5F3A\u6C42\uFF09\u8BA9\u4ED6\u7EE7\u7EED\u505A\u8BA1\u7B97\u673A\u76F8\u5173\u7684\u4E8B\u4E1A\u4E48\uFF1F//\u5E0C\u671B\u4ED6\uFF08\u6709\u80FD\u529B\uFF09\u81EA\u5DF1\u9009\u62E9\u804C\u4E1A\uFF0C\u5BB6\u4EBA\u7684\u610F\u89C1\u4E0D\u8981\u542C\u592A\u591A\uFF0C\u6700\u91CD\u8981\u7684\u662F\u4E0D\u8981\u968F\u6CE2\u9010\u6D41\u3002",
   "id" : 2840610412,
   "created_at" : "Sat Jul 25 18:15:54 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1075,7 +1075,7 @@ Grailbird.data.tweets_2009_07 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "经典语录",
+      "text" : "\u7ECF\u5178\u8BED\u5F55",
       "indices" : [ 13, 18 ]
     } ],
     "urls" : [ ]
@@ -1083,11 +1083,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2834883163",
-  "text" : "纯，属虚构，乱，是佳人。 #经典语录",
+  "text" : "\u7EAF\uFF0C\u5C5E\u865A\u6784\uFF0C\u4E71\uFF0C\u662F\u4F73\u4EBA\u3002 #\u7ECF\u5178\u8BED\u5F55",
   "id" : 2834883163,
   "created_at" : "Sat Jul 25 08:29:05 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1106,11 +1106,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2834825863",
-  "text" : "在UCD书友会借了两本书，不过没找到想借的《应需而变——设计的力量》，杭州哪位朋友拿了没登记的，给我自动站出来。",
+  "text" : "\u5728UCD\u4E66\u53CB\u4F1A\u501F\u4E86\u4E24\u672C\u4E66\uFF0C\u4E0D\u8FC7\u6CA1\u627E\u5230\u60F3\u501F\u7684\u300A\u5E94\u9700\u800C\u53D8\u2014\u2014\u8BBE\u8BA1\u7684\u529B\u91CF\u300B\uFF0C\u676D\u5DDE\u54EA\u4F4D\u670B\u53CB\u62FF\u4E86\u6CA1\u767B\u8BB0\u7684\uFF0C\u7ED9\u6211\u81EA\u52A8\u7AD9\u51FA\u6765\u3002",
   "id" : 2834825863,
   "created_at" : "Sat Jul 25 08:21:24 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1129,11 +1129,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2820053962",
-  "text" : "虽然我不“赞同”强行拒绝IE6，但是“认同”推进Web及浏览器的发展进程。一直想做引导用户升级/切换浏览器的工作，现在是做些实事的时候了。我们承受的苦难太多了，朋友们，这是抉择的时刻，是你作出改变是时候了，为了我们，干杯！",
+  "text" : "\u867D\u7136\u6211\u4E0D\u201C\u8D5E\u540C\u201D\u5F3A\u884C\u62D2\u7EDDIE6\uFF0C\u4F46\u662F\u201C\u8BA4\u540C\u201D\u63A8\u8FDBWeb\u53CA\u6D4F\u89C8\u5668\u7684\u53D1\u5C55\u8FDB\u7A0B\u3002\u4E00\u76F4\u60F3\u505A\u5F15\u5BFC\u7528\u6237\u5347\u7EA7/\u5207\u6362\u6D4F\u89C8\u5668\u7684\u5DE5\u4F5C\uFF0C\u73B0\u5728\u662F\u505A\u4E9B\u5B9E\u4E8B\u7684\u65F6\u5019\u4E86\u3002\u6211\u4EEC\u627F\u53D7\u7684\u82E6\u96BE\u592A\u591A\u4E86\uFF0C\u670B\u53CB\u4EEC\uFF0C\u8FD9\u662F\u6289\u62E9\u7684\u65F6\u523B\uFF0C\u662F\u4F60\u4F5C\u51FA\u6539\u53D8\u662F\u65F6\u5019\u4E86\uFF0C\u4E3A\u4E86\u6211\u4EEC\uFF0C\u5E72\u676F\uFF01",
   "id" : 2820053962,
   "created_at" : "Fri Jul 24 15:21:57 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1152,11 +1152,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2818565130",
-  "text" : "我们唯一可以挂靠的，就是良心。 -- 许志永  http://bit.ly/b4iiI",
+  "text" : "\u6211\u4EEC\u552F\u4E00\u53EF\u4EE5\u6302\u9760\u7684\uFF0C\u5C31\u662F\u826F\u5FC3\u3002 -- \u8BB8\u5FD7\u6C38  http://bit.ly/b4iiI",
   "id" : 2818565130,
   "created_at" : "Fri Jul 24 13:50:48 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1175,11 +1175,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2817931381",
-  "text" : "我的IBM Thinkpad T60 FA7 最近启动的时候报警提示网络错误，BIOS也进不去，报警之后根据提示按Esc可以登录系统，哪位高人指点下？",
+  "text" : "\u6211\u7684IBM Thinkpad T60 FA7 \u6700\u8FD1\u542F\u52A8\u7684\u65F6\u5019\u62A5\u8B66\u63D0\u793A\u7F51\u7EDC\u9519\u8BEF\uFF0CBIOS\u4E5F\u8FDB\u4E0D\u53BB\uFF0C\u62A5\u8B66\u4E4B\u540E\u6839\u636E\u63D0\u793A\u6309Esc\u53EF\u4EE5\u767B\u5F55\u7CFB\u7EDF\uFF0C\u54EA\u4F4D\u9AD8\u4EBA\u6307\u70B9\u4E0B\uFF1F",
   "id" : 2817931381,
   "created_at" : "Fri Jul 24 13:05:15 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1204,11 +1204,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2816400303",
-  "text" : "RT @blacktulip 刚刚才醒悟过来，原来google搜索\"recursion\" 出来的“Did you mean: recursion” 非但不是bug，还是个很有创意的，很冷的笑话......真是牛啊 //很喜欢这样有内涵的幽默（即使这本身不是幽默）。",
+  "text" : "RT @blacktulip \u521A\u521A\u624D\u9192\u609F\u8FC7\u6765\uFF0C\u539F\u6765google\u641C\u7D22\"recursion\" \u51FA\u6765\u7684\u201CDid you mean: recursion\u201D \u975E\u4F46\u4E0D\u662Fbug\uFF0C\u8FD8\u662F\u4E2A\u5F88\u6709\u521B\u610F\u7684\uFF0C\u5F88\u51B7\u7684\u7B11\u8BDD......\u771F\u662F\u725B\u554A //\u5F88\u559C\u6B22\u8FD9\u6837\u6709\u5185\u6DB5\u7684\u5E7D\u9ED8\uFF08\u5373\u4F7F\u8FD9\u672C\u8EAB\u4E0D\u662F\u5E7D\u9ED8\uFF09\u3002",
   "id" : 2816400303,
   "created_at" : "Fri Jul 24 10:35:40 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1220,7 +1220,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "中文锐推榜机器人",
+      "name" : "\u4E2D\u6587\u9510\u63A8\u699C\u673A\u5668\u4EBA",
       "screen_name" : "rtmeme",
       "indices" : [ 0, 7 ],
       "id_str" : "20765944",
@@ -1235,14 +1235,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2816365077",
   "in_reply_to_user_id" : 20765944,
-  "text" : "@rtmeme 我操，吓死我了。",
+  "text" : "@rtmeme \u6211\u64CD\uFF0C\u5413\u6B7B\u6211\u4E86\u3002",
   "id" : 2816365077,
   "in_reply_to_status_id" : 2816259948,
   "created_at" : "Fri Jul 24 10:31:47 +0000 2009",
   "in_reply_to_screen_name" : "rtmeme",
   "in_reply_to_user_id_str" : "20765944",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1261,11 +1261,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2815991239",
-  "text" : "无语了，一上dabr就看到大片被RT的、自动打开的淫图，搞得我都不好意思在公司上dabr...",
+  "text" : "\u65E0\u8BED\u4E86\uFF0C\u4E00\u4E0Adabr\u5C31\u770B\u5230\u5927\u7247\u88ABRT\u7684\u3001\u81EA\u52A8\u6253\u5F00\u7684\u6DEB\u56FE\uFF0C\u641E\u5F97\u6211\u90FD\u4E0D\u597D\u610F\u601D\u5728\u516C\u53F8\u4E0Adabr...",
   "id" : 2815991239,
   "created_at" : "Fri Jul 24 09:47:29 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1284,11 +1284,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2815959013",
-  "text" : "今天开会我很不开心很不耐烦，一帮家伙在自我意淫；我的话经常被硬性打断，某些人的讲话的欲望太强烈了，令人无语。",
+  "text" : "\u4ECA\u5929\u5F00\u4F1A\u6211\u5F88\u4E0D\u5F00\u5FC3\u5F88\u4E0D\u8010\u70E6\uFF0C\u4E00\u5E2E\u5BB6\u4F19\u5728\u81EA\u6211\u610F\u6DEB\uFF1B\u6211\u7684\u8BDD\u7ECF\u5E38\u88AB\u786C\u6027\u6253\u65AD\uFF0C\u67D0\u4E9B\u4EBA\u7684\u8BB2\u8BDD\u7684\u6B32\u671B\u592A\u5F3A\u70C8\u4E86\uFF0C\u4EE4\u4EBA\u65E0\u8BED\u3002",
   "id" : 2815959013,
   "created_at" : "Fri Jul 24 09:43:22 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1310,11 +1310,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2810132913",
-  "text" : "#Gmail 的新功能 http://www.flickr.com/photos/hotoo/3751147384/",
+  "text" : "#Gmail \u7684\u65B0\u529F\u80FD http://www.flickr.com/photos/hotoo/3751147384/",
   "id" : 2810132913,
   "created_at" : "Fri Jul 24 01:49:55 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1341,14 +1341,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2800456535",
   "in_reply_to_user_id" : 19815242,
-  "text" : "@shawphy 登录加载的页面有更新，可能是更新的时候把这段给弄丢了，以前是有提示的。",
+  "text" : "@shawphy \u767B\u5F55\u52A0\u8F7D\u7684\u9875\u9762\u6709\u66F4\u65B0\uFF0C\u53EF\u80FD\u662F\u66F4\u65B0\u7684\u65F6\u5019\u628A\u8FD9\u6BB5\u7ED9\u5F04\u4E22\u4E86\uFF0C\u4EE5\u524D\u662F\u6709\u63D0\u793A\u7684\u3002",
   "id" : 2800456535,
   "in_reply_to_status_id" : 2800278346,
   "created_at" : "Thu Jul 23 16:03:57 +0000 2009",
   "in_reply_to_screen_name" : "shawphy",
   "in_reply_to_user_id_str" : "19815242",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1367,11 +1367,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2796348716",
-  "text" : "插队还是占座，这从来都不是一个问题。",
+  "text" : "\u63D2\u961F\u8FD8\u662F\u5360\u5EA7\uFF0C\u8FD9\u4ECE\u6765\u90FD\u4E0D\u662F\u4E00\u4E2A\u95EE\u9898\u3002",
   "id" : 2796348716,
   "created_at" : "Thu Jul 23 11:00:34 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1393,11 +1393,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2796101309",
-  "text" : "♜♞♝♛♚♝♞♜ ♟♟♟♟♟♟♟♟ ♙♙♙♙♙♙♙♙ ♖♘♗♕♔♗♘♖ #TextFace",
+  "text" : "\u265C\u265E\u265D\u265B\u265A\u265D\u265E\u265C \u265F\u265F\u265F\u265F\u265F\u265F\u265F\u265F \u2659\u2659\u2659\u2659\u2659\u2659\u2659\u2659 \u2656\u2658\u2657\u2655\u2654\u2657\u2658\u2656 #TextFace",
   "id" : 2796101309,
   "created_at" : "Thu Jul 23 10:31:20 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1416,11 +1416,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2794896873",
-  "text" : "- -! 有一封老大发来的邮件被自动标识为垃圾邮件了，还好只是一个人事通知。",
+  "text" : "- -! \u6709\u4E00\u5C01\u8001\u5927\u53D1\u6765\u7684\u90AE\u4EF6\u88AB\u81EA\u52A8\u6807\u8BC6\u4E3A\u5783\u573E\u90AE\u4EF6\u4E86\uFF0C\u8FD8\u597D\u53EA\u662F\u4E00\u4E2A\u4EBA\u4E8B\u901A\u77E5\u3002",
   "id" : 2794896873,
   "created_at" : "Thu Jul 23 08:05:24 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1447,14 +1447,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2794435269",
   "in_reply_to_user_id" : 16680753,
-  "text" : "@heely 恩，可回顾性很重要。我现在的基本只是记录了做的事情列表，就像流水帐一样，没有什么实际有效的意义。",
+  "text" : "@heely \u6069\uFF0C\u53EF\u56DE\u987E\u6027\u5F88\u91CD\u8981\u3002\u6211\u73B0\u5728\u7684\u57FA\u672C\u53EA\u662F\u8BB0\u5F55\u4E86\u505A\u7684\u4E8B\u60C5\u5217\u8868\uFF0C\u5C31\u50CF\u6D41\u6C34\u5E10\u4E00\u6837\uFF0C\u6CA1\u6709\u4EC0\u4E48\u5B9E\u9645\u6709\u6548\u7684\u610F\u4E49\u3002",
   "id" : 2794435269,
   "in_reply_to_status_id" : 2793789867,
   "created_at" : "Thu Jul 23 07:15:24 +0000 2009",
   "in_reply_to_screen_name" : "heely",
   "in_reply_to_user_id_str" : "16680753",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1481,14 +1481,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2793112381",
   "in_reply_to_user_id" : 16680753,
-  "text" : "@heely 我觉得写周报挺干巴巴的，自己写着不爽，别人看着应该也难受。所以想看是否能提高或做些转变。",
+  "text" : "@heely \u6211\u89C9\u5F97\u5199\u5468\u62A5\u633A\u5E72\u5DF4\u5DF4\u7684\uFF0C\u81EA\u5DF1\u5199\u7740\u4E0D\u723D\uFF0C\u522B\u4EBA\u770B\u7740\u5E94\u8BE5\u4E5F\u96BE\u53D7\u3002\u6240\u4EE5\u60F3\u770B\u662F\u5426\u80FD\u63D0\u9AD8\u6216\u505A\u4E9B\u8F6C\u53D8\u3002",
   "id" : 2793112381,
   "in_reply_to_status_id" : 2791265308,
   "created_at" : "Thu Jul 23 05:14:19 +0000 2009",
   "in_reply_to_screen_name" : "heely",
   "in_reply_to_user_id_str" : "16680753",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1515,14 +1515,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2791180922",
   "in_reply_to_user_id" : 16680753,
-  "text" : "@heely 不知道可不可以弄几篇样本出来学习一下？",
+  "text" : "@heely \u4E0D\u77E5\u9053\u53EF\u4E0D\u53EF\u4EE5\u5F04\u51E0\u7BC7\u6837\u672C\u51FA\u6765\u5B66\u4E60\u4E00\u4E0B\uFF1F",
   "id" : 2791180922,
   "in_reply_to_status_id" : 2790612257,
   "created_at" : "Thu Jul 23 03:06:27 +0000 2009",
   "in_reply_to_screen_name" : "heely",
   "in_reply_to_user_id_str" : "16680753",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1540,7 +1540,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "17612854",
       "id" : 17612854
     }, {
-      "name" : "困兽",
+      "name" : "\u56F0\u517D",
       "screen_name" : "Kunshou",
       "indices" : [ 17, 25 ],
       "id_str" : "754053",
@@ -1553,11 +1553,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2789605335",
-  "text" : "RT @plidezus: RT @kunshou 广电总局:不得随意编纂神话传奇故事 - http://bit.ly/4xxLDm //完了，不能创新，只能守旧，不能超越老祖宗，其何曾想过，当年的老祖宗在当时如果也有现在的广电，也是在“随意编造神话传奇故事”。连艺术形式 ...",
+  "text" : "RT @plidezus: RT @kunshou \u5E7F\u7535\u603B\u5C40:\u4E0D\u5F97\u968F\u610F\u7F16\u7E82\u795E\u8BDD\u4F20\u5947\u6545\u4E8B - http://bit.ly/4xxLDm //\u5B8C\u4E86\uFF0C\u4E0D\u80FD\u521B\u65B0\uFF0C\u53EA\u80FD\u5B88\u65E7\uFF0C\u4E0D\u80FD\u8D85\u8D8A\u8001\u7956\u5B97\uFF0C\u5176\u4F55\u66FE\u60F3\u8FC7\uFF0C\u5F53\u5E74\u7684\u8001\u7956\u5B97\u5728\u5F53\u65F6\u5982\u679C\u4E5F\u6709\u73B0\u5728\u7684\u5E7F\u7535\uFF0C\u4E5F\u662F\u5728\u201C\u968F\u610F\u7F16\u9020\u795E\u8BDD\u4F20\u5947\u6545\u4E8B\u201D\u3002\u8FDE\u827A\u672F\u5F62\u5F0F ...",
   "id" : 2789605335,
   "created_at" : "Thu Jul 23 01:32:23 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1582,11 +1582,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2779556479",
-  "text" : "#php 有没有办法判断客户端是否支持 #html5 ?",
+  "text" : "#php \u6709\u6CA1\u6709\u529E\u6CD5\u5224\u65AD\u5BA2\u6237\u7AEF\u662F\u5426\u652F\u6301 #html5 ?",
   "id" : 2779556479,
   "created_at" : "Wed Jul 22 15:32:16 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1605,11 +1605,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2774371129",
-  "text" : "一不小心在公司机器上第一次启动了msn，这垃圾每次都随机启动，不用一个账户登录进去就没法取消随机启动设置。",
+  "text" : "\u4E00\u4E0D\u5C0F\u5FC3\u5728\u516C\u53F8\u673A\u5668\u4E0A\u7B2C\u4E00\u6B21\u542F\u52A8\u4E86msn\uFF0C\u8FD9\u5783\u573E\u6BCF\u6B21\u90FD\u968F\u673A\u542F\u52A8\uFF0C\u4E0D\u7528\u4E00\u4E2A\u8D26\u6237\u767B\u5F55\u8FDB\u53BB\u5C31\u6CA1\u6CD5\u53D6\u6D88\u968F\u673A\u542F\u52A8\u8BBE\u7F6E\u3002",
   "id" : 2774371129,
   "created_at" : "Wed Jul 22 07:41:27 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1640,11 +1640,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2749366768",
-  "text" : "RT @Fenng 李开复老师说的. Retweet @kaifulee: 有些用户的google菜单今天会有新的东西出现。大家可以上g.cn试试看。 //不知道是不是“问答”和“来吧”？",
+  "text" : "RT @Fenng \u674E\u5F00\u590D\u8001\u5E08\u8BF4\u7684. Retweet @kaifulee: \u6709\u4E9B\u7528\u6237\u7684google\u83DC\u5355\u4ECA\u5929\u4F1A\u6709\u65B0\u7684\u4E1C\u897F\u51FA\u73B0\u3002\u5927\u5BB6\u53EF\u4EE5\u4E0Ag.cn\u8BD5\u8BD5\u770B\u3002 //\u4E0D\u77E5\u9053\u662F\u4E0D\u662F\u201C\u95EE\u7B54\u201D\u548C\u201C\u6765\u5427\u201D\uFF1F",
   "id" : 2749366768,
   "created_at" : "Tue Jul 21 01:17:31 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1663,11 +1663,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2742383491",
-  "text" : "经常有人把我的网名写成“闲耕”， 囧。",
+  "text" : "\u7ECF\u5E38\u6709\u4EBA\u628A\u6211\u7684\u7F51\u540D\u5199\u6210\u201C\u95F2\u8015\u201D\uFF0C \u56E7\u3002",
   "id" : 2742383491,
   "created_at" : "Mon Jul 20 17:49:26 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1679,7 +1679,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "中文锐推榜机器人",
+      "name" : "\u4E2D\u6587\u9510\u63A8\u699C\u673A\u5668\u4EBA",
       "screen_name" : "rtmeme",
       "indices" : [ 3, 10 ],
       "id_str" : "20765944",
@@ -1698,11 +1698,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2741192828",
-  "text" : "RT @rtmeme: RT @wingoffire: 新华社要把地球管起来～杭州实拍http://livehouse.cn/?p=595 //看来是真的，牛逼啊，伟大。希特勒当年大概还不及此。",
+  "text" : "RT @rtmeme: RT @wingoffire: \u65B0\u534E\u793E\u8981\u628A\u5730\u7403\u7BA1\u8D77\u6765\uFF5E\u676D\u5DDE\u5B9E\u62CDhttp://livehouse.cn/?p=595 //\u770B\u6765\u662F\u771F\u7684\uFF0C\u725B\u903C\u554A\uFF0C\u4F1F\u5927\u3002\u5E0C\u7279\u52D2\u5F53\u5E74\u5927\u6982\u8FD8\u4E0D\u53CA\u6B64\u3002",
   "id" : 2741192828,
   "created_at" : "Mon Jul 20 16:34:24 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1727,11 +1727,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2735034880",
-  "text" : "#Google 被墙之后，不翻墙要搜点东西真不容易。 #GFW",
+  "text" : "#Google \u88AB\u5899\u4E4B\u540E\uFF0C\u4E0D\u7FFB\u5899\u8981\u641C\u70B9\u4E1C\u897F\u771F\u4E0D\u5BB9\u6613\u3002 #GFW",
   "id" : 2735034880,
   "created_at" : "Mon Jul 20 07:05:51 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1743,7 +1743,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "稻草",
+      "name" : "\u7A3B\u8349",
       "screen_name" : "milkr",
       "indices" : [ 0, 6 ],
       "id_str" : "4183391",
@@ -1758,14 +1758,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2734407983",
   "in_reply_to_user_id" : 4183391,
-  "text" : "@milkr 借的时候说不要押金的，那次都没给，时间也没说限制的。不会说还书的时候要收逾期费用吧 - -!",
+  "text" : "@milkr \u501F\u7684\u65F6\u5019\u8BF4\u4E0D\u8981\u62BC\u91D1\u7684\uFF0C\u90A3\u6B21\u90FD\u6CA1\u7ED9\uFF0C\u65F6\u95F4\u4E5F\u6CA1\u8BF4\u9650\u5236\u7684\u3002\u4E0D\u4F1A\u8BF4\u8FD8\u4E66\u7684\u65F6\u5019\u8981\u6536\u903E\u671F\u8D39\u7528\u5427 - -!",
   "id" : 2734407983,
   "in_reply_to_status_id" : 2730877530,
   "created_at" : "Mon Jul 20 06:00:27 +0000 2009",
   "in_reply_to_screen_name" : "milkr",
   "in_reply_to_user_id_str" : "4183391",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1784,11 +1784,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2730844084",
-  "text" : "上周查了半天的灵异问题，这周一来就没有了，是浏览器缓存的缘故吧？这个真害死人啊。",
+  "text" : "\u4E0A\u5468\u67E5\u4E86\u534A\u5929\u7684\u7075\u5F02\u95EE\u9898\uFF0C\u8FD9\u5468\u4E00\u6765\u5C31\u6CA1\u6709\u4E86\uFF0C\u662F\u6D4F\u89C8\u5668\u7F13\u5B58\u7684\u7F18\u6545\u5427\uFF1F\u8FD9\u4E2A\u771F\u5BB3\u6B7B\u4EBA\u554A\u3002",
   "id" : 2730844084,
   "created_at" : "Mon Jul 20 01:32:34 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1800,7 +1800,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "稻草",
+      "name" : "\u7A3B\u8349",
       "screen_name" : "milkr",
       "indices" : [ 0, 6 ],
       "id_str" : "4183391",
@@ -1815,14 +1815,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2730819590",
   "in_reply_to_user_id" : 4183391,
-  "text" : "@milkr 什么规矩？",
+  "text" : "@milkr \u4EC0\u4E48\u89C4\u77E9\uFF1F",
   "id" : 2730819590,
   "in_reply_to_status_id" : 2730778511,
   "created_at" : "Mon Jul 20 01:30:49 +0000 2009",
   "in_reply_to_screen_name" : "milkr",
   "in_reply_to_user_id_str" : "4183391",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1841,11 +1841,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2730513805",
-  "text" : "发现老家九江（庐山部分）的卫星地图更新了，缩放级别可以达到国内最高（18级，国际最高19级）。",
+  "text" : "\u53D1\u73B0\u8001\u5BB6\u4E5D\u6C5F\uFF08\u5E90\u5C71\u90E8\u5206\uFF09\u7684\u536B\u661F\u5730\u56FE\u66F4\u65B0\u4E86\uFF0C\u7F29\u653E\u7EA7\u522B\u53EF\u4EE5\u8FBE\u5230\u56FD\u5185\u6700\u9AD8\uFF0818\u7EA7\uFF0C\u56FD\u9645\u6700\u9AD819\u7EA7\uFF09\u3002",
   "id" : 2730513805,
   "created_at" : "Mon Jul 20 01:08:46 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1870,11 +1870,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2730348483",
-  "text" : "RT @alpha000001: 现在是做公民安全呢？ 还是做网民安全？看来需要选择个安全的身份来做。 //都不安全，火星上还没有政治，比较安全。",
+  "text" : "RT @alpha000001: \u73B0\u5728\u662F\u505A\u516C\u6C11\u5B89\u5168\u5462\uFF1F \u8FD8\u662F\u505A\u7F51\u6C11\u5B89\u5168\uFF1F\u770B\u6765\u9700\u8981\u9009\u62E9\u4E2A\u5B89\u5168\u7684\u8EAB\u4EFD\u6765\u505A\u3002 //\u90FD\u4E0D\u5B89\u5168\uFF0C\u706B\u661F\u4E0A\u8FD8\u6CA1\u6709\u653F\u6CBB\uFF0C\u6BD4\u8F83\u5B89\u5168\u3002",
   "id" : 2730348483,
   "created_at" : "Mon Jul 20 00:57:04 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1896,11 +1896,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2723585214",
-  "text" : "MD #Wordpress 2.8的标签输入框更烂了，讽刺的是我在看了某篇点评文章说标签有某某改进才决定升级的。",
+  "text" : "MD #Wordpress 2.8\u7684\u6807\u7B7E\u8F93\u5165\u6846\u66F4\u70C2\u4E86\uFF0C\u8BBD\u523A\u7684\u662F\u6211\u5728\u770B\u4E86\u67D0\u7BC7\u70B9\u8BC4\u6587\u7AE0\u8BF4\u6807\u7B7E\u6709\u67D0\u67D0\u6539\u8FDB\u624D\u51B3\u5B9A\u5347\u7EA7\u7684\u3002",
   "id" : 2723585214,
   "created_at" : "Sun Jul 19 16:13:58 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1919,11 +1919,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2722637025",
-  "text" : "吃饭的时候听到有人谈论百度，谷歌，有道等搜索引擎，还涉及到有啊，穿休闲运动装，看不出什么职业，应该是那种至少懂一些的“内行”。",
+  "text" : "\u5403\u996D\u7684\u65F6\u5019\u542C\u5230\u6709\u4EBA\u8C08\u8BBA\u767E\u5EA6\uFF0C\u8C37\u6B4C\uFF0C\u6709\u9053\u7B49\u641C\u7D22\u5F15\u64CE\uFF0C\u8FD8\u6D89\u53CA\u5230\u6709\u554A\uFF0C\u7A7F\u4F11\u95F2\u8FD0\u52A8\u88C5\uFF0C\u770B\u4E0D\u51FA\u4EC0\u4E48\u804C\u4E1A\uFF0C\u5E94\u8BE5\u662F\u90A3\u79CD\u81F3\u5C11\u61C2\u4E00\u4E9B\u7684\u201C\u5185\u884C\u201D\u3002",
   "id" : 2722637025,
   "created_at" : "Sun Jul 19 14:52:03 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "稻草",
+      "name" : "\u7A3B\u8349",
       "screen_name" : "milkr",
       "indices" : [ 0, 6 ],
       "id_str" : "4183391",
@@ -1949,13 +1949,13 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2721366691",
   "in_reply_to_user_id" : 4183391,
-  "text" : "@milkr 上次在ucd书友会借了本书，请问是在哪里还的，betacafe吗？任何时候都可以借/还吗（不需要是书友会讨论话题的时候）？",
+  "text" : "@milkr \u4E0A\u6B21\u5728ucd\u4E66\u53CB\u4F1A\u501F\u4E86\u672C\u4E66\uFF0C\u8BF7\u95EE\u662F\u5728\u54EA\u91CC\u8FD8\u7684\uFF0Cbetacafe\u5417\uFF1F\u4EFB\u4F55\u65F6\u5019\u90FD\u53EF\u4EE5\u501F/\u8FD8\u5417\uFF08\u4E0D\u9700\u8981\u662F\u4E66\u53CB\u4F1A\u8BA8\u8BBA\u8BDD\u9898\u7684\u65F6\u5019\uFF09\uFF1F",
   "id" : 2721366691,
   "created_at" : "Sun Jul 19 12:30:27 +0000 2009",
   "in_reply_to_screen_name" : "milkr",
   "in_reply_to_user_id_str" : "4183391",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1974,11 +1974,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2720642011",
-  "text" : "山寨版改革开放三十年伟大成就总结 http://bit.ly/4xVurr",
+  "text" : "\u5C71\u5BE8\u7248\u6539\u9769\u5F00\u653E\u4E09\u5341\u5E74\u4F1F\u5927\u6210\u5C31\u603B\u7ED3 http://bit.ly/4xVurr",
   "id" : 2720642011,
   "created_at" : "Sun Jul 19 10:48:10 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -1990,7 +1990,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 0, 6 ],
       "id_str" : "20674328",
@@ -2005,14 +2005,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2720339445",
   "in_reply_to_user_id" : 20674328,
-  "text" : "@hotoo 一壶浊酒喜相逢，古今多少事，都付笑谈中。",
+  "text" : "@hotoo \u4E00\u58F6\u6D4A\u9152\u559C\u76F8\u9022\uFF0C\u53E4\u4ECA\u591A\u5C11\u4E8B\uFF0C\u90FD\u4ED8\u7B11\u8C08\u4E2D\u3002",
   "id" : 2720339445,
   "in_reply_to_status_id" : 2720331661,
   "created_at" : "Sun Jul 19 10:02:14 +0000 2009",
   "in_reply_to_screen_name" : "hotoo",
   "in_reply_to_user_id_str" : "20674328",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2031,11 +2031,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2720331661",
-  "text" : "明明是“蒋介石曾孙蒋友柏宣扬普世价值，提倡开放、博爱的思想，民主的政策”，这篇文章却把标题写成“蒋介石曾孙蒋友柏坦承蒋介石曾杀害一千万中国人”，真是无耻 http://bit.ly/ZYVOK",
+  "text" : "\u660E\u660E\u662F\u201C\u848B\u4ECB\u77F3\u66FE\u5B59\u848B\u53CB\u67CF\u5BA3\u626C\u666E\u4E16\u4EF7\u503C\uFF0C\u63D0\u5021\u5F00\u653E\u3001\u535A\u7231\u7684\u601D\u60F3\uFF0C\u6C11\u4E3B\u7684\u653F\u7B56\u201D\uFF0C\u8FD9\u7BC7\u6587\u7AE0\u5374\u628A\u6807\u9898\u5199\u6210\u201C\u848B\u4ECB\u77F3\u66FE\u5B59\u848B\u53CB\u67CF\u5766\u627F\u848B\u4ECB\u77F3\u66FE\u6740\u5BB3\u4E00\u5343\u4E07\u4E2D\u56FD\u4EBA\u201D\uFF0C\u771F\u662F\u65E0\u803B http://bit.ly/ZYVOK",
   "id" : 2720331661,
   "created_at" : "Sun Jul 19 10:01:05 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "坏人",
+      "name" : "\u574F\u4EBA",
       "screen_name" : "huairen",
       "indices" : [ 3, 11 ],
       "id_str" : "17886815",
@@ -2060,11 +2060,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2720027883",
-  "text" : "RT @huairen: 杭州书友会精彩话题（本期讨论群组）：白鸦，人和内容质量，决定评价群组质量的意义。蚂蚁，专业性，市场细分，群组从功能上更加注重参与者基本需求。坏人，传达性上，直达，更便利。（邮箱载体的便利优势）。//倒，忘记参加书友会了。",
+  "text" : "RT @huairen: \u676D\u5DDE\u4E66\u53CB\u4F1A\u7CBE\u5F69\u8BDD\u9898\uFF08\u672C\u671F\u8BA8\u8BBA\u7FA4\u7EC4\uFF09\uFF1A\u767D\u9E26\uFF0C\u4EBA\u548C\u5185\u5BB9\u8D28\u91CF\uFF0C\u51B3\u5B9A\u8BC4\u4EF7\u7FA4\u7EC4\u8D28\u91CF\u7684\u610F\u4E49\u3002\u8682\u8681\uFF0C\u4E13\u4E1A\u6027\uFF0C\u5E02\u573A\u7EC6\u5206\uFF0C\u7FA4\u7EC4\u4ECE\u529F\u80FD\u4E0A\u66F4\u52A0\u6CE8\u91CD\u53C2\u4E0E\u8005\u57FA\u672C\u9700\u6C42\u3002\u574F\u4EBA\uFF0C\u4F20\u8FBE\u6027\u4E0A\uFF0C\u76F4\u8FBE\uFF0C\u66F4\u4FBF\u5229\u3002\uFF08\u90AE\u7BB1\u8F7D\u4F53\u7684\u4FBF\u5229\u4F18\u52BF\uFF09\u3002//\u5012\uFF0C\u5FD8\u8BB0\u53C2\u52A0\u4E66\u53CB\u4F1A\u4E86\u3002",
   "id" : 2720027883,
   "created_at" : "Sun Jul 19 09:16:51 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2076,13 +2076,13 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ratoo Li ",
+      "name" : "Ratoo Li \uF8FF",
       "screen_name" : "Ratoo",
       "indices" : [ 3, 9 ],
       "id_str" : "17751597",
       "id" : 17751597
     }, {
-      "name" : "fisio ",
+      "name" : "fisio \uF8FF",
       "screen_name" : "fisio",
       "indices" : [ 11, 17 ],
       "id_str" : "15356284",
@@ -2095,11 +2095,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2720007231",
-  "text" : "RT @Ratoo: @fisio http://twitpic.com/av5e3 - 速度真快…… //果然&lt;strong&gt;，女式的标签应该用&lt;b&gt;",
+  "text" : "RT @Ratoo: @fisio http://twitpic.com/av5e3 - \u901F\u5EA6\u771F\u5FEB\u2026\u2026 //\u679C\u7136&lt;strong&gt;\uFF0C\u5973\u5F0F\u7684\u6807\u7B7E\u5E94\u8BE5\u7528&lt;b&gt;",
   "id" : 2720007231,
   "created_at" : "Sun Jul 19 09:14:03 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2111,13 +2111,13 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "佐拉Ⓥ",
+      "name" : "\u4F50\u62C9\u24CB",
       "screen_name" : "zuola",
       "indices" : [ 3, 9 ],
       "id_str" : "5397942",
       "id" : 5397942
     }, {
-      "name" : "北风（温云超）",
+      "name" : "\u5317\u98CE\uFF08\u6E29\u4E91\u8D85\uFF09",
       "screen_name" : "wenyunchao",
       "indices" : [ 80, 91 ],
       "id_str" : "14581421",
@@ -2130,11 +2130,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2719949839",
-  "text" : "RT @zuola: 关注白云山郊游者被警察骚扰事件。登山者白色T恤写着：一党独裁，遍地是灾——新华日报1942的字样。9人已被警察带去派出所。更多消息请关注 @wenyunchao //1942年新华社有发表这种言论的自由或勇气，但是现在却没有，这是历史的倒退还是新华社的倒退？",
+  "text" : "RT @zuola: \u5173\u6CE8\u767D\u4E91\u5C71\u90CA\u6E38\u8005\u88AB\u8B66\u5BDF\u9A9A\u6270\u4E8B\u4EF6\u3002\u767B\u5C71\u8005\u767D\u8272T\u6064\u5199\u7740\uFF1A\u4E00\u515A\u72EC\u88C1\uFF0C\u904D\u5730\u662F\u707E\u2014\u2014\u65B0\u534E\u65E5\u62A51942\u7684\u5B57\u6837\u30029\u4EBA\u5DF2\u88AB\u8B66\u5BDF\u5E26\u53BB\u6D3E\u51FA\u6240\u3002\u66F4\u591A\u6D88\u606F\u8BF7\u5173\u6CE8 @wenyunchao //1942\u5E74\u65B0\u534E\u793E\u6709\u53D1\u8868\u8FD9\u79CD\u8A00\u8BBA\u7684\u81EA\u7531\u6216\u52C7\u6C14\uFF0C\u4F46\u662F\u73B0\u5728\u5374\u6CA1\u6709\uFF0C\u8FD9\u662F\u5386\u53F2\u7684\u5012\u9000\u8FD8\u662F\u65B0\u534E\u793E\u7684\u5012\u9000\uFF1F",
   "id" : 2719949839,
   "created_at" : "Sun Jul 19 09:06:14 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2161,14 +2161,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2719861281",
   "in_reply_to_user_id" : 6878802,
-  "text" : "@xjacks 棋魂不是已经完了嘛？",
+  "text" : "@xjacks \u68CB\u9B42\u4E0D\u662F\u5DF2\u7ECF\u5B8C\u4E86\u561B\uFF1F",
   "id" : 2719861281,
   "in_reply_to_status_id" : 2719752793,
   "created_at" : "Sun Jul 19 08:54:42 +0000 2009",
   "in_reply_to_screen_name" : "XjAcKs",
   "in_reply_to_user_id_str" : "6878802",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2193,11 +2193,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2716779023",
-  "text" : "#Google #Reader 也被墙了，基本上常用的工具网站都被墙的一塌糊涂，看来真需要像某句名言说的：“开机即翻墙，不见连接断”了。",
+  "text" : "#Google #Reader \u4E5F\u88AB\u5899\u4E86\uFF0C\u57FA\u672C\u4E0A\u5E38\u7528\u7684\u5DE5\u5177\u7F51\u7AD9\u90FD\u88AB\u5899\u7684\u4E00\u584C\u7CCA\u6D82\uFF0C\u770B\u6765\u771F\u9700\u8981\u50CF\u67D0\u53E5\u540D\u8A00\u8BF4\u7684\uFF1A\u201C\u5F00\u673A\u5373\u7FFB\u5899\uFF0C\u4E0D\u89C1\u8FDE\u63A5\u65AD\u201D\u4E86\u3002",
   "id" : 2716779023,
   "created_at" : "Sun Jul 19 04:03:38 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2216,11 +2216,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2706131749",
-  "text" : "最近近乎，或者根本就是每天24小时，每10分钟一班，军用飞机群，从头顶呼啸而过，要是可以搭便机该多好啊，我好想每天回老家住。",
+  "text" : "\u6700\u8FD1\u8FD1\u4E4E\uFF0C\u6216\u8005\u6839\u672C\u5C31\u662F\u6BCF\u592924\u5C0F\u65F6\uFF0C\u6BCF10\u5206\u949F\u4E00\u73ED\uFF0C\u519B\u7528\u98DE\u673A\u7FA4\uFF0C\u4ECE\u5934\u9876\u547C\u5578\u800C\u8FC7\uFF0C\u8981\u662F\u53EF\u4EE5\u642D\u4FBF\u673A\u8BE5\u591A\u597D\u554A\uFF0C\u6211\u597D\u60F3\u6BCF\u5929\u56DE\u8001\u5BB6\u4F4F\u3002",
   "id" : 2706131749,
   "created_at" : "Sat Jul 18 13:38:53 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2232,7 +2232,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ratoo Li ",
+      "name" : "Ratoo Li \uF8FF",
       "screen_name" : "Ratoo",
       "indices" : [ 3, 9 ],
       "id_str" : "17751597",
@@ -2245,11 +2245,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2701504830",
-  "text" : "RT @Ratoo: http://bit.ly/N3S4R 这新闻太TMD的讽刺了 //赞，相当讽刺啊，最近也在看这本书，其实现讽刺意义相当强烈。",
+  "text" : "RT @Ratoo: http://bit.ly/N3S4R \u8FD9\u65B0\u95FB\u592ATMD\u7684\u8BBD\u523A\u4E86 //\u8D5E\uFF0C\u76F8\u5F53\u8BBD\u523A\u554A\uFF0C\u6700\u8FD1\u4E5F\u5728\u770B\u8FD9\u672C\u4E66\uFF0C\u5176\u5B9E\u73B0\u8BBD\u523A\u610F\u4E49\u76F8\u5F53\u5F3A\u70C8\u3002",
   "id" : 2701504830,
   "created_at" : "Sat Jul 18 04:25:20 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2268,11 +2268,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2684405220",
-  "text" : "看了几个叹为观止的PPT，决心好好学习Office",
+  "text" : "\u770B\u4E86\u51E0\u4E2A\u53F9\u4E3A\u89C2\u6B62\u7684PPT\uFF0C\u51B3\u5FC3\u597D\u597D\u5B66\u4E60Office",
   "id" : 2684405220,
   "created_at" : "Fri Jul 17 06:49:27 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2294,11 +2294,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2684352822",
-  "text" : "#Gmail 自动检测发信地的lab又生效了，不过仍然有个诡异的数值代号。",
+  "text" : "#Gmail \u81EA\u52A8\u68C0\u6D4B\u53D1\u4FE1\u5730\u7684lab\u53C8\u751F\u6548\u4E86\uFF0C\u4E0D\u8FC7\u4ECD\u7136\u6709\u4E2A\u8BE1\u5F02\u7684\u6570\u503C\u4EE3\u53F7\u3002",
   "id" : 2684352822,
   "created_at" : "Fri Jul 17 06:44:06 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2317,11 +2317,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2680383775",
-  "text" : "难道为了预防艾滋，要每天24小时带Tor？天，这是个什么样的黑暗世界。",
+  "text" : "\u96BE\u9053\u4E3A\u4E86\u9884\u9632\u827E\u6ECB\uFF0C\u8981\u6BCF\u592924\u5C0F\u65F6\u5E26Tor\uFF1F\u5929\uFF0C\u8FD9\u662F\u4E2A\u4EC0\u4E48\u6837\u7684\u9ED1\u6697\u4E16\u754C\u3002",
   "id" : 2680383775,
   "created_at" : "Fri Jul 17 01:45:27 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2340,11 +2340,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2675514886",
-  "text" : "verycd 的收藏功能增加了“收藏了该资源的用户还收藏了: ...”的功能，弹出层使用“经典的”Facebook模式",
+  "text" : "verycd \u7684\u6536\u85CF\u529F\u80FD\u589E\u52A0\u4E86\u201C\u6536\u85CF\u4E86\u8BE5\u8D44\u6E90\u7684\u7528\u6237\u8FD8\u6536\u85CF\u4E86: ...\u201D\u7684\u529F\u80FD\uFF0C\u5F39\u51FA\u5C42\u4F7F\u7528\u201C\u7ECF\u5178\u7684\u201DFacebook\u6A21\u5F0F",
   "id" : 2675514886,
   "created_at" : "Thu Jul 16 20:23:02 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2363,11 +2363,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2671166949",
-  "text" : "无线网卡终于装上了，嘿嘿。",
+  "text" : "\u65E0\u7EBF\u7F51\u5361\u7EC8\u4E8E\u88C5\u4E0A\u4E86\uFF0C\u563F\u563F\u3002",
   "id" : 2671166949,
   "created_at" : "Thu Jul 16 15:37:57 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2386,11 +2386,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2670937442",
-  "text" : "嘿嘿，玩上了无线路由。哎，机器的无线网卡驱动装不上。。。",
+  "text" : "\u563F\u563F\uFF0C\u73A9\u4E0A\u4E86\u65E0\u7EBF\u8DEF\u7531\u3002\u54CE\uFF0C\u673A\u5668\u7684\u65E0\u7EBF\u7F51\u5361\u9A71\u52A8\u88C5\u4E0D\u4E0A\u3002\u3002\u3002",
   "id" : 2670937442,
   "created_at" : "Thu Jul 16 15:20:38 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2415,11 +2415,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2668039428",
-  "text" : "#Google #Maps 重大更新，国内标注数据更详细专业了。 赞。",
+  "text" : "#Google #Maps \u91CD\u5927\u66F4\u65B0\uFF0C\u56FD\u5185\u6807\u6CE8\u6570\u636E\u66F4\u8BE6\u7EC6\u4E13\u4E1A\u4E86\u3002 \u8D5E\u3002",
   "id" : 2668039428,
   "created_at" : "Thu Jul 16 11:16:47 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2441,11 +2441,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2667785933",
-  "text" : "cao, 连 #Picasa 也被墙。",
+  "text" : "cao, \u8FDE #Picasa \u4E5F\u88AB\u5899\u3002",
   "id" : 2667785933,
   "created_at" : "Thu Jul 16 10:45:27 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2464,11 +2464,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2649790813",
-  "text" : "谷歌音乐的专题做的不错，正在听《天籁新世纪之音1》，音效很好，圆润饱满，感觉比我用foobar2000播放下的ape似乎还要好的样子，应该跟设置有关。 http://bit.ly/jsgSw",
+  "text" : "\u8C37\u6B4C\u97F3\u4E50\u7684\u4E13\u9898\u505A\u7684\u4E0D\u9519\uFF0C\u6B63\u5728\u542C\u300A\u5929\u7C41\u65B0\u4E16\u7EAA\u4E4B\u97F31\u300B\uFF0C\u97F3\u6548\u5F88\u597D\uFF0C\u5706\u6DA6\u9971\u6EE1\uFF0C\u611F\u89C9\u6BD4\u6211\u7528foobar2000\u64AD\u653E\u4E0B\u7684ape\u4F3C\u4E4E\u8FD8\u8981\u597D\u7684\u6837\u5B50\uFF0C\u5E94\u8BE5\u8DDF\u8BBE\u7F6E\u6709\u5173\u3002 http://bit.ly/jsgSw",
   "id" : 2649790813,
   "created_at" : "Wed Jul 15 11:56:26 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2493,11 +2493,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2649424812",
-  "text" : "RT @taobaoued: Alisoft UED 《有一点》杂志正式发布： http://www.alisoftued.com/?p=174",
+  "text" : "RT @taobaoued: Alisoft UED \u300A\u6709\u4E00\u70B9\u300B\u6742\u5FD7\u6B63\u5F0F\u53D1\u5E03\uFF1A http://www.alisoftued.com/?p=174",
   "id" : 2649424812,
   "created_at" : "Wed Jul 15 11:14:49 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2522,11 +2522,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2649398156",
-  "text" : "RT @jason5ng32: 修改hosts的方法没有什么不可公布的，就是因为信息的不对称，才有一片又一片的“不明真相的群众”，有人却埋怨其他人公布了修改hosts的方法，导致twitter被更严密地封锁。责任被放到传播者身上，而不是封锁者身上，这种想法不错。",
+  "text" : "RT @jason5ng32: \u4FEE\u6539hosts\u7684\u65B9\u6CD5\u6CA1\u6709\u4EC0\u4E48\u4E0D\u53EF\u516C\u5E03\u7684\uFF0C\u5C31\u662F\u56E0\u4E3A\u4FE1\u606F\u7684\u4E0D\u5BF9\u79F0\uFF0C\u624D\u6709\u4E00\u7247\u53C8\u4E00\u7247\u7684\u201C\u4E0D\u660E\u771F\u76F8\u7684\u7FA4\u4F17\u201D\uFF0C\u6709\u4EBA\u5374\u57CB\u6028\u5176\u4ED6\u4EBA\u516C\u5E03\u4E86\u4FEE\u6539hosts\u7684\u65B9\u6CD5\uFF0C\u5BFC\u81F4twitter\u88AB\u66F4\u4E25\u5BC6\u5730\u5C01\u9501\u3002\u8D23\u4EFB\u88AB\u653E\u5230\u4F20\u64AD\u8005\u8EAB\u4E0A\uFF0C\u800C\u4E0D\u662F\u5C01\u9501\u8005\u8EAB\u4E0A\uFF0C\u8FD9\u79CD\u60F3\u6CD5\u4E0D\u9519\u3002",
   "id" : 2649398156,
   "created_at" : "Wed Jul 15 11:11:44 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2556,14 +2556,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2648014976",
   "in_reply_to_user_id" : 22897818,
-  "text" : "@hqwxyz #GFW 升级了，普通的翻墙方法根本翻不出去的。最初我也想您这么想，怕自己错怪了敬爱的D，但是我用vpn可以打开并下载了才这么说的，我很少不经证实就胡说八道的（一般经过证实之后才胡说八道）。",
+  "text" : "@hqwxyz #GFW \u5347\u7EA7\u4E86\uFF0C\u666E\u901A\u7684\u7FFB\u5899\u65B9\u6CD5\u6839\u672C\u7FFB\u4E0D\u51FA\u53BB\u7684\u3002\u6700\u521D\u6211\u4E5F\u60F3\u60A8\u8FD9\u4E48\u60F3\uFF0C\u6015\u81EA\u5DF1\u9519\u602A\u4E86\u656C\u7231\u7684D\uFF0C\u4F46\u662F\u6211\u7528vpn\u53EF\u4EE5\u6253\u5F00\u5E76\u4E0B\u8F7D\u4E86\u624D\u8FD9\u4E48\u8BF4\u7684\uFF0C\u6211\u5F88\u5C11\u4E0D\u7ECF\u8BC1\u5B9E\u5C31\u80E1\u8BF4\u516B\u9053\u7684\uFF08\u4E00\u822C\u7ECF\u8FC7\u8BC1\u5B9E\u4E4B\u540E\u624D\u80E1\u8BF4\u516B\u9053\uFF09\u3002",
   "id" : 2648014976,
   "in_reply_to_status_id" : 2647863923,
   "created_at" : "Wed Jul 15 08:14:29 +0000 2009",
   "in_reply_to_screen_name" : "free_POC",
   "in_reply_to_user_id_str" : "22897818",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2590,14 +2590,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2647130490",
   "in_reply_to_user_id" : 798478,
-  "text" : "@scavin 这也是我憎恶163邮箱的一个原因，我曾经为国内常用邮箱做了一个调查，QQ和网易vip邮箱外，均无一例外的在邮件尾部加广告。",
+  "text" : "@scavin \u8FD9\u4E5F\u662F\u6211\u618E\u6076163\u90AE\u7BB1\u7684\u4E00\u4E2A\u539F\u56E0\uFF0C\u6211\u66FE\u7ECF\u4E3A\u56FD\u5185\u5E38\u7528\u90AE\u7BB1\u505A\u4E86\u4E00\u4E2A\u8C03\u67E5\uFF0CQQ\u548C\u7F51\u6613vip\u90AE\u7BB1\u5916\uFF0C\u5747\u65E0\u4E00\u4F8B\u5916\u7684\u5728\u90AE\u4EF6\u5C3E\u90E8\u52A0\u5E7F\u544A\u3002",
   "id" : 2647130490,
   "in_reply_to_status_id" : 2647026086,
   "created_at" : "Wed Jul 15 06:36:32 +0000 2009",
   "in_reply_to_screen_name" : "scavin",
   "in_reply_to_user_id_str" : "798478",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2616,11 +2616,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2647090577",
-  "text" : "工作有了“重大”突破，又学习了新东西。p.s. IE有时候真的好讨厌，为它一个破BUG浪费我N多时间。",
+  "text" : "\u5DE5\u4F5C\u6709\u4E86\u201C\u91CD\u5927\u201D\u7A81\u7834\uFF0C\u53C8\u5B66\u4E60\u4E86\u65B0\u4E1C\u897F\u3002p.s. IE\u6709\u65F6\u5019\u771F\u7684\u597D\u8BA8\u538C\uFF0C\u4E3A\u5B83\u4E00\u4E2A\u7834BUG\u6D6A\u8D39\u6211N\u591A\u65F6\u95F4\u3002",
   "id" : 2647090577,
   "created_at" : "Wed Jul 15 06:32:23 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2651,11 +2651,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2646610482",
-  "text" : "RT @heely: Google Calendar labs 东西非常实用. // 太彪悍了，#Google #Calendar 都支持labs了。。。",
+  "text" : "RT @heely: Google Calendar labs \u4E1C\u897F\u975E\u5E38\u5B9E\u7528. // \u592A\u5F6A\u608D\u4E86\uFF0C#Google #Calendar \u90FD\u652F\u6301labs\u4E86\u3002\u3002\u3002",
   "id" : 2646610482,
   "created_at" : "Wed Jul 15 05:45:02 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2667,7 +2667,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "邪恶的小星星",
+      "name" : "\u90AA\u6076\u7684\u5C0F\u661F\u661F",
       "screen_name" : "xmxsuperstar",
       "indices" : [ 0, 13 ],
       "id_str" : "25635481",
@@ -2682,14 +2682,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2645962023",
   "in_reply_to_user_id" : 25635481,
-  "text" : "@xmxsuperstar 看我打引号就其实有点开玩笑的意思。不过要强调的是，我用的xhtml严格验证的dtd，没有正确关闭属于严重的错误，否则要严格验证没P用了。",
+  "text" : "@xmxsuperstar \u770B\u6211\u6253\u5F15\u53F7\u5C31\u5176\u5B9E\u6709\u70B9\u5F00\u73A9\u7B11\u7684\u610F\u601D\u3002\u4E0D\u8FC7\u8981\u5F3A\u8C03\u7684\u662F\uFF0C\u6211\u7528\u7684xhtml\u4E25\u683C\u9A8C\u8BC1\u7684dtd\uFF0C\u6CA1\u6709\u6B63\u786E\u5173\u95ED\u5C5E\u4E8E\u4E25\u91CD\u7684\u9519\u8BEF\uFF0C\u5426\u5219\u8981\u4E25\u683C\u9A8C\u8BC1\u6CA1P\u7528\u4E86\u3002",
   "id" : 2645962023,
   "in_reply_to_status_id" : 2645673712,
   "created_at" : "Wed Jul 15 04:49:26 +0000 2009",
   "in_reply_to_screen_name" : "xmxsuperstar",
   "in_reply_to_user_id_str" : "25635481",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2711,11 +2711,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2644874107",
-  "text" : "连 debugbar.com 都封锁，如果这群SB不是有病，那就是有病。 #GFW",
+  "text" : "\u8FDE debugbar.com \u90FD\u5C01\u9501\uFF0C\u5982\u679C\u8FD9\u7FA4SB\u4E0D\u662F\u6709\u75C5\uFF0C\u90A3\u5C31\u662F\u6709\u75C5\u3002 #GFW",
   "id" : 2644874107,
   "created_at" : "Wed Jul 15 03:30:49 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2727,7 +2727,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 0, 6 ],
       "id_str" : "20674328",
@@ -2742,14 +2742,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2644521986",
   "in_reply_to_user_id" : 20674328,
-  "text" : "@hotoo 并非hn的问题，发现了内部有一个标签未闭合。看来IE6对严格验证的xhtml还是执行的蛮好嘛，其他的“所谓”现代浏览器都“自作聪明”的自动闭合了，但是却愚蠢的不给出提醒。",
+  "text" : "@hotoo \u5E76\u975Ehn\u7684\u95EE\u9898\uFF0C\u53D1\u73B0\u4E86\u5185\u90E8\u6709\u4E00\u4E2A\u6807\u7B7E\u672A\u95ED\u5408\u3002\u770B\u6765IE6\u5BF9\u4E25\u683C\u9A8C\u8BC1\u7684xhtml\u8FD8\u662F\u6267\u884C\u7684\u86EE\u597D\u561B\uFF0C\u5176\u4ED6\u7684\u201C\u6240\u8C13\u201D\u73B0\u4EE3\u6D4F\u89C8\u5668\u90FD\u201C\u81EA\u4F5C\u806A\u660E\u201D\u7684\u81EA\u52A8\u95ED\u5408\u4E86\uFF0C\u4F46\u662F\u5374\u611A\u8822\u7684\u4E0D\u7ED9\u51FA\u63D0\u9192\u3002",
   "id" : 2644521986,
   "in_reply_to_status_id" : 2629098886,
   "created_at" : "Wed Jul 15 03:08:02 +0000 2009",
   "in_reply_to_screen_name" : "hotoo",
   "in_reply_to_user_id_str" : "20674328",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2774,11 +2774,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2632413099",
-  "text" : "看来 #Google 是被 #GFW 了，什么都搜不到，全部被重置。",
+  "text" : "\u770B\u6765 #Google \u662F\u88AB #GFW \u4E86\uFF0C\u4EC0\u4E48\u90FD\u641C\u4E0D\u5230\uFF0C\u5168\u90E8\u88AB\u91CD\u7F6E\u3002",
   "id" : 2632413099,
   "created_at" : "Tue Jul 14 14:00:11 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2797,11 +2797,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2632043243",
-  "text" : "网线延长线的接头产品和用法有什么注意事项吗？我买了一个就是连不上，两根线都测过没问题的。",
+  "text" : "\u7F51\u7EBF\u5EF6\u957F\u7EBF\u7684\u63A5\u5934\u4EA7\u54C1\u548C\u7528\u6CD5\u6709\u4EC0\u4E48\u6CE8\u610F\u4E8B\u9879\u5417\uFF1F\u6211\u4E70\u4E86\u4E00\u4E2A\u5C31\u662F\u8FDE\u4E0D\u4E0A\uFF0C\u4E24\u6839\u7EBF\u90FD\u6D4B\u8FC7\u6CA1\u95EE\u9898\u7684\u3002",
   "id" : 2632043243,
   "created_at" : "Tue Jul 14 13:31:34 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2828,14 +2828,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2631071782",
   "in_reply_to_user_id" : 12299932,
-  "text" : "@jason5ng32 真有圣旨吗，拿出来瞅瞅。p.s. 这自我阉割没什么好显摆的。",
+  "text" : "@jason5ng32 \u771F\u6709\u5723\u65E8\u5417\uFF0C\u62FF\u51FA\u6765\u7785\u7785\u3002p.s. \u8FD9\u81EA\u6211\u9609\u5272\u6CA1\u4EC0\u4E48\u597D\u663E\u6446\u7684\u3002",
   "id" : 2631071782,
   "in_reply_to_status_id" : 2629492784,
   "created_at" : "Tue Jul 14 12:03:07 +0000 2009",
   "in_reply_to_screen_name" : "jason5ng32",
   "in_reply_to_user_id_str" : "12299932",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2854,11 +2854,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2631044845",
-  "text" : "这个张飞有点雷 http://bit.ly/xSbJr 很赞的漫画。",
+  "text" : "\u8FD9\u4E2A\u5F20\u98DE\u6709\u70B9\u96F7 http://bit.ly/xSbJr \u5F88\u8D5E\u7684\u6F2B\u753B\u3002",
   "id" : 2631044845,
   "created_at" : "Tue Jul 14 12:00:19 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2883,11 +2883,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2629227110",
-  "text" : "#Google #pinyin 的模糊音设置应该增加o=ou=u，或者增加fo=fou=fu，打“浮动”这个词时，我每次都要试好几次才找到。不过用自定义词组也可以做的。为了方便，我全加上了：浮(fo,fou)，浮动(fod,fodong,foud,foudong)",
+  "text" : "#Google #pinyin \u7684\u6A21\u7CCA\u97F3\u8BBE\u7F6E\u5E94\u8BE5\u589E\u52A0o=ou=u\uFF0C\u6216\u8005\u589E\u52A0fo=fou=fu\uFF0C\u6253\u201C\u6D6E\u52A8\u201D\u8FD9\u4E2A\u8BCD\u65F6\uFF0C\u6211\u6BCF\u6B21\u90FD\u8981\u8BD5\u597D\u51E0\u6B21\u624D\u627E\u5230\u3002\u4E0D\u8FC7\u7528\u81EA\u5B9A\u4E49\u8BCD\u7EC4\u4E5F\u53EF\u4EE5\u505A\u7684\u3002\u4E3A\u4E86\u65B9\u4FBF\uFF0C\u6211\u5168\u52A0\u4E0A\u4E86\uFF1A\u6D6E(fo,fou)\uFF0C\u6D6E\u52A8(fod,fodong,foud,foudong)",
   "id" : 2629227110,
   "created_at" : "Tue Jul 14 08:04:25 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2906,11 +2906,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2629129361",
-  "text" : "清除浮动(clear float)，将不需要浮动的元素宽度设置为100%，或比最后一个浮动元素更宽，亦可达到类似的视觉效果。",
+  "text" : "\u6E05\u9664\u6D6E\u52A8(clear float)\uFF0C\u5C06\u4E0D\u9700\u8981\u6D6E\u52A8\u7684\u5143\u7D20\u5BBD\u5EA6\u8BBE\u7F6E\u4E3A100%\uFF0C\u6216\u6BD4\u6700\u540E\u4E00\u4E2A\u6D6E\u52A8\u5143\u7D20\u66F4\u5BBD\uFF0C\u4EA6\u53EF\u8FBE\u5230\u7C7B\u4F3C\u7684\u89C6\u89C9\u6548\u679C\u3002",
   "id" : 2629129361,
   "created_at" : "Tue Jul 14 07:52:16 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2932,11 +2932,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2629098886",
-  "text" : "#jQuery 的sortable，不允许列表中存在hn，否则IE6报参数错误。暂时未找到病根。",
+  "text" : "#jQuery \u7684sortable\uFF0C\u4E0D\u5141\u8BB8\u5217\u8868\u4E2D\u5B58\u5728hn\uFF0C\u5426\u5219IE6\u62A5\u53C2\u6570\u9519\u8BEF\u3002\u6682\u65F6\u672A\u627E\u5230\u75C5\u6839\u3002",
   "id" : 2629098886,
   "created_at" : "Tue Jul 14 07:48:30 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2955,11 +2955,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2625045107",
-  "text" : "机器启动巨慢，卸载软件前都试用拥抱一把。发现公司预装的雅虎通v8.3.0.1挺不错的，虽然用户很少也占内存60M（淘宝旺旺50M, TM 25M），但是打开聊天窗口什么的都很灵敏，比那旺旺强不知多少倍。",
+  "text" : "\u673A\u5668\u542F\u52A8\u5DE8\u6162\uFF0C\u5378\u8F7D\u8F6F\u4EF6\u524D\u90FD\u8BD5\u7528\u62E5\u62B1\u4E00\u628A\u3002\u53D1\u73B0\u516C\u53F8\u9884\u88C5\u7684\u96C5\u864E\u901Av8.3.0.1\u633A\u4E0D\u9519\u7684\uFF0C\u867D\u7136\u7528\u6237\u5F88\u5C11\u4E5F\u5360\u5185\u5B5860M\uFF08\u6DD8\u5B9D\u65FA\u65FA50M, TM 25M\uFF09\uFF0C\u4F46\u662F\u6253\u5F00\u804A\u5929\u7A97\u53E3\u4EC0\u4E48\u7684\u90FD\u5F88\u7075\u654F\uFF0C\u6BD4\u90A3\u65FA\u65FA\u5F3A\u4E0D\u77E5\u591A\u5C11\u500D\u3002",
   "id" : 2625045107,
   "created_at" : "Tue Jul 14 02:11:47 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -2971,7 +2971,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "明城",
+      "name" : "\u660E\u57CE",
       "screen_name" : "feelinglucky",
       "indices" : [ 0, 13 ],
       "id_str" : "8554282",
@@ -2989,14 +2989,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2624944498",
   "in_reply_to_user_id" : 8554282,
-  "text" : "@feelinglucky 查看源码确实是重新请求的，包括使用外部编辑器(ViewSourceWith)，如果链接状态失效的话，打开的内容会不一样。好像 #Firefox 很多都这样，打开的图片，另存的时候也是重新连接服务器的。",
+  "text" : "@feelinglucky \u67E5\u770B\u6E90\u7801\u786E\u5B9E\u662F\u91CD\u65B0\u8BF7\u6C42\u7684\uFF0C\u5305\u62EC\u4F7F\u7528\u5916\u90E8\u7F16\u8F91\u5668(ViewSourceWith)\uFF0C\u5982\u679C\u94FE\u63A5\u72B6\u6001\u5931\u6548\u7684\u8BDD\uFF0C\u6253\u5F00\u7684\u5185\u5BB9\u4F1A\u4E0D\u4E00\u6837\u3002\u597D\u50CF #Firefox \u5F88\u591A\u90FD\u8FD9\u6837\uFF0C\u6253\u5F00\u7684\u56FE\u7247\uFF0C\u53E6\u5B58\u7684\u65F6\u5019\u4E5F\u662F\u91CD\u65B0\u8FDE\u63A5\u670D\u52A1\u5668\u7684\u3002",
   "id" : 2624944498,
   "in_reply_to_status_id" : 2624659994,
   "created_at" : "Tue Jul 14 02:05:12 +0000 2009",
   "in_reply_to_screen_name" : "feelinglucky",
   "in_reply_to_user_id_str" : "8554282",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3008,7 +3008,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fisio ",
+      "name" : "fisio \uF8FF",
       "screen_name" : "fisio",
       "indices" : [ 0, 6 ],
       "id_str" : "15356284",
@@ -3023,14 +3023,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2614385182",
   "in_reply_to_user_id" : 15356284,
-  "text" : "@fisio 不错，不过\"I like this\"是记名的，另外发现个bug，点击右上角的放大镜，激活到最大状态，然后点击I like this或者Remove，图片会撑大容器宽带，拖放亦不可用了，撤销放大状态就好了。",
+  "text" : "@fisio \u4E0D\u9519\uFF0C\u4E0D\u8FC7\"I like this\"\u662F\u8BB0\u540D\u7684\uFF0C\u53E6\u5916\u53D1\u73B0\u4E2Abug\uFF0C\u70B9\u51FB\u53F3\u4E0A\u89D2\u7684\u653E\u5927\u955C\uFF0C\u6FC0\u6D3B\u5230\u6700\u5927\u72B6\u6001\uFF0C\u7136\u540E\u70B9\u51FBI like this\u6216\u8005Remove\uFF0C\u56FE\u7247\u4F1A\u6491\u5927\u5BB9\u5668\u5BBD\u5E26\uFF0C\u62D6\u653E\u4EA6\u4E0D\u53EF\u7528\u4E86\uFF0C\u64A4\u9500\u653E\u5927\u72B6\u6001\u5C31\u597D\u4E86\u3002",
   "id" : 2614385182,
   "in_reply_to_status_id" : 2613700358,
   "created_at" : "Mon Jul 13 14:08:23 +0000 2009",
   "in_reply_to_screen_name" : "fisio",
   "in_reply_to_user_id_str" : "15356284",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3057,14 +3057,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2610792319",
   "in_reply_to_user_id" : 14797054,
-  "text" : "@catitude 无需翻墙，杭州电信。",
+  "text" : "@catitude \u65E0\u9700\u7FFB\u5899\uFF0C\u676D\u5DDE\u7535\u4FE1\u3002",
   "id" : 2610792319,
   "in_reply_to_status_id" : 2610520290,
   "created_at" : "Mon Jul 13 07:01:40 +0000 2009",
   "in_reply_to_screen_name" : "catitude",
   "in_reply_to_user_id_str" : "14797054",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3086,11 +3086,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2608256326",
-  "text" : "暴强街头健身 #video http://bit.ly/18ZIr6",
+  "text" : "\u66B4\u5F3A\u8857\u5934\u5065\u8EAB #video http://bit.ly/18ZIr6",
   "id" : 2608256326,
   "created_at" : "Mon Jul 13 03:15:40 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3109,11 +3109,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2600532990",
-  "text" : "我不会游泳，因为我基本的划水动作都会，就是不会换气。刚刚看了一段换气的教学视频，我确信我会游泳了，只要我一下水就会。我记得小时候也有过这样的“自信”经历。那视频和网站都很棒 http://bit.ly/3a4zAB",
+  "text" : "\u6211\u4E0D\u4F1A\u6E38\u6CF3\uFF0C\u56E0\u4E3A\u6211\u57FA\u672C\u7684\u5212\u6C34\u52A8\u4F5C\u90FD\u4F1A\uFF0C\u5C31\u662F\u4E0D\u4F1A\u6362\u6C14\u3002\u521A\u521A\u770B\u4E86\u4E00\u6BB5\u6362\u6C14\u7684\u6559\u5B66\u89C6\u9891\uFF0C\u6211\u786E\u4FE1\u6211\u4F1A\u6E38\u6CF3\u4E86\uFF0C\u53EA\u8981\u6211\u4E00\u4E0B\u6C34\u5C31\u4F1A\u3002\u6211\u8BB0\u5F97\u5C0F\u65F6\u5019\u4E5F\u6709\u8FC7\u8FD9\u6837\u7684\u201C\u81EA\u4FE1\u201D\u7ECF\u5386\u3002\u90A3\u89C6\u9891\u548C\u7F51\u7AD9\u90FD\u5F88\u68D2 http://bit.ly/3a4zAB",
   "id" : 2600532990,
   "created_at" : "Sun Jul 12 17:00:28 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3135,11 +3135,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2597835116",
-  "text" : "输入字符较少时， #Dabr 会弹出“对话框”，说tweet太短，是否继续？这个对话框和某些评论系统弹出说评论内容太短的“提示”一样讨厌。",
+  "text" : "\u8F93\u5165\u5B57\u7B26\u8F83\u5C11\u65F6\uFF0C #Dabr \u4F1A\u5F39\u51FA\u201C\u5BF9\u8BDD\u6846\u201D\uFF0C\u8BF4tweet\u592A\u77ED\uFF0C\u662F\u5426\u7EE7\u7EED\uFF1F\u8FD9\u4E2A\u5BF9\u8BDD\u6846\u548C\u67D0\u4E9B\u8BC4\u8BBA\u7CFB\u7EDF\u5F39\u51FA\u8BF4\u8BC4\u8BBA\u5185\u5BB9\u592A\u77ED\u7684\u201C\u63D0\u793A\u201D\u4E00\u6837\u8BA8\u538C\u3002",
   "id" : 2597835116,
   "created_at" : "Sun Jul 12 12:21:32 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3161,11 +3161,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2597806712",
-  "text" : "#Gmail 为什么不支持html签名？",
+  "text" : "#Gmail \u4E3A\u4EC0\u4E48\u4E0D\u652F\u6301html\u7B7E\u540D\uFF1F",
   "id" : 2597806712,
   "created_at" : "Sun Jul 12 12:17:31 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3187,11 +3187,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2597624633",
-  "text" : "博客更新：节奏感知器的设计 http://bit.ly/1P3rm #blog",
+  "text" : "\u535A\u5BA2\u66F4\u65B0\uFF1A\u8282\u594F\u611F\u77E5\u5668\u7684\u8BBE\u8BA1 http://bit.ly/1P3rm #blog",
   "id" : 2597624633,
   "created_at" : "Sun Jul 12 11:50:52 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3210,11 +3210,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2597172491",
-  "text" : "我可以负责任的说：凡是装修很不负责任的房东，都是烂房东，房子住着不爽不说，生活中各种麻烦事都会让人不痛快，一旦碰到这样的房东，便有的烦了。",
+  "text" : "\u6211\u53EF\u4EE5\u8D1F\u8D23\u4EFB\u7684\u8BF4\uFF1A\u51E1\u662F\u88C5\u4FEE\u5F88\u4E0D\u8D1F\u8D23\u4EFB\u7684\u623F\u4E1C\uFF0C\u90FD\u662F\u70C2\u623F\u4E1C\uFF0C\u623F\u5B50\u4F4F\u7740\u4E0D\u723D\u4E0D\u8BF4\uFF0C\u751F\u6D3B\u4E2D\u5404\u79CD\u9EBB\u70E6\u4E8B\u90FD\u4F1A\u8BA9\u4EBA\u4E0D\u75DB\u5FEB\uFF0C\u4E00\u65E6\u78B0\u5230\u8FD9\u6837\u7684\u623F\u4E1C\uFF0C\u4FBF\u6709\u7684\u70E6\u4E86\u3002",
   "id" : 2597172491,
   "created_at" : "Sun Jul 12 10:38:22 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3233,11 +3233,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2597149114",
-  "text" : "重新编辑一下账户信息，输入一下密码又恢复正常了。",
+  "text" : "\u91CD\u65B0\u7F16\u8F91\u4E00\u4E0B\u8D26\u6237\u4FE1\u606F\uFF0C\u8F93\u5165\u4E00\u4E0B\u5BC6\u7801\u53C8\u6062\u590D\u6B63\u5E38\u4E86\u3002",
   "id" : 2597149114,
   "created_at" : "Sun Jul 12 10:34:25 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3259,11 +3259,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2595572990",
-  "text" : "发起个话题，要在 #Twitter 上推自己的博客新日志吗？有必要并且合适吗？",
+  "text" : "\u53D1\u8D77\u4E2A\u8BDD\u9898\uFF0C\u8981\u5728 #Twitter \u4E0A\u63A8\u81EA\u5DF1\u7684\u535A\u5BA2\u65B0\u65E5\u5FD7\u5417\uFF1F\u6709\u5FC5\u8981\u5E76\u4E14\u5408\u9002\u5417\uFF1F",
   "id" : 2595572990,
   "created_at" : "Sun Jul 12 06:45:22 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3285,11 +3285,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2595306797",
-  "text" : "#Flickr 的按钮变漂亮了。",
+  "text" : "#Flickr \u7684\u6309\u94AE\u53D8\u6F02\u4EAE\u4E86\u3002",
   "id" : 2595306797,
   "created_at" : "Sun Jul 12 06:15:07 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3308,11 +3308,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2593106828",
-  "text" : "《民主的细节》 http://www.drunkpiano-liuyu.net/?p=333 http://www.hecaitou.net/?p=5971",
+  "text" : "\u300A\u6C11\u4E3B\u7684\u7EC6\u8282\u300B http://www.drunkpiano-liuyu.net/?p=333 http://www.hecaitou.net/?p=5971",
   "id" : 2593106828,
   "created_at" : "Sun Jul 12 03:00:35 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3331,11 +3331,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2584453740",
-  "text" : "CPU温度超过80，关机睡觉。",
+  "text" : "CPU\u6E29\u5EA6\u8D85\u8FC780\uFF0C\u5173\u673A\u7761\u89C9\u3002",
   "id" : 2584453740,
   "created_at" : "Sat Jul 11 14:59:43 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3357,11 +3357,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2583968154",
-  "text" : "#Dabr 居然不支持删除，测试的时候害苦各位了，本来以为发推之后立即删除会较少影响到别人。",
+  "text" : "#Dabr \u5C45\u7136\u4E0D\u652F\u6301\u5220\u9664\uFF0C\u6D4B\u8BD5\u7684\u65F6\u5019\u5BB3\u82E6\u5404\u4F4D\u4E86\uFF0C\u672C\u6765\u4EE5\u4E3A\u53D1\u63A8\u4E4B\u540E\u7ACB\u5373\u5220\u9664\u4F1A\u8F83\u5C11\u5F71\u54CD\u5230\u522B\u4EBA\u3002",
   "id" : 2583968154,
   "created_at" : "Sat Jul 11 14:12:17 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3373,7 +3373,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ratoo Li ",
+      "name" : "Ratoo Li \uF8FF",
       "screen_name" : "Ratoo",
       "indices" : [ 0, 6 ],
       "id_str" : "17751597",
@@ -3391,14 +3391,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2583918478",
   "in_reply_to_user_id" : 17751597,
-  "text" : "@Ratoo 测试发现超过111个汉字就出错。不可以相信 #Dabr 计算的可输入字数。 受前面测试印象的朋友见谅。",
+  "text" : "@Ratoo \u6D4B\u8BD5\u53D1\u73B0\u8D85\u8FC7111\u4E2A\u6C49\u5B57\u5C31\u51FA\u9519\u3002\u4E0D\u53EF\u4EE5\u76F8\u4FE1 #Dabr \u8BA1\u7B97\u7684\u53EF\u8F93\u5165\u5B57\u6570\u3002 \u53D7\u524D\u9762\u6D4B\u8BD5\u5370\u8C61\u7684\u670B\u53CB\u89C1\u8C05\u3002",
   "id" : 2583918478,
   "in_reply_to_status_id" : 2583769531,
   "created_at" : "Sat Jul 11 14:07:01 +0000 2009",
   "in_reply_to_screen_name" : "Ratoo",
   "in_reply_to_user_id_str" : "17751597",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3417,11 +3417,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2583805258",
-  "text" : "公司组织活动到临安太湖源，地方本身不错，但是当地人给我的印象极差，农家菜及难吃，甚至山货市场买的野山小核桃都被调包，尝的和买回的完全不一样也就罢了，但是完全不能吃。奸商是商人精明的表现，但是骗人就只能是骗子了，算不上商人。",
+  "text" : "\u516C\u53F8\u7EC4\u7EC7\u6D3B\u52A8\u5230\u4E34\u5B89\u592A\u6E56\u6E90\uFF0C\u5730\u65B9\u672C\u8EAB\u4E0D\u9519\uFF0C\u4F46\u662F\u5F53\u5730\u4EBA\u7ED9\u6211\u7684\u5370\u8C61\u6781\u5DEE\uFF0C\u519C\u5BB6\u83DC\u53CA\u96BE\u5403\uFF0C\u751A\u81F3\u5C71\u8D27\u5E02\u573A\u4E70\u7684\u91CE\u5C71\u5C0F\u6838\u6843\u90FD\u88AB\u8C03\u5305\uFF0C\u5C1D\u7684\u548C\u4E70\u56DE\u7684\u5B8C\u5168\u4E0D\u4E00\u6837\u4E5F\u5C31\u7F62\u4E86\uFF0C\u4F46\u662F\u5B8C\u5168\u4E0D\u80FD\u5403\u3002\u5978\u5546\u662F\u5546\u4EBA\u7CBE\u660E\u7684\u8868\u73B0\uFF0C\u4F46\u662F\u9A97\u4EBA\u5C31\u53EA\u80FD\u662F\u9A97\u5B50\u4E86\uFF0C\u7B97\u4E0D\u4E0A\u5546\u4EBA\u3002",
   "id" : 2583805258,
   "created_at" : "Sat Jul 11 13:55:22 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3443,11 +3443,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2583732129",
-  "text" : "#Dabr 最近老提交失败，后退回来发现输入框的消息被自作聪明的置空了，哎。",
+  "text" : "#Dabr \u6700\u8FD1\u8001\u63D0\u4EA4\u5931\u8D25\uFF0C\u540E\u9000\u56DE\u6765\u53D1\u73B0\u8F93\u5165\u6846\u7684\u6D88\u606F\u88AB\u81EA\u4F5C\u806A\u660E\u7684\u7F6E\u7A7A\u4E86\uFF0C\u54CE\u3002",
   "id" : 2583732129,
   "created_at" : "Sat Jul 11 13:47:26 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3469,11 +3469,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2583621922",
-  "text" : "#GFW 升级，长时间以来防火墙之梯(gladder)基本失效，梯子太短已经够不着了。",
+  "text" : "#GFW \u5347\u7EA7\uFF0C\u957F\u65F6\u95F4\u4EE5\u6765\u9632\u706B\u5899\u4E4B\u68AF(gladder)\u57FA\u672C\u5931\u6548\uFF0C\u68AF\u5B50\u592A\u77ED\u5DF2\u7ECF\u591F\u4E0D\u7740\u4E86\u3002",
   "id" : 2583621922,
   "created_at" : "Sat Jul 11 13:34:43 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3501,11 +3501,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2583574597",
-  "text" : "RT @guxiaoqiang: 王兴在凤凰卫视的发言：有些网站是低俗的，比如开心网，应该反对；有些网站是高雅的，分享信息的，比如饭否，应该支持。 #Fanfou 　",
+  "text" : "RT @guxiaoqiang: \u738B\u5174\u5728\u51E4\u51F0\u536B\u89C6\u7684\u53D1\u8A00\uFF1A\u6709\u4E9B\u7F51\u7AD9\u662F\u4F4E\u4FD7\u7684\uFF0C\u6BD4\u5982\u5F00\u5FC3\u7F51\uFF0C\u5E94\u8BE5\u53CD\u5BF9\uFF1B\u6709\u4E9B\u7F51\u7AD9\u662F\u9AD8\u96C5\u7684\uFF0C\u5206\u4EAB\u4FE1\u606F\u7684\uFF0C\u6BD4\u5982\u996D\u5426\uFF0C\u5E94\u8BE5\u652F\u6301\u3002 #Fanfou \u3000",
   "id" : 2583574597,
   "created_at" : "Sat Jul 11 13:29:21 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3527,11 +3527,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2566565244",
-  "text" : "#Google 今天的Logo是纪念Nikola Tesla(尼古拉特斯拉)这位伟大的科学家的，看了维基和视频，才发现时间上还有这么伟大神奇的人物。战争是由于国家之间的经济和军事潜能差异触发的，国家间的潜能达成平衡时，才能够达到和平，国家潜能间的悬殊差距，将导致战争。",
+  "text" : "#Google \u4ECA\u5929\u7684Logo\u662F\u7EAA\u5FF5Nikola Tesla(\u5C3C\u53E4\u62C9\u7279\u65AF\u62C9)\u8FD9\u4F4D\u4F1F\u5927\u7684\u79D1\u5B66\u5BB6\u7684\uFF0C\u770B\u4E86\u7EF4\u57FA\u548C\u89C6\u9891\uFF0C\u624D\u53D1\u73B0\u65F6\u95F4\u4E0A\u8FD8\u6709\u8FD9\u4E48\u4F1F\u5927\u795E\u5947\u7684\u4EBA\u7269\u3002\u6218\u4E89\u662F\u7531\u4E8E\u56FD\u5BB6\u4E4B\u95F4\u7684\u7ECF\u6D4E\u548C\u519B\u4E8B\u6F5C\u80FD\u5DEE\u5F02\u89E6\u53D1\u7684\uFF0C\u56FD\u5BB6\u95F4\u7684\u6F5C\u80FD\u8FBE\u6210\u5E73\u8861\u65F6\uFF0C\u624D\u80FD\u591F\u8FBE\u5230\u548C\u5E73\uFF0C\u56FD\u5BB6\u6F5C\u80FD\u95F4\u7684\u60AC\u6B8A\u5DEE\u8DDD\uFF0C\u5C06\u5BFC\u81F4\u6218\u4E89\u3002",
   "id" : 2566565244,
   "created_at" : "Fri Jul 10 11:11:52 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3550,11 +3550,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2566191828",
-  "text" : "这种动画验证码很赞啊，机器识别有难度，人眼识别难道则适中。 http://bit.ly/m8Jwf",
+  "text" : "\u8FD9\u79CD\u52A8\u753B\u9A8C\u8BC1\u7801\u5F88\u8D5E\u554A\uFF0C\u673A\u5668\u8BC6\u522B\u6709\u96BE\u5EA6\uFF0C\u4EBA\u773C\u8BC6\u522B\u96BE\u9053\u5219\u9002\u4E2D\u3002 http://bit.ly/m8Jwf",
   "id" : 2566191828,
   "created_at" : "Fri Jul 10 10:22:22 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3573,11 +3573,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2565849372",
-  "text" : "7月22号的日全食，这篇文章讲的有点意思 http://bit.ly/3yKkV p.s. http://bit.ly/2DMUqE",
+  "text" : "7\u670822\u53F7\u7684\u65E5\u5168\u98DF\uFF0C\u8FD9\u7BC7\u6587\u7AE0\u8BB2\u7684\u6709\u70B9\u610F\u601D http://bit.ly/3yKkV p.s. http://bit.ly/2DMUqE",
   "id" : 2565849372,
   "created_at" : "Fri Jul 10 09:35:29 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3596,11 +3596,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2565661985",
-  "text" : "http://bit.ly/55kw2 这个太有创意太强悍了，我彻底服了。",
+  "text" : "http://bit.ly/55kw2 \u8FD9\u4E2A\u592A\u6709\u521B\u610F\u592A\u5F3A\u608D\u4E86\uFF0C\u6211\u5F7B\u5E95\u670D\u4E86\u3002",
   "id" : 2565661985,
   "created_at" : "Fri Jul 10 09:10:11 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3622,11 +3622,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2564445356",
-  "text" : "#Gmail get 163邮箱的邮件失败，提示“Authentication error.\r\nServer returned error \"Unable to log on\" ” 是不是163屏蔽了Gmail ??",
+  "text" : "#Gmail get 163\u90AE\u7BB1\u7684\u90AE\u4EF6\u5931\u8D25\uFF0C\u63D0\u793A\u201CAuthentication error.\r\nServer returned error \"Unable to log on\" \u201D \u662F\u4E0D\u662F163\u5C4F\u853D\u4E86Gmail ??",
   "id" : 2564445356,
   "created_at" : "Fri Jul 10 06:42:08 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3648,11 +3648,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2563849800",
-  "text" : "同时运行两个 #Firefox 配置 firefox.exe -no-remote -P ProfileName http://bit.ly/Guzd9",
+  "text" : "\u540C\u65F6\u8FD0\u884C\u4E24\u4E2A #Firefox \u914D\u7F6E firefox.exe -no-remote -P ProfileName http://bit.ly/Guzd9",
   "id" : 2563849800,
   "created_at" : "Fri Jul 10 05:43:51 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3671,11 +3671,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2561572064",
-  "text" : "有了新的工作邮箱，才发现#Gmail 有了“When receiving a message: ◎Reply from the same address the message was sent to”的选项，很赞，部分满足了我之前关于自动选择发送账户的幻想。",
+  "text" : "\u6709\u4E86\u65B0\u7684\u5DE5\u4F5C\u90AE\u7BB1\uFF0C\u624D\u53D1\u73B0#Gmail \u6709\u4E86\u201CWhen receiving a message: \u25CEReply from the same address the message was sent to\u201D\u7684\u9009\u9879\uFF0C\u5F88\u8D5E\uFF0C\u90E8\u5206\u6EE1\u8DB3\u4E86\u6211\u4E4B\u524D\u5173\u4E8E\u81EA\u52A8\u9009\u62E9\u53D1\u9001\u8D26\u6237\u7684\u5E7B\u60F3\u3002",
   "id" : 2561572064,
   "created_at" : "Fri Jul 10 02:46:24 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3694,11 +3694,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2553372208",
-  "text" : "ie6也支持Gmail新版界面了（ui=2）但是部分功能和小插件不支持，如GTalk不能居右，不支持Twitter Gadgets",
+  "text" : "ie6\u4E5F\u652F\u6301Gmail\u65B0\u7248\u754C\u9762\u4E86\uFF08ui=2\uFF09\u4F46\u662F\u90E8\u5206\u529F\u80FD\u548C\u5C0F\u63D2\u4EF6\u4E0D\u652F\u6301\uFF0C\u5982GTalk\u4E0D\u80FD\u5C45\u53F3\uFF0C\u4E0D\u652F\u6301Twitter Gadgets",
   "id" : 2553372208,
   "created_at" : "Thu Jul 09 17:21:02 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3717,11 +3717,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2553014147",
-  "text" : "被老板陷害，在公司看家，多等了两个多钟头，凌晨才让回家。各位早安。",
+  "text" : "\u88AB\u8001\u677F\u9677\u5BB3\uFF0C\u5728\u516C\u53F8\u770B\u5BB6\uFF0C\u591A\u7B49\u4E86\u4E24\u4E2A\u591A\u949F\u5934\uFF0C\u51CC\u6668\u624D\u8BA9\u56DE\u5BB6\u3002\u5404\u4F4D\u65E9\u5B89\u3002",
   "id" : 2553014147,
   "created_at" : "Thu Jul 09 16:57:53 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3740,11 +3740,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2548501871",
-  "text" : "特烦QQ跟正在“忙碌”或“离开”状态下装13的人聊天，每回一句，这2B软件就自动回一句类似“您好，我现在有事不在，一会儿再和您联系”这样2的玩意儿，哪怕是对方发起会话。 我想说如果你在忙碌，我尽量不打扰你，如果要和我联系，请调整好您的状态，正如事先调整好你的心态。",
+  "text" : "\u7279\u70E6QQ\u8DDF\u6B63\u5728\u201C\u5FD9\u788C\u201D\u6216\u201C\u79BB\u5F00\u201D\u72B6\u6001\u4E0B\u88C513\u7684\u4EBA\u804A\u5929\uFF0C\u6BCF\u56DE\u4E00\u53E5\uFF0C\u8FD92B\u8F6F\u4EF6\u5C31\u81EA\u52A8\u56DE\u4E00\u53E5\u7C7B\u4F3C\u201C\u60A8\u597D\uFF0C\u6211\u73B0\u5728\u6709\u4E8B\u4E0D\u5728\uFF0C\u4E00\u4F1A\u513F\u518D\u548C\u60A8\u8054\u7CFB\u201D\u8FD9\u68372\u7684\u73A9\u610F\u513F\uFF0C\u54EA\u6015\u662F\u5BF9\u65B9\u53D1\u8D77\u4F1A\u8BDD\u3002 \u6211\u60F3\u8BF4\u5982\u679C\u4F60\u5728\u5FD9\u788C\uFF0C\u6211\u5C3D\u91CF\u4E0D\u6253\u6270\u4F60\uFF0C\u5982\u679C\u8981\u548C\u6211\u8054\u7CFB\uFF0C\u8BF7\u8C03\u6574\u597D\u60A8\u7684\u72B6\u6001\uFF0C\u6B63\u5982\u4E8B\u5148\u8C03\u6574\u597D\u4F60\u7684\u5FC3\u6001\u3002",
   "id" : 2548501871,
   "created_at" : "Thu Jul 09 10:44:31 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3766,11 +3766,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2547050595",
-  "text" : "#gvim 命令模式下，用鼠标，或shift+方向键选中文本是属于什么模式，看起来有点像visual模式，但是又没有jump命令，属于纯种的无模式编辑状态。另外，vim有支持拖放文本的扩展吗？这在不想使用复制粘贴影响系统剪贴板的时候特别有用。",
+  "text" : "#gvim \u547D\u4EE4\u6A21\u5F0F\u4E0B\uFF0C\u7528\u9F20\u6807\uFF0C\u6216shift+\u65B9\u5411\u952E\u9009\u4E2D\u6587\u672C\u662F\u5C5E\u4E8E\u4EC0\u4E48\u6A21\u5F0F\uFF0C\u770B\u8D77\u6765\u6709\u70B9\u50CFvisual\u6A21\u5F0F\uFF0C\u4F46\u662F\u53C8\u6CA1\u6709jump\u547D\u4EE4\uFF0C\u5C5E\u4E8E\u7EAF\u79CD\u7684\u65E0\u6A21\u5F0F\u7F16\u8F91\u72B6\u6001\u3002\u53E6\u5916\uFF0Cvim\u6709\u652F\u6301\u62D6\u653E\u6587\u672C\u7684\u6269\u5C55\u5417\uFF1F\u8FD9\u5728\u4E0D\u60F3\u4F7F\u7528\u590D\u5236\u7C98\u8D34\u5F71\u54CD\u7CFB\u7EDF\u526A\u8D34\u677F\u7684\u65F6\u5019\u7279\u522B\u6709\u7528\u3002",
   "id" : 2547050595,
   "created_at" : "Thu Jul 09 07:26:44 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3792,11 +3792,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2546105536",
-  "text" : "http://bit.ly/nC3DD #Urumqi 乌鲁木齐 新闻图片，记录，但不带任何立场/色彩。",
+  "text" : "http://bit.ly/nC3DD #Urumqi \u4E4C\u9C81\u6728\u9F50 \u65B0\u95FB\u56FE\u7247\uFF0C\u8BB0\u5F55\uFF0C\u4F46\u4E0D\u5E26\u4EFB\u4F55\u7ACB\u573A/\u8272\u5F69\u3002",
   "id" : 2546105536,
   "created_at" : "Thu Jul 09 05:47:08 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3821,11 +3821,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2544268137",
-  "text" : "#Google #Latitude 的地图和卫星图还是有偏差，而且在#Firefox v3.5上没法用。",
+  "text" : "#Google #Latitude \u7684\u5730\u56FE\u548C\u536B\u661F\u56FE\u8FD8\u662F\u6709\u504F\u5DEE\uFF0C\u800C\u4E14\u5728#Firefox v3.5\u4E0A\u6CA1\u6CD5\u7528\u3002",
   "id" : 2544268137,
   "created_at" : "Thu Jul 09 03:24:53 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3844,11 +3844,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2542885091",
-  "text" : "灵格斯不能对Google Chrome v2 取词？！",
+  "text" : "\u7075\u683C\u65AF\u4E0D\u80FD\u5BF9Google Chrome v2 \u53D6\u8BCD\uFF1F\uFF01",
   "id" : 2542885091,
   "created_at" : "Thu Jul 09 01:50:09 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3867,11 +3867,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2535856992",
-  "text" : "小时候我喜欢收集零碎玩意儿，抽屉里堆满了还舍不得扔，后来老爸说“你该收拾收拾了”，我才忍痛割爱。\r\n前段时间我的计算机桌面上又堆满了各种玩意儿，狠狠清理了一下，世界终于清净了。",
+  "text" : "\u5C0F\u65F6\u5019\u6211\u559C\u6B22\u6536\u96C6\u96F6\u788E\u73A9\u610F\u513F\uFF0C\u62BD\u5C49\u91CC\u5806\u6EE1\u4E86\u8FD8\u820D\u4E0D\u5F97\u6254\uFF0C\u540E\u6765\u8001\u7238\u8BF4\u201C\u4F60\u8BE5\u6536\u62FE\u6536\u62FE\u4E86\u201D\uFF0C\u6211\u624D\u5FCD\u75DB\u5272\u7231\u3002\r\n\u524D\u6BB5\u65F6\u95F4\u6211\u7684\u8BA1\u7B97\u673A\u684C\u9762\u4E0A\u53C8\u5806\u6EE1\u4E86\u5404\u79CD\u73A9\u610F\u513F\uFF0C\u72E0\u72E0\u6E05\u7406\u4E86\u4E00\u4E0B\uFF0C\u4E16\u754C\u7EC8\u4E8E\u6E05\u51C0\u4E86\u3002",
   "id" : 2535856992,
   "created_at" : "Wed Jul 08 17:44:44 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3890,11 +3890,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2534655646",
-  "text" : "晚上用公司的扫描仪，每小时扫100张",
+  "text" : "\u665A\u4E0A\u7528\u516C\u53F8\u7684\u626B\u63CF\u4EEA\uFF0C\u6BCF\u5C0F\u65F6\u626B100\u5F20",
   "id" : 2534655646,
   "created_at" : "Wed Jul 08 16:27:05 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3906,7 +3906,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "李立律师（Lee Lee）",
+      "name" : "\u674E\u7ACB\u5F8B\u5E08\uFF08Lee Lee\uFF09",
       "screen_name" : "lawlee",
       "indices" : [ 3, 10 ],
       "id_str" : "17732913",
@@ -3919,11 +3919,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2528838951",
-  "text" : "RT @lawlee: [Share] 杨开亮:《设置敏感词涉嫌违法》 http://bit.ly/EOziJ //畅快淋漓啊，请蠢猪上去领奖。",
+  "text" : "RT @lawlee: [Share] \u6768\u5F00\u4EAE:\u300A\u8BBE\u7F6E\u654F\u611F\u8BCD\u6D89\u5ACC\u8FDD\u6CD5\u300B http://bit.ly/EOziJ //\u7545\u5FEB\u6DCB\u6F13\u554A\uFF0C\u8BF7\u8822\u732A\u4E0A\u53BB\u9886\u5956\u3002",
   "id" : 2528838951,
   "created_at" : "Wed Jul 08 06:38:16 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3945,11 +3945,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2528676893",
-  "text" : "我装的所有 #Firefox 插件，只有Life PageRank和Tab Mix Plus不支持v3.5了，虽然有好几个b4(before?)版的，另外Firebug还有些稳定性问题。",
+  "text" : "\u6211\u88C5\u7684\u6240\u6709 #Firefox \u63D2\u4EF6\uFF0C\u53EA\u6709Life PageRank\u548CTab Mix Plus\u4E0D\u652F\u6301v3.5\u4E86\uFF0C\u867D\u7136\u6709\u597D\u51E0\u4E2Ab4(before?)\u7248\u7684\uFF0C\u53E6\u5916Firebug\u8FD8\u6709\u4E9B\u7A33\u5B9A\u6027\u95EE\u9898\u3002",
   "id" : 2528676893,
   "created_at" : "Wed Jul 08 06:20:51 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -3976,14 +3976,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2528051650",
   "in_reply_to_user_id" : 5821872,
-  "text" : "@buchimifan 连接超时，原因未明。杭州电信",
+  "text" : "@buchimifan \u8FDE\u63A5\u8D85\u65F6\uFF0C\u539F\u56E0\u672A\u660E\u3002\u676D\u5DDE\u7535\u4FE1",
   "id" : 2528051650,
   "in_reply_to_status_id" : 2527980138,
   "created_at" : "Wed Jul 08 05:20:31 +0000 2009",
   "in_reply_to_screen_name" : "buchimifan",
   "in_reply_to_user_id_str" : "5821872",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4002,11 +4002,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2527926497",
-  "text" : "刚刚看了新疆的恐怖暴力视频 http://bit.ly/3wJVC1 ，那些搞“打砸烧”的家伙确实个个该死，他们，这些畜生，并不是想要什么自由，绝对不是。",
+  "text" : "\u521A\u521A\u770B\u4E86\u65B0\u7586\u7684\u6050\u6016\u66B4\u529B\u89C6\u9891 http://bit.ly/3wJVC1 \uFF0C\u90A3\u4E9B\u641E\u201C\u6253\u7838\u70E7\u201D\u7684\u5BB6\u4F19\u786E\u5B9E\u4E2A\u4E2A\u8BE5\u6B7B\uFF0C\u4ED6\u4EEC\uFF0C\u8FD9\u4E9B\u755C\u751F\uFF0C\u5E76\u4E0D\u662F\u60F3\u8981\u4EC0\u4E48\u81EA\u7531\uFF0C\u7EDD\u5BF9\u4E0D\u662F\u3002",
   "id" : 2527926497,
   "created_at" : "Wed Jul 08 05:09:35 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4033,14 +4033,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2527382735",
   "in_reply_to_user_id" : 10759922,
-  "text" : "@Thinkqob 打不开，链接超时，杭州电信。",
+  "text" : "@Thinkqob \u6253\u4E0D\u5F00\uFF0C\u94FE\u63A5\u8D85\u65F6\uFF0C\u676D\u5DDE\u7535\u4FE1\u3002",
   "id" : 2527382735,
   "in_reply_to_status_id" : 2527084110,
   "created_at" : "Wed Jul 08 04:26:22 +0000 2009",
   "in_reply_to_screen_name" : "Thinkqob",
   "in_reply_to_user_id_str" : "10759922",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4059,11 +4059,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2510588191",
-  "text" : "大家给点建议，网站帮助系统用什么搭建比较合适？",
+  "text" : "\u5927\u5BB6\u7ED9\u70B9\u5EFA\u8BAE\uFF0C\u7F51\u7AD9\u5E2E\u52A9\u7CFB\u7EDF\u7528\u4EC0\u4E48\u642D\u5EFA\u6BD4\u8F83\u5408\u9002\uFF1F",
   "id" : 2510588191,
   "created_at" : "Tue Jul 07 06:53:49 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4088,11 +4088,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2508287056",
-  "text" : "@xiahua 我小时候看报道法轮功的新闻联播，连当时我那幼稚的智商都不信的法轮、自焚能治病，能成佛，等等等等，却甚至连教授都有坚信不移的；“欲加之罪，何患无辞”只是在现实中找借口，但这些家伙的行径却不要脸自造弱智的所谓真相。这不是预言，只是历史重演。",
+  "text" : "@xiahua \u6211\u5C0F\u65F6\u5019\u770B\u62A5\u9053\u6CD5\u8F6E\u529F\u7684\u65B0\u95FB\u8054\u64AD\uFF0C\u8FDE\u5F53\u65F6\u6211\u90A3\u5E7C\u7A1A\u7684\u667A\u5546\u90FD\u4E0D\u4FE1\u7684\u6CD5\u8F6E\u3001\u81EA\u711A\u80FD\u6CBB\u75C5\uFF0C\u80FD\u6210\u4F5B\uFF0C\u7B49\u7B49\u7B49\u7B49\uFF0C\u5374\u751A\u81F3\u8FDE\u6559\u6388\u90FD\u6709\u575A\u4FE1\u4E0D\u79FB\u7684\uFF1B\u201C\u6B32\u52A0\u4E4B\u7F6A\uFF0C\u4F55\u60A3\u65E0\u8F9E\u201D\u53EA\u662F\u5728\u73B0\u5B9E\u4E2D\u627E\u501F\u53E3\uFF0C\u4F46\u8FD9\u4E9B\u5BB6\u4F19\u7684\u884C\u5F84\u5374\u4E0D\u8981\u8138\u81EA\u9020\u5F31\u667A\u7684\u6240\u8C13\u771F\u76F8\u3002\u8FD9\u4E0D\u662F\u9884\u8A00\uFF0C\u53EA\u662F\u5386\u53F2\u91CD\u6F14\u3002",
   "id" : 2508287056,
   "created_at" : "Tue Jul 07 03:31:53 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4114,11 +4114,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2507407671",
-  "text" : "#gvim 的代码着色经常动态失效，有什么办法解决吗？写html代码，突然某段内部css/js着色没了，有鼠标点击某处/选中这部分代码，又可以临时恢复。代码文件本身并不大。",
+  "text" : "#gvim \u7684\u4EE3\u7801\u7740\u8272\u7ECF\u5E38\u52A8\u6001\u5931\u6548\uFF0C\u6709\u4EC0\u4E48\u529E\u6CD5\u89E3\u51B3\u5417\uFF1F\u5199html\u4EE3\u7801\uFF0C\u7A81\u7136\u67D0\u6BB5\u5185\u90E8css/js\u7740\u8272\u6CA1\u4E86\uFF0C\u6709\u9F20\u6807\u70B9\u51FB\u67D0\u5904/\u9009\u4E2D\u8FD9\u90E8\u5206\u4EE3\u7801\uFF0C\u53C8\u53EF\u4EE5\u4E34\u65F6\u6062\u590D\u3002\u4EE3\u7801\u6587\u4EF6\u672C\u8EAB\u5E76\u4E0D\u5927\u3002",
   "id" : 2507407671,
   "created_at" : "Tue Jul 07 02:29:16 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4140,11 +4140,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2494811441",
-  "text" : "#Twitter 又被封锁了。",
+  "text" : "#Twitter \u53C8\u88AB\u5C01\u9501\u4E86\u3002",
   "id" : 2494811441,
   "created_at" : "Mon Jul 06 09:28:52 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4166,11 +4166,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2494799808",
-  "text" : "最喜欢这样的代码折叠：function main(){...}window.setTimeout(function(){...}, 100);\r\nbody{...}\r\n/** first line comments...*/ #vim 的代码折叠什么时候可以差强人意啊。",
+  "text" : "\u6700\u559C\u6B22\u8FD9\u6837\u7684\u4EE3\u7801\u6298\u53E0\uFF1Afunction main(){...}window.setTimeout(function(){...}, 100);\r\nbody{...}\r\n/** first line comments...*/ #vim \u7684\u4EE3\u7801\u6298\u53E0\u4EC0\u4E48\u65F6\u5019\u53EF\u4EE5\u5DEE\u5F3A\u4EBA\u610F\u554A\u3002",
   "id" : 2494799808,
   "created_at" : "Mon Jul 06 09:26:55 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4179,7 +4179,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4189,11 +4189,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2490967429",
-  "text" : "腾讯校友录的相册，两个翻页的层居然带上background-color，人家看你两个白板干P啊",
+  "text" : "\u817E\u8BAF\u6821\u53CB\u5F55\u7684\u76F8\u518C\uFF0C\u4E24\u4E2A\u7FFB\u9875\u7684\u5C42\u5C45\u7136\u5E26\u4E0Abackground-color\uFF0C\u4EBA\u5BB6\u770B\u4F60\u4E24\u4E2A\u767D\u677F\u5E72P\u554A",
   "id" : 2490967429,
   "created_at" : "Mon Jul 06 02:35:55 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4202,7 +4202,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4215,11 +4215,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2490910345",
-  "text" : "请问下，如何搜索自己的 #Twitter 消息？search.twitter.com及其Advanced Search都搜不到像样的结果。",
+  "text" : "\u8BF7\u95EE\u4E0B\uFF0C\u5982\u4F55\u641C\u7D22\u81EA\u5DF1\u7684 #Twitter \u6D88\u606F\uFF1Fsearch.twitter.com\u53CA\u5176Advanced Search\u90FD\u641C\u4E0D\u5230\u50CF\u6837\u7684\u7ED3\u679C\u3002",
   "id" : 2490910345,
   "created_at" : "Mon Jul 06 02:31:28 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4228,7 +4228,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4238,11 +4238,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2490546954",
-  "text" : "早上起来两掌打死了3只蚊子，一掌给了从衣柜里飞出来想跨境的偷渡客；另一掌给了那对刚从境外度蜜月回来的夫妇。",
+  "text" : "\u65E9\u4E0A\u8D77\u6765\u4E24\u638C\u6253\u6B7B\u4E863\u53EA\u868A\u5B50\uFF0C\u4E00\u638C\u7ED9\u4E86\u4ECE\u8863\u67DC\u91CC\u98DE\u51FA\u6765\u60F3\u8DE8\u5883\u7684\u5077\u6E21\u5BA2\uFF1B\u53E6\u4E00\u638C\u7ED9\u4E86\u90A3\u5BF9\u521A\u4ECE\u5883\u5916\u5EA6\u871C\u6708\u56DE\u6765\u7684\u592B\u5987\u3002",
   "id" : 2490546954,
   "created_at" : "Mon Jul 06 02:02:24 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4251,7 +4251,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4264,11 +4264,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2489714796",
-  "text" : "(◡‿◡✿) #TextFace",
+  "text" : "(\u25E1\u203F\u25E1\u273F) #TextFace",
   "id" : 2489714796,
   "created_at" : "Mon Jul 06 00:53:10 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4277,7 +4277,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4293,11 +4293,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2453126549",
-  "text" : "用 #Firefox 3.5登录 #Twitter 后使用https， Timeline首页是加密的，但是Profile页却没被加密",
+  "text" : "\u7528 #Firefox 3.5\u767B\u5F55 #Twitter \u540E\u4F7F\u7528https\uFF0C Timeline\u9996\u9875\u662F\u52A0\u5BC6\u7684\uFF0C\u4F46\u662FProfile\u9875\u5374\u6CA1\u88AB\u52A0\u5BC6",
   "id" : 2453126549,
   "created_at" : "Fri Jul 03 12:34:15 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4306,10 +4306,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Roamlog Lee (漫步)",
+      "name" : "Roamlog Lee (\u6F2B\u6B65)",
       "screen_name" : "roamlog",
       "indices" : [ 0, 8 ],
       "id_str" : "9845592",
@@ -4324,14 +4324,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2452969005",
   "in_reply_to_user_id" : 9845592,
-  "text" : "@roamlog 已获得豆瓣邀请，谢谢推荐。",
+  "text" : "@roamlog \u5DF2\u83B7\u5F97\u8C46\u74E3\u9080\u8BF7\uFF0C\u8C22\u8C22\u63A8\u8350\u3002",
   "id" : 2452969005,
   "in_reply_to_status_id" : 2452791777,
   "created_at" : "Fri Jul 03 12:16:49 +0000 2009",
   "in_reply_to_screen_name" : "roamlog",
   "in_reply_to_user_id_str" : "9845592",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4340,7 +4340,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : " heely",
@@ -4358,14 +4358,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2452921162",
   "in_reply_to_user_id" : 16680753,
-  "text" : "@heely 收到邀请了，太感谢了。",
+  "text" : "@heely \u6536\u5230\u9080\u8BF7\u4E86\uFF0C\u592A\u611F\u8C22\u4E86\u3002",
   "id" : 2452921162,
   "in_reply_to_status_id" : 2452872420,
   "created_at" : "Fri Jul 03 12:11:20 +0000 2009",
   "in_reply_to_screen_name" : "heely",
   "in_reply_to_user_id_str" : "16680753",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4383,7 +4383,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "16680753",
       "id" : 16680753
     }, {
-      "name" : "Roamlog Lee (漫步)",
+      "name" : "Roamlog Lee (\u6F2B\u6B65)",
       "screen_name" : "roamlog",
       "indices" : [ 8, 16 ],
       "id_str" : "9845592",
@@ -4398,14 +4398,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2452808657",
   "in_reply_to_user_id" : 16680753,
-  "text" : "@heely 应@roamlog 邀来强行索取豆瓣电台邀请，谢谢啦 ：D",
+  "text" : "@heely \u5E94@roamlog \u9080\u6765\u5F3A\u884C\u7D22\u53D6\u8C46\u74E3\u7535\u53F0\u9080\u8BF7\uFF0C\u8C22\u8C22\u5566 \uFF1AD",
   "id" : 2452808657,
   "in_reply_to_status_id" : 2452780130,
   "created_at" : "Fri Jul 03 11:58:33 +0000 2009",
   "in_reply_to_screen_name" : "heely",
   "in_reply_to_user_id_str" : "16680753",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4414,10 +4414,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 34, 40 ],
       "id_str" : "20674328",
@@ -4433,11 +4433,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2452796128",
-  "text" : "#TwitterFox 最近怎么回事？经常性不提醒我有未读推，甚至连@hotoo的也不显示未读数了。",
+  "text" : "#TwitterFox \u6700\u8FD1\u600E\u4E48\u56DE\u4E8B\uFF1F\u7ECF\u5E38\u6027\u4E0D\u63D0\u9192\u6211\u6709\u672A\u8BFB\u63A8\uFF0C\u751A\u81F3\u8FDE@hotoo\u7684\u4E5F\u4E0D\u663E\u793A\u672A\u8BFB\u6570\u4E86\u3002",
   "id" : 2452796128,
   "created_at" : "Fri Jul 03 11:57:00 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4446,10 +4446,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Roamlog Lee (漫步)",
+      "name" : "Roamlog Lee (\u6F2B\u6B65)",
       "screen_name" : "roamlog",
       "indices" : [ 0, 8 ],
       "id_str" : "9845592",
@@ -4464,14 +4464,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2452774705",
   "in_reply_to_user_id" : 9845592,
-  "text" : "@roamlog 刚刚有点事情去了，唉。",
+  "text" : "@roamlog \u521A\u521A\u6709\u70B9\u4E8B\u60C5\u53BB\u4E86\uFF0C\u5509\u3002",
   "id" : 2452774705,
   "in_reply_to_status_id" : 2452735464,
   "created_at" : "Fri Jul 03 11:54:20 +0000 2009",
   "in_reply_to_screen_name" : "roamlog",
   "in_reply_to_user_id_str" : "9845592",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4480,10 +4480,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Roamlog Lee (漫步)",
+      "name" : "Roamlog Lee (\u6F2B\u6B65)",
       "screen_name" : "roamlog",
       "indices" : [ 0, 8 ],
       "id_str" : "9845592",
@@ -4498,14 +4498,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2452697993",
   "in_reply_to_user_id" : 9845592,
-  "text" : "@roamlog 刚加了好友，请确认。我的豆瓣用户名同Twitter",
+  "text" : "@roamlog \u521A\u52A0\u4E86\u597D\u53CB\uFF0C\u8BF7\u786E\u8BA4\u3002\u6211\u7684\u8C46\u74E3\u7528\u6237\u540D\u540CTwitter",
   "id" : 2452697993,
   "in_reply_to_status_id" : 2452653977,
   "created_at" : "Fri Jul 03 11:44:52 +0000 2009",
   "in_reply_to_screen_name" : "roamlog",
   "in_reply_to_user_id_str" : "9845592",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4514,10 +4514,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Roamlog Lee (漫步)",
+      "name" : "Roamlog Lee (\u6F2B\u6B65)",
       "screen_name" : "roamlog",
       "indices" : [ 0, 8 ],
       "id_str" : "9845592",
@@ -4532,14 +4532,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2452526006",
   "in_reply_to_user_id" : 9845592,
-  "text" : "@roamlog 借来玩玩？！",
+  "text" : "@roamlog \u501F\u6765\u73A9\u73A9\uFF1F\uFF01",
   "id" : 2452526006,
   "in_reply_to_status_id" : 2452503453,
   "created_at" : "Fri Jul 03 11:22:14 +0000 2009",
   "in_reply_to_screen_name" : "roamlog",
   "in_reply_to_user_id_str" : "9845592",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4548,7 +4548,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4558,11 +4558,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2452505654",
-  "text" : "请问一下，杭州哪位有扫描仪能借用一下，想扫本书。",
+  "text" : "\u8BF7\u95EE\u4E00\u4E0B\uFF0C\u676D\u5DDE\u54EA\u4F4D\u6709\u626B\u63CF\u4EEA\u80FD\u501F\u7528\u4E00\u4E0B\uFF0C\u60F3\u626B\u672C\u4E66\u3002",
   "id" : 2452505654,
   "created_at" : "Fri Jul 03 11:19:37 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4571,7 +4571,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4584,11 +4584,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2452196911",
-  "text" : "闲耘™ #TextFace",
+  "text" : "\u95F2\u8018\u2122 #TextFace",
   "id" : 2452196911,
   "created_at" : "Fri Jul 03 10:36:04 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4600,7 +4600,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://m.dabr.co.uk\" rel=\"nofollow\">Dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 0, 6 ],
       "id_str" : "20674328",
@@ -4615,14 +4615,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2450549687",
   "in_reply_to_user_id" : 20674328,
-  "text" : "@hotoo 存几分天真好傻好幸福；闯一片未来多美多前途。童心同得\r\n//押韵压的不满意，上联应上扬，下联宜下抑；另外上、下联的结尾两个词都不够好。",
+  "text" : "@hotoo \u5B58\u51E0\u5206\u5929\u771F\u597D\u50BB\u597D\u5E78\u798F\uFF1B\u95EF\u4E00\u7247\u672A\u6765\u591A\u7F8E\u591A\u524D\u9014\u3002\u7AE5\u5FC3\u540C\u5F97\r\n//\u62BC\u97F5\u538B\u7684\u4E0D\u6EE1\u610F\uFF0C\u4E0A\u8054\u5E94\u4E0A\u626C\uFF0C\u4E0B\u8054\u5B9C\u4E0B\u6291\uFF1B\u53E6\u5916\u4E0A\u3001\u4E0B\u8054\u7684\u7ED3\u5C3E\u4E24\u4E2A\u8BCD\u90FD\u4E0D\u591F\u597D\u3002",
   "id" : 2450549687,
   "in_reply_to_status_id" : 2448434392,
   "created_at" : "Fri Jul 03 06:52:18 +0000 2009",
   "in_reply_to_screen_name" : "hotoo",
   "in_reply_to_user_id_str" : "20674328",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4631,10 +4631,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "坏人",
+      "name" : "\u574F\u4EBA",
       "screen_name" : "huairen",
       "indices" : [ 4, 12 ],
       "id_str" : "17886815",
@@ -4647,11 +4647,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2450407917",
-  "text" : "RT: @huairen: HI。。。换了新头像。。好清爽呀。。。 // 哇，你的头像牛逼。",
+  "text" : "RT: @huairen: HI\u3002\u3002\u3002\u6362\u4E86\u65B0\u5934\u50CF\u3002\u3002\u597D\u6E05\u723D\u5440\u3002\u3002\u3002 // \u54C7\uFF0C\u4F60\u7684\u5934\u50CF\u725B\u903C\u3002",
   "id" : 2450407917,
   "created_at" : "Fri Jul 03 06:36:06 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4660,7 +4660,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4670,11 +4670,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2449660065",
-  "text" : "w3c是一个善！变的组织，从HTML4到XHTML2又回到HTML5。XHTML 2 Working Group Expected to Stop Work End of 2009,W3C to Increase Resources on HTML 5 http://w3.org",
+  "text" : "w3c\u662F\u4E00\u4E2A\u5584\uFF01\u53D8\u7684\u7EC4\u7EC7\uFF0C\u4ECEHTML4\u5230XHTML2\u53C8\u56DE\u5230HTML5\u3002XHTML 2 Working Group Expected to Stop Work End of 2009,W3C to Increase Resources on HTML 5 http://w3.org",
   "id" : 2449660065,
   "created_at" : "Fri Jul 03 05:19:14 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4683,10 +4683,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 0, 6 ],
       "id_str" : "20674328",
@@ -4701,14 +4701,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2448474016",
   "in_reply_to_user_id" : 20674328,
-  "text" : "@hotoo 存几分天真好傻好幸福；闯一片未来又长又美好。夫妻同心",
+  "text" : "@hotoo \u5B58\u51E0\u5206\u5929\u771F\u597D\u50BB\u597D\u5E78\u798F\uFF1B\u95EF\u4E00\u7247\u672A\u6765\u53C8\u957F\u53C8\u7F8E\u597D\u3002\u592B\u59BB\u540C\u5FC3",
   "id" : 2448474016,
   "in_reply_to_status_id" : 2448434392,
   "created_at" : "Fri Jul 03 03:37:48 +0000 2009",
   "in_reply_to_screen_name" : "hotoo",
   "in_reply_to_user_id_str" : "20674328",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4717,7 +4717,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "magic_gao",
@@ -4734,13 +4734,13 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2448434392",
   "in_reply_to_user_id" : 16067124,
-  "text" : "@magic_gao A little bit naive too young too simple;\nHave a great future so far so good.\ncouple of the day\n存一份天真好傻好幸福；\n闯一片未来真长真美好。\n夫妻同心",
+  "text" : "@magic_gao A little bit naive too young too simple;\nHave a great future so far so good.\ncouple of the day\n\u5B58\u4E00\u4EFD\u5929\u771F\u597D\u50BB\u597D\u5E78\u798F\uFF1B\n\u95EF\u4E00\u7247\u672A\u6765\u771F\u957F\u771F\u7F8E\u597D\u3002\n\u592B\u59BB\u540C\u5FC3",
   "id" : 2448434392,
   "created_at" : "Fri Jul 03 03:34:42 +0000 2009",
   "in_reply_to_screen_name" : "magic_gao",
   "in_reply_to_user_id_str" : "16067124",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4749,7 +4749,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4762,11 +4762,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2434627230",
-  "text" : "(❤‿,❤) #TextFace",
+  "text" : "(\u2764\u203F,\u2764) #TextFace",
   "id" : 2434627230,
   "created_at" : "Thu Jul 02 09:08:25 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4775,7 +4775,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4788,11 +4788,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2434617073",
-  "text" : "٩(̾●̮̮̃̾•̃̾)۶ #TextFace",
+  "text" : "\u0669(\u033E\u25CF\u032E\u032E\u0303\u033E\u2022\u0303\u033E)\u06F6 #TextFace",
   "id" : 2434617073,
   "created_at" : "Thu Jul 02 09:06:52 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4801,7 +4801,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4811,11 +4811,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2433035611",
-  "text" : "\"绿坝\"过滤计划迟早会实施-官员 http://tinyurl.com/m5x3jt // 我越发觉得这是一个阴谋，以至于执政府要这么死撑着的坚持，这绝不是面子问题。",
+  "text" : "\"\u7EFF\u575D\"\u8FC7\u6EE4\u8BA1\u5212\u8FDF\u65E9\u4F1A\u5B9E\u65BD-\u5B98\u5458 http://tinyurl.com/m5x3jt // \u6211\u8D8A\u53D1\u89C9\u5F97\u8FD9\u662F\u4E00\u4E2A\u9634\u8C0B\uFF0C\u4EE5\u81F3\u4E8E\u6267\u653F\u5E9C\u8981\u8FD9\u4E48\u6B7B\u6491\u7740\u7684\u575A\u6301\uFF0C\u8FD9\u7EDD\u4E0D\u662F\u9762\u5B50\u95EE\u9898\u3002",
   "id" : 2433035611,
   "created_at" : "Thu Jul 02 05:49:11 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4824,10 +4824,10 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bruce ⚡ Wang ",
+      "name" : "Bruce \u26A1 Wang ",
       "screen_name" : "number5",
       "indices" : [ 0, 8 ],
       "id_str" : "13581",
@@ -4842,14 +4842,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2432699055",
   "in_reply_to_user_id" : 13581,
-  "text" : "@number5 把label拖到邮件上，或把邮件拖到label上，都是给邮件加标签。选择多封邮件前的复选框，然后拖其中一封到某标签上，可以同时对多封邮件加这个标签。另外发现标签的管理方式也特别赞。",
+  "text" : "@number5 \u628Alabel\u62D6\u5230\u90AE\u4EF6\u4E0A\uFF0C\u6216\u628A\u90AE\u4EF6\u62D6\u5230label\u4E0A\uFF0C\u90FD\u662F\u7ED9\u90AE\u4EF6\u52A0\u6807\u7B7E\u3002\u9009\u62E9\u591A\u5C01\u90AE\u4EF6\u524D\u7684\u590D\u9009\u6846\uFF0C\u7136\u540E\u62D6\u5176\u4E2D\u4E00\u5C01\u5230\u67D0\u6807\u7B7E\u4E0A\uFF0C\u53EF\u4EE5\u540C\u65F6\u5BF9\u591A\u5C01\u90AE\u4EF6\u52A0\u8FD9\u4E2A\u6807\u7B7E\u3002\u53E6\u5916\u53D1\u73B0\u6807\u7B7E\u7684\u7BA1\u7406\u65B9\u5F0F\u4E5F\u7279\u522B\u8D5E\u3002",
   "id" : 2432699055,
   "in_reply_to_status_id" : 2432601238,
   "created_at" : "Thu Jul 02 05:16:03 +0000 2009",
   "in_reply_to_screen_name" : "number5",
   "in_reply_to_user_id_str" : "13581",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4861,7 +4861,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "何必呢",
+      "name" : "\u4F55\u5FC5\u5462",
       "screen_name" : "ksky",
       "indices" : [ 0, 5 ],
       "id_str" : "1413721",
@@ -4876,14 +4876,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2429958141",
   "in_reply_to_user_id" : 1413721,
-  "text" : "@ksky 是些什么好专辑，，口水。",
+  "text" : "@ksky \u662F\u4E9B\u4EC0\u4E48\u597D\u4E13\u8F91\uFF0C\uFF0C\u53E3\u6C34\u3002",
   "id" : 2429958141,
   "in_reply_to_status_id" : 2429725292,
   "created_at" : "Thu Jul 02 01:44:53 +0000 2009",
   "in_reply_to_screen_name" : "ksky",
   "in_reply_to_user_id_str" : "1413721",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4892,7 +4892,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4902,11 +4902,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2429728863",
-  "text" : "匆忙出门，忘了带手机。",
+  "text" : "\u5306\u5FD9\u51FA\u95E8\uFF0C\u5FD8\u4E86\u5E26\u624B\u673A\u3002",
   "id" : 2429728863,
   "created_at" : "Thu Jul 02 01:28:45 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4915,7 +4915,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4928,11 +4928,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2429569792",
-  "text" : "赞啊，#Gmail 新版。啧啧啧。。",
+  "text" : "\u8D5E\u554A\uFF0C#Gmail \u65B0\u7248\u3002\u5567\u5567\u5567\u3002\u3002",
   "id" : 2429569792,
   "created_at" : "Thu Jul 02 01:17:23 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4941,7 +4941,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Steven Lin | flypig",
@@ -4957,11 +4957,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2414528765",
-  "text" : "RT: @flypig: 今天罢网的同学请举一下手。 //罢网的怎么举手？ 顺便无视一下罢网这样rz的举动。",
+  "text" : "RT: @flypig: \u4ECA\u5929\u7F62\u7F51\u7684\u540C\u5B66\u8BF7\u4E3E\u4E00\u4E0B\u624B\u3002 //\u7F62\u7F51\u7684\u600E\u4E48\u4E3E\u624B\uFF1F \u987A\u4FBF\u65E0\u89C6\u4E00\u4E0B\u7F62\u7F51\u8FD9\u6837rz\u7684\u4E3E\u52A8\u3002",
   "id" : 2414528765,
   "created_at" : "Wed Jul 01 03:12:43 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4970,7 +4970,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4978,7 +4978,7 @@ Grailbird.data.tweets_2009_07 =
       "text" : "Firefox",
       "indices" : [ 0, 8 ]
     }, {
-      "text" : "Firebug图标看着真不习惯",
+      "text" : "Firebug\u56FE\u6807\u770B\u7740\u771F\u4E0D\u4E60\u60EF",
       "indices" : [ 15, 31 ]
     } ],
     "urls" : [ ]
@@ -4986,11 +4986,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2414028012",
-  "text" : "#Firefox 3.5下的 #Firebug图标看着真不习惯。",
+  "text" : "#Firefox 3.5\u4E0B\u7684 #Firebug\u56FE\u6807\u770B\u7740\u771F\u4E0D\u4E60\u60EF\u3002",
   "id" : 2414028012,
   "created_at" : "Wed Jul 01 02:34:44 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -4999,7 +4999,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "plidezus",
@@ -5017,14 +5017,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2413917023",
   "in_reply_to_user_id" : 17612854,
-  "text" : "@plidezus 我是从3.0.11查找并安装更新，不知道你装的是不是中国版？",
+  "text" : "@plidezus \u6211\u662F\u4ECE3.0.11\u67E5\u627E\u5E76\u5B89\u88C5\u66F4\u65B0\uFF0C\u4E0D\u77E5\u9053\u4F60\u88C5\u7684\u662F\u4E0D\u662F\u4E2D\u56FD\u7248\uFF1F",
   "id" : 2413917023,
   "in_reply_to_status_id" : 2413826647,
   "created_at" : "Wed Jul 01 02:26:32 +0000 2009",
   "in_reply_to_screen_name" : "plidezus",
   "in_reply_to_user_id_str" : "17612854",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -5033,7 +5033,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5046,11 +5046,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2413869995",
-  "text" : "#Firefox 插件们都很积极，突然就发现了4个更新。",
+  "text" : "#Firefox \u63D2\u4EF6\u4EEC\u90FD\u5F88\u79EF\u6781\uFF0C\u7A81\u7136\u5C31\u53D1\u73B0\u4E864\u4E2A\u66F4\u65B0\u3002",
   "id" : 2413869995,
   "created_at" : "Wed Jul 01 02:22:58 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -5059,7 +5059,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "plidezus",
@@ -5077,14 +5077,14 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2413732983",
   "in_reply_to_user_id" : 17612854,
-  "text" : "@plidezus 没有的事，正常。",
+  "text" : "@plidezus \u6CA1\u6709\u7684\u4E8B\uFF0C\u6B63\u5E38\u3002",
   "id" : 2413732983,
   "in_reply_to_status_id" : 2413458129,
   "created_at" : "Wed Jul 01 02:12:59 +0000 2009",
   "in_reply_to_screen_name" : "plidezus",
   "in_reply_to_user_id_str" : "17612854",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -5093,7 +5093,7 @@ Grailbird.data.tweets_2009_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
+  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lorz",
@@ -5102,7 +5102,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "18186670",
       "id" : 18186670
     }, {
-      "name" : "兽兽",
+      "name" : "\u517D\u517D",
       "screen_name" : "Showfom",
       "indices" : [ 16, 24 ],
       "id_str" : "15115534",
@@ -5121,11 +5121,11 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2412730246",
-  "text" : "RT: @ilorz: RT: @Showfom: RT: @sivaDu: 我草！网吧也强制安装绿坝！网吧不允许未成年人进入装个绿坝草泥马呀！//日，有这种事情啊！！！//……",
+  "text" : "RT: @ilorz: RT: @Showfom: RT: @sivaDu: \u6211\u8349\uFF01\u7F51\u5427\u4E5F\u5F3A\u5236\u5B89\u88C5\u7EFF\u575D\uFF01\u7F51\u5427\u4E0D\u5141\u8BB8\u672A\u6210\u5E74\u4EBA\u8FDB\u5165\u88C5\u4E2A\u7EFF\u575D\u8349\u6CE5\u9A6C\u5440\uFF01//\u65E5\uFF0C\u6709\u8FD9\u79CD\u4E8B\u60C5\u554A\uFF01\uFF01\uFF01//\u2026\u2026",
   "id" : 2412730246,
   "created_at" : "Wed Jul 01 00:57:32 +0000 2009",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",

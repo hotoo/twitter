@@ -10,11 +10,11 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "218605322544218112",
-  "text" : "HTML5 WebForms2 的 input[type=date] 支持 HTML5 的各个浏览器都各自 UI 也不同，日期格式定义也没有，required 这样的表单验证也有反馈不一致的。除了避开不用，有其他关闭原生支持的方法么？",
+  "text" : "HTML5 WebForms2 \u7684 input[type=date] \u652F\u6301 HTML5 \u7684\u5404\u4E2A\u6D4F\u89C8\u5668\u90FD\u5404\u81EA UI \u4E5F\u4E0D\u540C\uFF0C\u65E5\u671F\u683C\u5F0F\u5B9A\u4E49\u4E5F\u6CA1\u6709\uFF0Crequired \u8FD9\u6837\u7684\u8868\u5355\u9A8C\u8BC1\u4E5F\u6709\u53CD\u9988\u4E0D\u4E00\u81F4\u7684\u3002\u9664\u4E86\u907F\u5F00\u4E0D\u7528\uFF0C\u6709\u5176\u4ED6\u5173\u95ED\u539F\u751F\u652F\u6301\u7684\u65B9\u6CD5\u4E48\uFF1F",
   "id" : 218605322544218112,
   "created_at" : "Fri Jun 29 07:22:25 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -33,11 +33,11 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "215698115909525504",
-  "text" : "在『我的支付宝』同时按下 &lt;Shift-?&gt; 有惊喜哈~~",
+  "text" : "\u5728\u300E\u6211\u7684\u652F\u4ED8\u5B9D\u300F\u540C\u65F6\u6309\u4E0B &lt;Shift-?&gt; \u6709\u60CA\u559C\u54C8~~",
   "id" : 215698115909525504,
   "created_at" : "Thu Jun 21 06:50:12 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -49,7 +49,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "明城",
+      "name" : "\u660E\u57CE",
       "screen_name" : "feelinglucky",
       "indices" : [ 0, 13 ],
       "id_str" : "8554282",
@@ -66,14 +66,14 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "212192450494742529",
   "in_reply_to_user_id" : 8554282,
-  "text" : "@feelinglucky 有推荐图标没有？",
+  "text" : "@feelinglucky \u6709\u63A8\u8350\u56FE\u6807\u6CA1\u6709\uFF1F",
   "id" : 212192450494742529,
   "in_reply_to_status_id" : 212191775127900161,
   "created_at" : "Mon Jun 11 14:39:57 +0000 2012",
   "in_reply_to_screen_name" : "feelinglucky",
   "in_reply_to_user_id_str" : "8554282",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -85,7 +85,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "明城",
+      "name" : "\u660E\u57CE",
       "screen_name" : "feelinglucky",
       "indices" : [ 0, 13 ],
       "id_str" : "8554282",
@@ -102,14 +102,14 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "212190219288580097",
   "in_reply_to_user_id" : 8554282,
-  "text" : "@feelinglucky 想搞件好的' 但是买者嫌贵' 厂家嫌少' 某兄虽义气' 这事却难搞' 哎 吃力不讨好",
+  "text" : "@feelinglucky \u60F3\u641E\u4EF6\u597D\u7684' \u4F46\u662F\u4E70\u8005\u5ACC\u8D35' \u5382\u5BB6\u5ACC\u5C11' \u67D0\u5144\u867D\u4E49\u6C14' \u8FD9\u4E8B\u5374\u96BE\u641E' \u54CE \u5403\u529B\u4E0D\u8BA8\u597D",
   "id" : 212190219288580097,
   "in_reply_to_status_id" : 212188146211885056,
   "created_at" : "Mon Jun 11 14:31:05 +0000 2012",
   "in_reply_to_screen_name" : "feelinglucky",
   "in_reply_to_user_id_str" : "8554282",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -134,7 +134,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "212187542630580225",
-  "text" : "RT @karlzheng: 有很多人离开了一家公司是觉得公司对他不公平，其实大可不必这么认为，公司作为一个盈利组织只是在法律上和你是雇佣关系。你所产生的任何情感，爱也好恨也好只不过是基于一群人，几个人或一个人。客观地看待离开这件事情会更加理性。",
+  "text" : "RT @karlzheng: \u6709\u5F88\u591A\u4EBA\u79BB\u5F00\u4E86\u4E00\u5BB6\u516C\u53F8\u662F\u89C9\u5F97\u516C\u53F8\u5BF9\u4ED6\u4E0D\u516C\u5E73\uFF0C\u5176\u5B9E\u5927\u53EF\u4E0D\u5FC5\u8FD9\u4E48\u8BA4\u4E3A\uFF0C\u516C\u53F8\u4F5C\u4E3A\u4E00\u4E2A\u76C8\u5229\u7EC4\u7EC7\u53EA\u662F\u5728\u6CD5\u5F8B\u4E0A\u548C\u4F60\u662F\u96C7\u4F63\u5173\u7CFB\u3002\u4F60\u6240\u4EA7\u751F\u7684\u4EFB\u4F55\u60C5\u611F\uFF0C\u7231\u4E5F\u597D\u6068\u4E5F\u597D\u53EA\u4E0D\u8FC7\u662F\u57FA\u4E8E\u4E00\u7FA4\u4EBA\uFF0C\u51E0\u4E2A\u4EBA\u6216\u4E00\u4E2A\u4EBA\u3002\u5BA2\u89C2\u5730\u770B\u5F85\u79BB\u5F00\u8FD9\u4EF6\u4E8B\u60C5\u4F1A\u66F4\u52A0\u7406\u6027\u3002",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -146,7 +146,7 @@ Grailbird.data.tweets_2012_06 =
     "geo" : {
     },
     "id_str" : "212165473926774784",
-    "text" : "有很多人离开了一家公司是觉得公司对他不公平，其实大可不必这么认为，公司作为一个盈利组织只是在法律上和你是雇佣关系。你所产生的任何情感，爱也好恨也好只不过是基于一群人，几个人或一个人。客观地看待离开这件事情会更加理性。",
+    "text" : "\u6709\u5F88\u591A\u4EBA\u79BB\u5F00\u4E86\u4E00\u5BB6\u516C\u53F8\u662F\u89C9\u5F97\u516C\u53F8\u5BF9\u4ED6\u4E0D\u516C\u5E73\uFF0C\u5176\u5B9E\u5927\u53EF\u4E0D\u5FC5\u8FD9\u4E48\u8BA4\u4E3A\uFF0C\u516C\u53F8\u4F5C\u4E3A\u4E00\u4E2A\u76C8\u5229\u7EC4\u7EC7\u53EA\u662F\u5728\u6CD5\u5F8B\u4E0A\u548C\u4F60\u662F\u96C7\u4F63\u5173\u7CFB\u3002\u4F60\u6240\u4EA7\u751F\u7684\u4EFB\u4F55\u60C5\u611F\uFF0C\u7231\u4E5F\u597D\u6068\u4E5F\u597D\u53EA\u4E0D\u8FC7\u662F\u57FA\u4E8E\u4E00\u7FA4\u4EBA\uFF0C\u51E0\u4E2A\u4EBA\u6216\u4E00\u4E2A\u4EBA\u3002\u5BA2\u89C2\u5730\u770B\u5F85\u79BB\u5F00\u8FD9\u4EF6\u4E8B\u60C5\u4F1A\u66F4\u52A0\u7406\u6027\u3002",
     "id" : 212165473926774784,
     "created_at" : "Mon Jun 11 12:52:45 +0000 2012",
     "user" : {
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_06 =
   "id" : 212187542630580225,
   "created_at" : "Mon Jun 11 14:20:27 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -174,7 +174,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "明城",
+      "name" : "\u660E\u57CE",
       "screen_name" : "feelinglucky",
       "indices" : [ 0, 13 ],
       "id_str" : "8554282",
@@ -191,14 +191,14 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "212187226765918208",
   "in_reply_to_user_id" : 8554282,
-  "text" : "@feelinglucky 饱食思淫欲~",
+  "text" : "@feelinglucky \u9971\u98DF\u601D\u6DEB\u6B32~",
   "id" : 212187226765918208,
   "in_reply_to_status_id" : 212164037956468736,
   "created_at" : "Mon Jun 11 14:19:11 +0000 2012",
   "in_reply_to_screen_name" : "feelinglucky",
   "in_reply_to_user_id_str" : "8554282",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",

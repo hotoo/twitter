@@ -10,11 +10,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "173698468202807297",
-  "text" : "喜欢 trello 的呈现方式，一目了然。想用它来做 GTD 工具，其他都很赞，但是组织 Project 就麻烦了。以前想过 checklist 可以手动或指定规则呈现在 list 里就好了",
+  "text" : "\u559C\u6B22 trello \u7684\u5448\u73B0\u65B9\u5F0F\uFF0C\u4E00\u76EE\u4E86\u7136\u3002\u60F3\u7528\u5B83\u6765\u505A GTD \u5DE5\u5177\uFF0C\u5176\u4ED6\u90FD\u5F88\u8D5E\uFF0C\u4F46\u662F\u7EC4\u7EC7 Project \u5C31\u9EBB\u70E6\u4E86\u3002\u4EE5\u524D\u60F3\u8FC7 checklist \u53EF\u4EE5\u624B\u52A8\u6216\u6307\u5B9A\u89C4\u5219\u5448\u73B0\u5728 list \u91CC\u5C31\u597D\u4E86",
   "id" : 173698468202807297,
   "created_at" : "Sun Feb 26 09:18:36 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -33,11 +33,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "173595211648344065",
-  "text" : "手电插在没电的插座上一晚上，把电放没了",
+  "text" : "\u624B\u7535\u63D2\u5728\u6CA1\u7535\u7684\u63D2\u5EA7\u4E0A\u4E00\u665A\u4E0A\uFF0C\u628A\u7535\u653E\u6CA1\u4E86",
   "id" : 173595211648344065,
   "created_at" : "Sun Feb 26 02:28:18 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -64,14 +64,14 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "173594535664951296",
   "in_reply_to_user_id" : 97830312,
-  "text" : "@ethan168 怎么跑到金华去了？",
+  "text" : "@ethan168 \u600E\u4E48\u8DD1\u5230\u91D1\u534E\u53BB\u4E86\uFF1F",
   "id" : 173594535664951296,
   "in_reply_to_status_id" : 173572352020455425,
   "created_at" : "Sun Feb 26 02:25:37 +0000 2012",
   "in_reply_to_screen_name" : "ethan168",
   "in_reply_to_user_id_str" : "97830312",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 173081978881589249,
   "created_at" : "Fri Feb 24 16:28:54 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -136,7 +136,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "泡泡",
+      "name" : "\u6CE1\u6CE1",
       "screen_name" : "popomore",
       "indices" : [ 84, 93 ],
       "id_str" : "15403915",
@@ -149,11 +149,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "173078318457958401",
-  "text" : "用2.5L可乐瓶装的老家带来自酿冷藏谷酒分装在3个750mL的葡萄酒瓶里，玻璃瓶已经结冰了。还剩一些装不下。另外软木塞总是被冲开，有什么办法抽调瓶里的空气么？感谢小高 @popomore 和不怎么上推的 @天篷。照片发送失败，555",
+  "text" : "\u75282.5L\u53EF\u4E50\u74F6\u88C5\u7684\u8001\u5BB6\u5E26\u6765\u81EA\u917F\u51B7\u85CF\u8C37\u9152\u5206\u88C5\u57283\u4E2A750mL\u7684\u8461\u8404\u9152\u74F6\u91CC\uFF0C\u73BB\u7483\u74F6\u5DF2\u7ECF\u7ED3\u51B0\u4E86\u3002\u8FD8\u5269\u4E00\u4E9B\u88C5\u4E0D\u4E0B\u3002\u53E6\u5916\u8F6F\u6728\u585E\u603B\u662F\u88AB\u51B2\u5F00\uFF0C\u6709\u4EC0\u4E48\u529E\u6CD5\u62BD\u8C03\u74F6\u91CC\u7684\u7A7A\u6C14\u4E48\uFF1F\u611F\u8C22\u5C0F\u9AD8 @popomore \u548C\u4E0D\u600E\u4E48\u4E0A\u63A8\u7684 @\u5929\u7BF7\u3002\u7167\u7247\u53D1\u9001\u5931\u8D25\uFF0C555",
   "id" : 173078318457958401,
   "created_at" : "Fri Feb 24 16:14:21 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -172,11 +172,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "172567876706893824",
-  "text" : "iPhone 最近出现邮件主体白屏现象，但是转发的时候却可以看到主体内容，各种折腾未遂，最后重启搞定。呃，另外 iPhone 的死机率不比 XP 差",
+  "text" : "iPhone \u6700\u8FD1\u51FA\u73B0\u90AE\u4EF6\u4E3B\u4F53\u767D\u5C4F\u73B0\u8C61\uFF0C\u4F46\u662F\u8F6C\u53D1\u7684\u65F6\u5019\u5374\u53EF\u4EE5\u770B\u5230\u4E3B\u4F53\u5185\u5BB9\uFF0C\u5404\u79CD\u6298\u817E\u672A\u9042\uFF0C\u6700\u540E\u91CD\u542F\u641E\u5B9A\u3002\u5443\uFF0C\u53E6\u5916 iPhone \u7684\u6B7B\u673A\u7387\u4E0D\u6BD4 XP \u5DEE",
   "id" : 172567876706893824,
   "created_at" : "Thu Feb 23 06:26:02 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -203,14 +203,14 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "171631568178262017",
   "in_reply_to_user_id" : 6998112,
-  "text" : "@fenbox 我的iPhone最近邮件只能被推送简要消息，拉不到主体内容。不知道什么原因？",
+  "text" : "@fenbox \u6211\u7684iPhone\u6700\u8FD1\u90AE\u4EF6\u53EA\u80FD\u88AB\u63A8\u9001\u7B80\u8981\u6D88\u606F\uFF0C\u62C9\u4E0D\u5230\u4E3B\u4F53\u5185\u5BB9\u3002\u4E0D\u77E5\u9053\u4EC0\u4E48\u539F\u56E0\uFF1F",
   "id" : 171631568178262017,
   "in_reply_to_status_id" : 171612725548564481,
   "created_at" : "Mon Feb 20 16:25:29 +0000 2012",
   "in_reply_to_screen_name" : "fenbox",
   "in_reply_to_user_id_str" : "6998112",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -228,7 +228,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "2862101",
       "id" : 2862101
     }, {
-      "name" : "王保平 玉伯  ♨",
+      "name" : "\u738B\u4FDD\u5E73 \u7389\u4F2F \uF8FF \u2668",
       "screen_name" : "lifesinger",
       "indices" : [ 8, 19 ],
       "id_str" : "16681326",
@@ -243,14 +243,14 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "171419813267243008",
   "in_reply_to_user_id" : 2862101,
-  "text" : "@vingel @lifesinger 伯阳一直说支付宝没有大牛，现在你无憾了 ：）",
+  "text" : "@vingel @lifesinger \u4F2F\u9633\u4E00\u76F4\u8BF4\u652F\u4ED8\u5B9D\u6CA1\u6709\u5927\u725B\uFF0C\u73B0\u5728\u4F60\u65E0\u61BE\u4E86 \uFF1A\uFF09",
   "id" : 171419813267243008,
   "in_reply_to_status_id" : 171416747893723137,
   "created_at" : "Mon Feb 20 02:24:02 +0000 2012",
   "in_reply_to_screen_name" : "vingel",
   "in_reply_to_user_id_str" : "2862101",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -269,11 +269,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "171418724367204353",
-  "text" : "如果把 CSS 也当作一门编程语言，那么 CSS 看起来就像是希伯来语。var bb=BlobBuilder||WebKitBlobBuilder||MozBlobBuilder; div{-moz-opacity:1;-webkit-opacity:1;opacity:1;}",
+  "text" : "\u5982\u679C\u628A CSS \u4E5F\u5F53\u4F5C\u4E00\u95E8\u7F16\u7A0B\u8BED\u8A00\uFF0C\u90A3\u4E48 CSS \u770B\u8D77\u6765\u5C31\u50CF\u662F\u5E0C\u4F2F\u6765\u8BED\u3002var bb=BlobBuilder||WebKitBlobBuilder||MozBlobBuilder; div{-moz-opacity:1;-webkit-opacity:1;opacity:1;}",
   "id" : 171418724367204353,
   "created_at" : "Mon Feb 20 02:19:43 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -292,11 +292,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "171407900449841152",
-  "text" : "看了同事休假邮件，才知道小孩出生之前需要有出生证这么一回事，家长自身还需要有准生证。想起办证的证遮住政府的政的漫画。哈哈哈。。",
+  "text" : "\u770B\u4E86\u540C\u4E8B\u4F11\u5047\u90AE\u4EF6\uFF0C\u624D\u77E5\u9053\u5C0F\u5B69\u51FA\u751F\u4E4B\u524D\u9700\u8981\u6709\u51FA\u751F\u8BC1\u8FD9\u4E48\u4E00\u56DE\u4E8B\uFF0C\u5BB6\u957F\u81EA\u8EAB\u8FD8\u9700\u8981\u6709\u51C6\u751F\u8BC1\u3002\u60F3\u8D77\u529E\u8BC1\u7684\u8BC1\u906E\u4F4F\u653F\u5E9C\u7684\u653F\u7684\u6F2B\u753B\u3002\u54C8\u54C8\u54C8\u3002\u3002",
   "id" : 171407900449841152,
   "created_at" : "Mon Feb 20 01:36:42 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -315,11 +315,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "169472541470101504",
-  "text" : "突然暴雨，杭州。",
+  "text" : "\u7A81\u7136\u66B4\u96E8\uFF0C\u676D\u5DDE\u3002",
   "id" : 169472541470101504,
   "created_at" : "Tue Feb 14 17:26:17 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -331,7 +331,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "据说这个用户名在十寸屏幕上也只能显示到…",
+      "name" : "\u636E\u8BF4\u8FD9\u4E2A\u7528\u6237\u540D\u5728\u5341\u5BF8\u5C4F\u5E55\u4E0A\u4E5F\u53EA\u80FD\u663E\u793A\u5230\u2026",
       "screen_name" : "Fatal1tyV",
       "indices" : [ 3, 13 ],
       "id_str" : "36973250",
@@ -344,7 +344,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "168876982862483456",
-  "text" : "RT @Fatal1tyV: 『你在什么情况下说谎最多？』『我想想…“我已认真阅读并同意该用户许可协议”…』",
+  "text" : "RT @Fatal1tyV: \u300E\u4F60\u5728\u4EC0\u4E48\u60C5\u51B5\u4E0B\u8BF4\u8C0E\u6700\u591A\uFF1F\u300F\u300E\u6211\u60F3\u60F3\u2026\u201C\u6211\u5DF2\u8BA4\u771F\u9605\u8BFB\u5E76\u540C\u610F\u8BE5\u7528\u6237\u8BB8\u53EF\u534F\u8BAE\u201D\u2026\u300F",
   "retweeted_status" : {
     "source" : "<a href=\"http://hotot.org\" rel=\"nofollow\">Hotot for Chrome</a>",
     "entities" : {
@@ -356,11 +356,11 @@ Grailbird.data.tweets_2012_02 =
     "geo" : {
     },
     "id_str" : "168732096599306240",
-    "text" : "『你在什么情况下说谎最多？』『我想想…“我已认真阅读并同意该用户许可协议”…』",
+    "text" : "\u300E\u4F60\u5728\u4EC0\u4E48\u60C5\u51B5\u4E0B\u8BF4\u8C0E\u6700\u591A\uFF1F\u300F\u300E\u6211\u60F3\u60F3\u2026\u201C\u6211\u5DF2\u8BA4\u771F\u9605\u8BFB\u5E76\u540C\u610F\u8BE5\u7528\u6237\u8BB8\u53EF\u534F\u8BAE\u201D\u2026\u300F",
     "id" : 168732096599306240,
     "created_at" : "Sun Feb 12 16:24:01 +0000 2012",
     "user" : {
-      "name" : "据说这个用户名在十寸屏幕上也只能显示到…",
+      "name" : "\u636E\u8BF4\u8FD9\u4E2A\u7528\u6237\u540D\u5728\u5341\u5BF8\u5C4F\u5E55\u4E0A\u4E5F\u53EA\u80FD\u663E\u793A\u5230\u2026",
       "screen_name" : "Fatal1tyV",
       "protected" : false,
       "id_str" : "36973250",
@@ -372,7 +372,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 168876982862483456,
   "created_at" : "Mon Feb 13 01:59:44 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -391,11 +391,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "168875729797398529",
-  "text" : "在厕所抽烟、鸡巴乱射、用完不冲的人最讨厌了",
+  "text" : "\u5728\u5395\u6240\u62BD\u70DF\u3001\u9E21\u5DF4\u4E71\u5C04\u3001\u7528\u5B8C\u4E0D\u51B2\u7684\u4EBA\u6700\u8BA8\u538C\u4E86",
   "id" : 168875729797398529,
   "created_at" : "Mon Feb 13 01:54:46 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "您的好友老杨",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -422,14 +422,14 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "168338144977100800",
   "in_reply_to_user_id" : 50969839,
-  "text" : "@laoyang945 vim 是终端（命令行）版本，gvim 是 GUI 版本。你可以在命令行里执行两个命令试试",
+  "text" : "@laoyang945 vim \u662F\u7EC8\u7AEF\uFF08\u547D\u4EE4\u884C\uFF09\u7248\u672C\uFF0Cgvim \u662F GUI \u7248\u672C\u3002\u4F60\u53EF\u4EE5\u5728\u547D\u4EE4\u884C\u91CC\u6267\u884C\u4E24\u4E2A\u547D\u4EE4\u8BD5\u8BD5",
   "id" : 168338144977100800,
   "in_reply_to_status_id" : 168306789870350336,
   "created_at" : "Sat Feb 11 14:18:35 +0000 2012",
   "in_reply_to_screen_name" : "laoyang945",
   "in_reply_to_user_id_str" : "50969839",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "您的好友老杨",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -456,14 +456,14 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "168303739747311617",
   "in_reply_to_user_id" : 50969839,
-  "text" : "@laoyang945 gvim 是一种  vim 版本，vim 是各种 vim 版本的统称。不知道说得对么",
+  "text" : "@laoyang945 gvim \u662F\u4E00\u79CD  vim \u7248\u672C\uFF0Cvim \u662F\u5404\u79CD vim \u7248\u672C\u7684\u7EDF\u79F0\u3002\u4E0D\u77E5\u9053\u8BF4\u5F97\u5BF9\u4E48",
   "id" : 168303739747311617,
   "in_reply_to_status_id" : 168265375513985024,
   "created_at" : "Sat Feb 11 12:01:53 +0000 2012",
   "in_reply_to_screen_name" : "laoyang945",
   "in_reply_to_user_id_str" : "50969839",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -475,7 +475,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "臭小籽",
+      "name" : "\u624D\u7C7D",
       "screen_name" : "Mikoo45",
       "indices" : [ 3, 11 ],
       "id_str" : "359627281",
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "168148061770612736",
-  "text" : "RT @mikoo45: 教授，考試給學生扣分是違法的，因為\n刑法規定：利用他人無知造成他人損失的行為就是欺詐罪 。",
+  "text" : "RT @mikoo45: \u6559\u6388\uFF0C\u8003\u8A66\u7D66\u5B78\u751F\u6263\u5206\u662F\u9055\u6CD5\u7684\uFF0C\u56E0\u70BA\n\u5211\u6CD5\u898F\u5B9A\uFF1A\u5229\u7528\u4ED6\u4EBA\u7121\u77E5\u9020\u6210\u4ED6\u4EBA\u640D\u5931\u7684\u884C\u70BA\u5C31\u662F\u6B3A\u8A50\u7F6A \u3002",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -500,15 +500,15 @@ Grailbird.data.tweets_2012_02 =
     "geo" : {
     },
     "id_str" : "154260967415488515",
-    "text" : "教授，考試給學生扣分是違法的，因為\n刑法規定：利用他人無知造成他人損失的行為就是欺詐罪 。",
+    "text" : "\u6559\u6388\uFF0C\u8003\u8A66\u7D66\u5B78\u751F\u6263\u5206\u662F\u9055\u6CD5\u7684\uFF0C\u56E0\u70BA\n\u5211\u6CD5\u898F\u5B9A\uFF1A\u5229\u7528\u4ED6\u4EBA\u7121\u77E5\u9020\u6210\u4ED6\u4EBA\u640D\u5931\u7684\u884C\u70BA\u5C31\u662F\u6B3A\u8A50\u7F6A \u3002",
     "id" : 154260967415488515,
     "created_at" : "Tue Jan 03 18:00:55 +0000 2012",
     "user" : {
-      "name" : "臭小籽",
+      "name" : "\u624D\u7C7D",
       "screen_name" : "Mikoo45",
       "protected" : false,
       "id_str" : "359627281",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3113918201/104f33afbcf63196335608ee11b37842_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3326855140/0ef3fe328849fefbe852b9046a5fc69a_normal.jpeg",
       "id" : 359627281,
       "verified" : false
     }
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 168148061770612736,
   "created_at" : "Sat Feb 11 01:43:16 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -535,11 +535,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167985493328396289",
-  "text" : "sky.fm iPhone 客户端免费帐户最高96k，甚至64k都不流畅，收费的256k买来就更用不上，天朝的小水管被华丽的嘲笑鸟。。",
+  "text" : "sky.fm iPhone \u5BA2\u6237\u7AEF\u514D\u8D39\u5E10\u6237\u6700\u9AD896k\uFF0C\u751A\u81F364k\u90FD\u4E0D\u6D41\u7545\uFF0C\u6536\u8D39\u7684256k\u4E70\u6765\u5C31\u66F4\u7528\u4E0D\u4E0A\uFF0C\u5929\u671D\u7684\u5C0F\u6C34\u7BA1\u88AB\u534E\u4E3D\u7684\u5632\u7B11\u9E1F\u3002\u3002",
   "id" : 167985493328396289,
   "created_at" : "Fri Feb 10 14:57:17 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -558,11 +558,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167955290459877377",
-  "text" : "希望取消以洗脑为目的的思想政治课，增加法律课程。",
+  "text" : "\u5E0C\u671B\u53D6\u6D88\u4EE5\u6D17\u8111\u4E3A\u76EE\u7684\u7684\u601D\u60F3\u653F\u6CBB\u8BFE\uFF0C\u589E\u52A0\u6CD5\u5F8B\u8BFE\u7A0B\u3002",
   "id" : 167955290459877377,
   "created_at" : "Fri Feb 10 12:57:16 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -581,11 +581,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167952031993180161",
-  "text" : "我觉得驾驶技能可以作为大学的一门必修课，拿到驾照才算这科过了。考虑初中、高中开交通法规课程，对于提高公民素质大有裨益。看了一些驾驶相关教程，再想想看看路上那些行人。。说实在的，人在学车前后素质就是不一样。",
+  "text" : "\u6211\u89C9\u5F97\u9A7E\u9A76\u6280\u80FD\u53EF\u4EE5\u4F5C\u4E3A\u5927\u5B66\u7684\u4E00\u95E8\u5FC5\u4FEE\u8BFE\uFF0C\u62FF\u5230\u9A7E\u7167\u624D\u7B97\u8FD9\u79D1\u8FC7\u4E86\u3002\u8003\u8651\u521D\u4E2D\u3001\u9AD8\u4E2D\u5F00\u4EA4\u901A\u6CD5\u89C4\u8BFE\u7A0B\uFF0C\u5BF9\u4E8E\u63D0\u9AD8\u516C\u6C11\u7D20\u8D28\u5927\u6709\u88E8\u76CA\u3002\u770B\u4E86\u4E00\u4E9B\u9A7E\u9A76\u76F8\u5173\u6559\u7A0B\uFF0C\u518D\u60F3\u60F3\u770B\u770B\u8DEF\u4E0A\u90A3\u4E9B\u884C\u4EBA\u3002\u3002\u8BF4\u5B9E\u5728\u7684\uFF0C\u4EBA\u5728\u5B66\u8F66\u524D\u540E\u7D20\u8D28\u5C31\u662F\u4E0D\u4E00\u6837\u3002",
   "id" : 167952031993180161,
   "created_at" : "Fri Feb 10 12:44:19 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -604,11 +604,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167884043210334208",
-  "text" : "中午吃湘绅，刚鼻血了。。。",
+  "text" : "\u4E2D\u5348\u5403\u6E58\u7EC5\uFF0C\u521A\u9F3B\u8840\u4E86\u3002\u3002\u3002",
   "id" : 167884043210334208,
   "created_at" : "Fri Feb 10 08:14:09 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -657,11 +657,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167518338744975361",
-  "text" : "买了个篮球，新球手感及颜色都不算很符合我的期望。 http://t.co/4Hl54nVH",
+  "text" : "\u4E70\u4E86\u4E2A\u7BEE\u7403\uFF0C\u65B0\u7403\u624B\u611F\u53CA\u989C\u8272\u90FD\u4E0D\u7B97\u5F88\u7B26\u5408\u6211\u7684\u671F\u671B\u3002 http://t.co/4Hl54nVH",
   "id" : 167518338744975361,
   "created_at" : "Thu Feb 09 08:00:59 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -686,7 +686,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167392547679903744",
-  "text" : "RT @iveney: 英國政府網站上的一個請願: 赦免當年圖靈之罪 (grant a pardon to Turing)。當年圖靈因為同性戀受刑，蒙受羞辱後選擇了自殺。現已有進三萬人簽名。今年是 Year of Turing，紀念這位偉大的先驅。 http://t.co ...",
+  "text" : "RT @iveney: \u82F1\u570B\u653F\u5E9C\u7DB2\u7AD9\u4E0A\u7684\u4E00\u500B\u8ACB\u9858: \u8D66\u514D\u7576\u5E74\u5716\u9748\u4E4B\u7F6A (grant a pardon to Turing)\u3002\u7576\u5E74\u5716\u9748\u56E0\u70BA\u540C\u6027\u6200\u53D7\u5211\uFF0C\u8499\u53D7\u7F9E\u8FB1\u5F8C\u9078\u64C7\u4E86\u81EA\u6BBA\u3002\u73FE\u5DF2\u6709\u9032\u4E09\u842C\u4EBA\u7C3D\u540D\u3002\u4ECA\u5E74\u662F Year of Turing\uFF0C\u7D00\u5FF5\u9019\u4F4D\u5049\u5927\u7684\u5148\u9A45\u3002 http://t.co ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://chrome.google.com/extensions/detail/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\">FaWave</a>",
     "entities" : {
@@ -703,7 +703,7 @@ Grailbird.data.tweets_2012_02 =
     "geo" : {
     },
     "id_str" : "167385945610518528",
-    "text" : "英國政府網站上的一個請願: 赦免當年圖靈之罪 (grant a pardon to Turing)。當年圖靈因為同性戀受刑，蒙受羞辱後選擇了自殺。現已有進三萬人簽名。今年是 Year of Turing，紀念這位偉大的先驅。 http://t.co/mSJFOaE9",
+    "text" : "\u82F1\u570B\u653F\u5E9C\u7DB2\u7AD9\u4E0A\u7684\u4E00\u500B\u8ACB\u9858: \u8D66\u514D\u7576\u5E74\u5716\u9748\u4E4B\u7F6A (grant a pardon to Turing)\u3002\u7576\u5E74\u5716\u9748\u56E0\u70BA\u540C\u6027\u6200\u53D7\u5211\uFF0C\u8499\u53D7\u7F9E\u8FB1\u5F8C\u9078\u64C7\u4E86\u81EA\u6BBA\u3002\u73FE\u5DF2\u6709\u9032\u4E09\u842C\u4EBA\u7C3D\u540D\u3002\u4ECA\u5E74\u662F Year of Turing\uFF0C\u7D00\u5FF5\u9019\u4F4D\u5049\u5927\u7684\u5148\u9A45\u3002 http://t.co/mSJFOaE9",
     "id" : 167385945610518528,
     "created_at" : "Wed Feb 08 23:14:53 +0000 2012",
     "user" : {
@@ -719,7 +719,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 167392547679903744,
   "created_at" : "Wed Feb 08 23:41:08 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -738,11 +738,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "167283616764796930",
-  "text" : "今天体检过了，领了教材，下了 APP，开始学车。有的后悔读书的时候人穷志太短。。。",
+  "text" : "\u4ECA\u5929\u4F53\u68C0\u8FC7\u4E86\uFF0C\u9886\u4E86\u6559\u6750\uFF0C\u4E0B\u4E86 APP\uFF0C\u5F00\u59CB\u5B66\u8F66\u3002\u6709\u7684\u540E\u6094\u8BFB\u4E66\u7684\u65F6\u5019\u4EBA\u7A77\u5FD7\u592A\u77ED\u3002\u3002\u3002",
   "id" : 167283616764796930,
   "created_at" : "Wed Feb 08 16:28:16 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -773,11 +773,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "166877638982500352",
-  "text" : "今天跟 @ethan168 @janlay 一起准备报名学车。学车时间这么短，能练熟么？",
+  "text" : "\u4ECA\u5929\u8DDF @ethan168 @janlay \u4E00\u8D77\u51C6\u5907\u62A5\u540D\u5B66\u8F66\u3002\u5B66\u8F66\u65F6\u95F4\u8FD9\u4E48\u77ED\uFF0C\u80FD\u7EC3\u719F\u4E48\uFF1F",
   "id" : 166877638982500352,
   "created_at" : "Tue Feb 07 13:35:04 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -796,11 +796,11 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "166875634663034881",
-  "text" : "买了个 VPN 又上得 Twitter 了。现在上推好像没什么激情了。。。",
+  "text" : "\u4E70\u4E86\u4E2A VPN \u53C8\u4E0A\u5F97 Twitter \u4E86\u3002\u73B0\u5728\u4E0A\u63A8\u597D\u50CF\u6CA1\u4EC0\u4E48\u6FC0\u60C5\u4E86\u3002\u3002\u3002",
   "id" : 166875634663034881,
   "created_at" : "Tue Feb 07 13:27:06 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",

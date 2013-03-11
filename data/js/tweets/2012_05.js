@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 0, 6 ],
       "id_str" : "20674328",
@@ -20,14 +20,14 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "202231299577094144",
   "in_reply_to_user_id" : 20674328,
-  "text" : "@hotoo 真的拿了 100 分呢",
+  "text" : "@hotoo \u771F\u7684\u62FF\u4E86 100 \u5206\u5462",
   "id" : 202231299577094144,
   "in_reply_to_status_id" : 201039671369801729,
   "created_at" : "Tue May 15 02:57:53 +0000 2012",
   "in_reply_to_screen_name" : "hotoo",
   "in_reply_to_user_id_str" : "20674328",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -48,11 +48,11 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 30.3027728443, 120.0997692248 ]
   },
   "id_str" : "201039671369801729",
-  "text" : "今天大清早就要起床去考科目二了，考虑到这么早可能没卖早餐的，准备自己煮鸡蛋面。想起小学的时候，考试那天很怕吃零蛋而怕吃鸡蛋，但是面条加 2 个鸡蛋预示着 100，于是很怕怕的很想吃。",
+  "text" : "\u4ECA\u5929\u5927\u6E05\u65E9\u5C31\u8981\u8D77\u5E8A\u53BB\u8003\u79D1\u76EE\u4E8C\u4E86\uFF0C\u8003\u8651\u5230\u8FD9\u4E48\u65E9\u53EF\u80FD\u6CA1\u5356\u65E9\u9910\u7684\uFF0C\u51C6\u5907\u81EA\u5DF1\u716E\u9E21\u86CB\u9762\u3002\u60F3\u8D77\u5C0F\u5B66\u7684\u65F6\u5019\uFF0C\u8003\u8BD5\u90A3\u5929\u5F88\u6015\u5403\u96F6\u86CB\u800C\u6015\u5403\u9E21\u86CB\uFF0C\u4F46\u662F\u9762\u6761\u52A0 2 \u4E2A\u9E21\u86CB\u9884\u793A\u7740 100\uFF0C\u4E8E\u662F\u5F88\u6015\u6015\u7684\u5F88\u60F3\u5403\u3002",
   "id" : 201039671369801729,
   "created_at" : "Fri May 11 20:02:47 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -70,7 +70,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 0, 20 ],
       "url" : "http://t.co/ijWAAP1O",
       "expanded_url" : "http://www.infoq.com/cn/articles/art-of-readable-code",
-      "display_url" : "infoq.com/cn/articles/ar…"
+      "display_url" : "infoq.com/cn/articles/ar\u2026"
     }, {
       "indices" : [ 36, 56 ],
       "url" : "http://t.co/Fu9bJgg4",
@@ -81,11 +81,11 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "199118672793567232",
-  "text" : "http://t.co/ijWAAP1O 阅读者（十八）：编码的艺术  http://t.co/Fu9bJgg4",
+  "text" : "http://t.co/ijWAAP1O \u9605\u8BFB\u8005\uFF08\u5341\u516B\uFF09\uFF1A\u7F16\u7801\u7684\u827A\u672F  http://t.co/Fu9bJgg4",
   "id" : 199118672793567232,
   "created_at" : "Sun May 06 12:49:25 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -103,17 +103,17 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 0, 20 ],
       "url" : "http://t.co/Wvo3wm20",
       "expanded_url" : "http://www.cnblogs.com/arthurliu/archive/2011/03/08/1936914.html",
-      "display_url" : "cnblogs.com/arthurliu/arch…"
+      "display_url" : "cnblogs.com/arthurliu/arch\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "199114201128632321",
-  "text" : "http://t.co/Wvo3wm20 浅谈聚合与耦合",
+  "text" : "http://t.co/Wvo3wm20 \u6D45\u8C08\u805A\u5408\u4E0E\u8026\u5408",
   "id" : 199114201128632321,
   "created_at" : "Sun May 06 12:31:39 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -140,14 +140,14 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "198963011233390592",
   "in_reply_to_user_id" : 21157148,
-  "text" : "@janlay 不过 focus 会触发 onfocus, blur 会触发 onblur，然后就很容易递归了。。。表单验证的时候要慎用 blur 和 focus",
+  "text" : "@janlay \u4E0D\u8FC7 focus \u4F1A\u89E6\u53D1 onfocus, blur \u4F1A\u89E6\u53D1 onblur\uFF0C\u7136\u540E\u5C31\u5F88\u5BB9\u6613\u9012\u5F52\u4E86\u3002\u3002\u3002\u8868\u5355\u9A8C\u8BC1\u7684\u65F6\u5019\u8981\u614E\u7528 blur \u548C focus",
   "id" : 198963011233390592,
   "in_reply_to_status_id" : 197337264521609216,
   "created_at" : "Sun May 06 02:30:53 +0000 2012",
   "in_reply_to_screen_name" : "janlay",
   "in_reply_to_user_id_str" : "21157148",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -159,7 +159,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "闲耘™",
+      "name" : "\u95F2\u8018\u2122",
       "screen_name" : "hotoo",
       "indices" : [ 0, 6 ],
       "id_str" : "20674328",
@@ -174,14 +174,14 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "197315511787327488",
   "in_reply_to_user_id" : 20674328,
-  "text" : "@hotoo 我原想是应该触发的，但是这个setCheck()是为这个控件两个实例间的同步工作的：用户选中一个实例A时，触发oncheck事件，绑定的事件会将A选中的对象通过setCheck()同步到另一个实例 B，如果setCheck触发oncheck，则会出现递归调用。",
+  "text" : "@hotoo \u6211\u539F\u60F3\u662F\u5E94\u8BE5\u89E6\u53D1\u7684\uFF0C\u4F46\u662F\u8FD9\u4E2AsetCheck()\u662F\u4E3A\u8FD9\u4E2A\u63A7\u4EF6\u4E24\u4E2A\u5B9E\u4F8B\u95F4\u7684\u540C\u6B65\u5DE5\u4F5C\u7684\uFF1A\u7528\u6237\u9009\u4E2D\u4E00\u4E2A\u5B9E\u4F8BA\u65F6\uFF0C\u89E6\u53D1oncheck\u4E8B\u4EF6\uFF0C\u7ED1\u5B9A\u7684\u4E8B\u4EF6\u4F1A\u5C06A\u9009\u4E2D\u7684\u5BF9\u8C61\u901A\u8FC7setCheck()\u540C\u6B65\u5230\u53E6\u4E00\u4E2A\u5B9E\u4F8B B\uFF0C\u5982\u679CsetCheck\u89E6\u53D1oncheck\uFF0C\u5219\u4F1A\u51FA\u73B0\u9012\u5F52\u8C03\u7528\u3002",
   "id" : 197315511787327488,
   "in_reply_to_status_id" : 197314635244900352,
   "created_at" : "Tue May 01 13:24:18 +0000 2012",
   "in_reply_to_screen_name" : "hotoo",
   "in_reply_to_user_id_str" : "20674328",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -200,11 +200,11 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "197314635244900352",
-  "text" : "做了一个控件，用户点击选中的时候会触发 oncheck 事件，同时又提供了代码控制选中的函数 setCheck()，那么这个 setCheck() 函数是否应该触发 oncheck 事件呢？",
+  "text" : "\u505A\u4E86\u4E00\u4E2A\u63A7\u4EF6\uFF0C\u7528\u6237\u70B9\u51FB\u9009\u4E2D\u7684\u65F6\u5019\u4F1A\u89E6\u53D1 oncheck \u4E8B\u4EF6\uFF0C\u540C\u65F6\u53C8\u63D0\u4F9B\u4E86\u4EE3\u7801\u63A7\u5236\u9009\u4E2D\u7684\u51FD\u6570 setCheck()\uFF0C\u90A3\u4E48\u8FD9\u4E2A setCheck() \u51FD\u6570\u662F\u5426\u5E94\u8BE5\u89E6\u53D1 oncheck \u4E8B\u4EF6\u5462\uFF1F",
   "id" : 197314635244900352,
   "created_at" : "Tue May 01 13:20:49 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -225,17 +225,17 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 0, 20 ],
       "url" : "http://t.co/R25L0UW8",
       "expanded_url" : "http://blog.hotoo.me/logical-conjunction.html",
-      "display_url" : "blog.hotoo.me/logical-conjun…"
+      "display_url" : "blog.hotoo.me/logical-conjun\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "197308920488935424",
-  "text" : "http://t.co/R25L0UW8 『逻辑与』是个好东西 #blog",
+  "text" : "http://t.co/R25L0UW8 \u300E\u903B\u8F91\u4E0E\u300F\u662F\u4E2A\u597D\u4E1C\u897F #blog",
   "id" : 197308920488935424,
   "created_at" : "Tue May 01 12:58:07 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -268,14 +268,14 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "197308818596700160",
   "in_reply_to_user_id" : 16736710,
-  "text" : "@imagelife @janlay 求现场支持 :)",
+  "text" : "@imagelife @janlay \u6C42\u73B0\u573A\u652F\u6301 :)",
   "id" : 197308818596700160,
   "in_reply_to_status_id" : 196562647079063553,
   "created_at" : "Tue May 01 12:57:42 +0000 2012",
   "in_reply_to_screen_name" : "imagelife",
   "in_reply_to_user_id_str" : "16736710",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -287,7 +287,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "王保平 玉伯  ♨",
+      "name" : "\u738B\u4FDD\u5E73 \u7389\u4F2F \uF8FF \u2668",
       "screen_name" : "lifesinger",
       "indices" : [ 3, 14 ],
       "id_str" : "16681326",
@@ -305,7 +305,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "197297032917032962",
-  "text" : "RT @lifesinger: 支付宝前端基础类库 Arale 2.0 欢迎大家参与：http://t.co/IMc0R9LC 虽然才寥寥几行代码，但我相信：亲爱的前端攻城狮们，你我能共创精彩。",
+  "text" : "RT @lifesinger: \u652F\u4ED8\u5B9D\u524D\u7AEF\u57FA\u7840\u7C7B\u5E93 Arale 2.0 \u6B22\u8FCE\u5927\u5BB6\u53C2\u4E0E\uFF1Ahttp://t.co/IMc0R9LC \u867D\u7136\u624D\u5BE5\u5BE5\u51E0\u884C\u4EE3\u7801\uFF0C\u4F46\u6211\u76F8\u4FE1\uFF1A\u4EB2\u7231\u7684\u524D\u7AEF\u653B\u57CE\u72EE\u4EEC\uFF0C\u4F60\u6211\u80FD\u5171\u521B\u7CBE\u5F69\u3002",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -322,11 +322,11 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "197257223901155330",
-    "text" : "支付宝前端基础类库 Arale 2.0 欢迎大家参与：http://t.co/IMc0R9LC 虽然才寥寥几行代码，但我相信：亲爱的前端攻城狮们，你我能共创精彩。",
+    "text" : "\u652F\u4ED8\u5B9D\u524D\u7AEF\u57FA\u7840\u7C7B\u5E93 Arale 2.0 \u6B22\u8FCE\u5927\u5BB6\u53C2\u4E0E\uFF1Ahttp://t.co/IMc0R9LC \u867D\u7136\u624D\u5BE5\u5BE5\u51E0\u884C\u4EE3\u7801\uFF0C\u4F46\u6211\u76F8\u4FE1\uFF1A\u4EB2\u7231\u7684\u524D\u7AEF\u653B\u57CE\u72EE\u4EEC\uFF0C\u4F60\u6211\u80FD\u5171\u521B\u7CBE\u5F69\u3002",
     "id" : 197257223901155330,
     "created_at" : "Tue May 01 09:32:41 +0000 2012",
     "user" : {
-      "name" : "王保平 玉伯  ♨",
+      "name" : "\u738B\u4FDD\u5E73 \u7389\u4F2F \uF8FF \u2668",
       "screen_name" : "lifesinger",
       "protected" : false,
       "id_str" : "16681326",
@@ -338,7 +338,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 197297032917032962,
   "created_at" : "Tue May 01 12:10:52 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -359,11 +359,11 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 30.3029588717, 120.0999217538 ]
   },
   "id_str" : "197110397105475584",
-  "text" : "很多网站都有自己的用户评分机制，这些评分其实可以写在 meta 里，供搜索引擎参考",
+  "text" : "\u5F88\u591A\u7F51\u7AD9\u90FD\u6709\u81EA\u5DF1\u7684\u7528\u6237\u8BC4\u5206\u673A\u5236\uFF0C\u8FD9\u4E9B\u8BC4\u5206\u5176\u5B9E\u53EF\u4EE5\u5199\u5728 meta \u91CC\uFF0C\u4F9B\u641C\u7D22\u5F15\u64CE\u53C2\u8003",
   "id" : 197110397105475584,
   "created_at" : "Mon Apr 30 23:49:15 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "197109491794313216",
-  "text" : "RT @gr8bad: 王朔：信仰不能当饭吃，所以不重要。民主不能当饭吃，所以不重要。自由不能当饭吃，所以不重要。原则不能当饭吃，所以不重要。对于中国人来讲，不能当饭吃的都不重要。我们信奉了猪的生活原则，于是乎我们也得到了猪的命运——迟早给别人当饭吃。",
+  "text" : "RT @gr8bad: \u738B\u6714\uFF1A\u4FE1\u4EF0\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u6C11\u4E3B\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u81EA\u7531\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u539F\u5219\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u5BF9\u4E8E\u4E2D\u56FD\u4EBA\u6765\u8BB2\uFF0C\u4E0D\u80FD\u5F53\u996D\u5403\u7684\u90FD\u4E0D\u91CD\u8981\u3002\u6211\u4EEC\u4FE1\u5949\u4E86\u732A\u7684\u751F\u6D3B\u539F\u5219\uFF0C\u4E8E\u662F\u4E4E\u6211\u4EEC\u4E5F\u5F97\u5230\u4E86\u732A\u7684\u547D\u8FD0\u2014\u2014\u8FDF\u65E9\u7ED9\u522B\u4EBA\u5F53\u996D\u5403\u3002",
   "retweeted_status" : {
     "source" : "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
     "entities" : {
@@ -400,7 +400,7 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "197036924224012288",
-    "text" : "王朔：信仰不能当饭吃，所以不重要。民主不能当饭吃，所以不重要。自由不能当饭吃，所以不重要。原则不能当饭吃，所以不重要。对于中国人来讲，不能当饭吃的都不重要。我们信奉了猪的生活原则，于是乎我们也得到了猪的命运——迟早给别人当饭吃。",
+    "text" : "\u738B\u6714\uFF1A\u4FE1\u4EF0\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u6C11\u4E3B\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u81EA\u7531\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u539F\u5219\u4E0D\u80FD\u5F53\u996D\u5403\uFF0C\u6240\u4EE5\u4E0D\u91CD\u8981\u3002\u5BF9\u4E8E\u4E2D\u56FD\u4EBA\u6765\u8BB2\uFF0C\u4E0D\u80FD\u5F53\u996D\u5403\u7684\u90FD\u4E0D\u91CD\u8981\u3002\u6211\u4EEC\u4FE1\u5949\u4E86\u732A\u7684\u751F\u6D3B\u539F\u5219\uFF0C\u4E8E\u662F\u4E4E\u6211\u4EEC\u4E5F\u5F97\u5230\u4E86\u732A\u7684\u547D\u8FD0\u2014\u2014\u8FDF\u65E9\u7ED9\u522B\u4EBA\u5F53\u996D\u5403\u3002",
     "id" : 197036924224012288,
     "created_at" : "Mon Apr 30 18:57:18 +0000 2012",
     "user" : {
@@ -416,7 +416,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 197109491794313216,
   "created_at" : "Mon Apr 30 23:45:39 +0000 2012",
   "user" : {
-    "name" : "闲耘™",
+    "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
