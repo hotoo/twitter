@@ -937,12 +937,6 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5B87\u6781Yuest",
-      "screen_name" : "yuest",
-      "indices" : [ 0, 6 ],
-      "id_str" : "33732455",
-      "id" : 33732455
-    }, {
       "name" : "\u74DC\u725B\u541B",
       "screen_name" : "leeiio",
       "indices" : [ 7, 14 ],

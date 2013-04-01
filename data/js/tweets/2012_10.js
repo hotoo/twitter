@@ -62,7 +62,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "28540799",
       "id" : 28540799
     }, {
-      "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+      "name" : "\u56E7.\u53F2\u5BC6\u65AF",
       "screen_name" : "_J_Smith",
       "indices" : [ 8, 17 ],
       "id_str" : "67271239",

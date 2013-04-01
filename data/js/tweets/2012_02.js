@@ -506,7 +506,7 @@ Grailbird.data.tweets_2012_02 =
     "user" : {
       "name" : "\u624D\u7C7D",
       "screen_name" : "Mikoo45",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "359627281",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/3326855140/0ef3fe328849fefbe852b9046a5fc69a_normal.jpeg",
       "id" : 359627281,

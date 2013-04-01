@@ -575,7 +575,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -3434,7 +3434,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -4761,7 +4761,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "18607037",
       "id" : 18607037
     }, {
-      "name" : "Stephen \uF8FF Shanghai",
+      "name" : "Stephen \uF8FF PVG",
       "screen_name" : "jkgtw",
       "indices" : [ 15, 21 ],
       "id_str" : "792526",
@@ -4779,7 +4779,7 @@ Grailbird.data.tweets_2010_09 =
     "source" : "<a href=\"http://www.nibirutech.com\" rel=\"nofollow\">TwitBird</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Stephen \uF8FF Shanghai",
+        "name" : "Stephen \uF8FF PVG",
         "screen_name" : "jkgtw",
         "indices" : [ 3, 9 ],
         "id_str" : "792526",
@@ -4941,7 +4941,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -5053,7 +5053,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -5206,7 +5206,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }

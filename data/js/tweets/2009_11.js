@@ -4225,7 +4225,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+      "name" : "\u56E7.\u53F2\u5BC6\u65AF",
       "screen_name" : "_J_Smith",
       "indices" : [ 0, 9 ],
       "id_str" : "67271239",
@@ -4259,7 +4259,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+      "name" : "\u56E7.\u53F2\u5BC6\u65AF",
       "screen_name" : "_J_Smith",
       "indices" : [ 0, 9 ],
       "id_str" : "67271239",
@@ -4293,7 +4293,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+      "name" : "\u56E7.\u53F2\u5BC6\u65AF",
       "screen_name" : "_J_Smith",
       "indices" : [ 47, 56 ],
       "id_str" : "67271239",
@@ -5870,7 +5870,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dupola",
+      "name" : "\u675C\u4EAC dupola",
       "screen_name" : "dupola",
       "indices" : [ 0, 7 ],
       "id_str" : "1074441",
@@ -7305,7 +7305,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dupola",
+      "name" : "\u675C\u4EAC dupola",
       "screen_name" : "dupola",
       "indices" : [ 45, 52 ],
       "id_str" : "1074441",

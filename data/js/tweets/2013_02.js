@@ -1636,7 +1636,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "106975664",
       "id" : 106975664
     }, {
-      "name" : "The Rabbit\uFF5C\u7075\u83F2\u831C\u8BED",
+      "name" : "\u5154\u5B50.\u6770\u897F",
       "screen_name" : "jessetoo",
       "indices" : [ 21, 30 ],
       "id_str" : "117054654",
@@ -1660,7 +1660,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Rabbit\uFF5C\u7075\u83F2\u831C\u8BED",
+        "name" : "\u5154\u5B50.\u6770\u897F",
         "screen_name" : "jessetoo",
         "indices" : [ 5, 14 ],
         "id_str" : "117054654",
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "ykjzl",
       "protected" : false,
       "id_str" : "457324674",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3309871103/bac8fc967754273e5221ce1c4aa55ca3_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3433697519/b8e1e234da0dba4ae689ff1a32fd985c_normal.jpeg",
       "id" : 457324674,
       "verified" : false
     }

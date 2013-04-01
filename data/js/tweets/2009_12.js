@@ -341,7 +341,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dupola",
+      "name" : "\u675C\u4EAC dupola",
       "screen_name" : "dupola",
       "indices" : [ 14, 21 ],
       "id_str" : "1074441",

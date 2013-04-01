@@ -1399,7 +1399,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -2464,7 +2464,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "nonozone",
       "protected" : false,
       "id_str" : "6834282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1951461507/nonozone_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3417369987/37aba3cbc8353a830c35f2f20443d2d5_normal.jpeg",
       "id" : 6834282,
       "verified" : false
     }
@@ -4735,7 +4735,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "nonozone",
       "protected" : false,
       "id_str" : "6834282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1951461507/nonozone_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3417369987/37aba3cbc8353a830c35f2f20443d2d5_normal.jpeg",
       "id" : 6834282,
       "verified" : false
     }

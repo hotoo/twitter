@@ -2463,7 +2463,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "19807281",
       "id" : 19807281
     }, {
-      "name" : "\u661F\u91CE\u6075\u7460@M-Trix",
+      "name" : "\u661F\u91CE\u6075\u7460@M's Gadget",
       "screen_name" : "lovee",
       "indices" : [ 22, 28 ],
       "id_str" : "13860672",

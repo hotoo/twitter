@@ -438,7 +438,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "6842422",
       "id" : 6842422
     }, {
-      "name" : "\u554A\u55B5\u7684\u8111\u6B8B\u7C89",
+      "name" : "\u554A\u55B5\u7684\u8111\u6B8B\u7C89||\u51CF\u80A5\u554A\u80D6\u5B50\uFF01",
       "screen_name" : "rebecca_kidult",
       "indices" : [ 13, 28 ],
       "id_str" : "65591716",
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u554A\u55B5\u7684\u8111\u6B8B\u7C89",
+        "name" : "\u554A\u55B5\u7684\u8111\u6B8B\u7C89||\u51CF\u80A5\u554A\u80D6\u5B50\uFF01",
         "screen_name" : "rebecca_kidult",
         "indices" : [ 1, 16 ],
         "id_str" : "65591716",
@@ -1152,7 +1152,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }

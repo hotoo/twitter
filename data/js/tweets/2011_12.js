@@ -813,7 +813,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }

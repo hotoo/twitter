@@ -1347,7 +1347,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -2412,7 +2412,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "3315071",
       "id" : 3315071
     }, {
-      "name" : "\u79BD\u517D\u4EAC\u4EAC",
+      "name" : "Rini Indri",
       "screen_name" : "kyokyo8899",
       "indices" : [ 16, 27 ],
       "id_str" : "15104655",
@@ -2436,7 +2436,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u79BD\u517D\u4EAC\u4EAC",
+        "name" : "Rini Indri",
         "screen_name" : "kyokyo8899",
         "indices" : [ 3, 14 ],
         "id_str" : "15104655",
@@ -2489,7 +2489,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "50947160",
       "id" : 50947160
     }, {
-      "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+      "name" : "\u56E7.\u53F2\u5BC6\u65AF",
       "screen_name" : "_J_Smith",
       "indices" : [ 17, 26 ],
       "id_str" : "67271239",
@@ -2513,7 +2513,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "<a href=\"https://code.google.com/p/twitese-e/\" rel=\"nofollow\">Caf\u00E9 of Broken Dreams</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+        "name" : "\u56E7.\u53F2\u5BC6\u65AF",
         "screen_name" : "_J_Smith",
         "indices" : [ 3, 12 ],
         "id_str" : "67271239",
@@ -4090,7 +4090,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -4146,7 +4146,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "feelinglucky",
       "protected" : false,
       "id_str" : "8554282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2719623226/6594a6fa259b231a5ec76c65661816ab_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3403515904/ebae81cd31bccf02a3b9ea697d46cd8d_normal.png",
       "id" : 8554282,
       "verified" : false
     }
@@ -4352,7 +4352,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "1012941",
       "id" : 1012941
     }, {
-      "name" : "The Fantastic Mr Fqx",
+      "name" : "\u9A7C\u80CC\u5148\u751F",
       "screen_name" : "fqx",
       "indices" : [ 13, 17 ],
       "id_str" : "7453802",
@@ -4376,7 +4376,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Fantastic Mr Fqx",
+        "name" : "\u9A7C\u80CC\u5148\u751F",
         "screen_name" : "fqx",
         "indices" : [ 3, 7 ],
         "id_str" : "7453802",

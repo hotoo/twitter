@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2009_04 = 
  [ {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Qing Wang",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Qing Wang",
@@ -105,7 +105,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -128,7 +128,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1681,7 +1681,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1727,7 +1727,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u4F5B\u5F92",
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1853,7 +1853,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1922,7 +1922,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1945,7 +1945,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1968,7 +1968,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2014,7 +2014,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2037,7 +2037,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2060,7 +2060,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Qing Wang",
@@ -2092,7 +2092,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2115,7 +2115,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2161,7 +2161,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2207,7 +2207,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2230,7 +2230,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "stauren",
@@ -2259,7 +2259,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2282,7 +2282,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2305,7 +2305,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2328,7 +2328,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "xiahua",
@@ -2357,7 +2357,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hong Xiaowan",
@@ -2420,7 +2420,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2443,7 +2443,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2466,7 +2466,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2489,7 +2489,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "awguo",
@@ -2523,7 +2523,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u4F50\u62C9\u24CB",
@@ -2557,7 +2557,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2580,7 +2580,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u95F2\u8018\u2122",
@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2637,7 +2637,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bill Tse",
@@ -2705,7 +2705,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2728,7 +2728,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2751,7 +2751,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shawphy",
@@ -2808,7 +2808,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Junyu Wang | \u738B\u4FCA\u715C",
@@ -2837,7 +2837,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2860,7 +2860,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2883,7 +2883,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "fisio \uF8FF",
@@ -2917,7 +2917,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ratoo Li \uF8FF",
@@ -2951,7 +2951,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "fisio \uF8FF",
@@ -3019,7 +3019,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3042,7 +3042,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3065,7 +3065,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3088,7 +3088,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3111,7 +3111,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Ng",
@@ -3145,7 +3145,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3168,7 +3168,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3191,7 +3191,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3214,7 +3214,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3237,7 +3237,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3260,7 +3260,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u4F5B\u5F92",
@@ -3294,7 +3294,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u4E5D\u53D4",
@@ -3328,7 +3328,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3351,7 +3351,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "stauren",
@@ -3385,7 +3385,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3408,7 +3408,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3431,7 +3431,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3454,7 +3454,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3511,7 +3511,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3534,7 +3534,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3557,7 +3557,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3580,7 +3580,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hugege",
@@ -3609,7 +3609,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "awguo",
@@ -3643,7 +3643,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3666,7 +3666,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3689,7 +3689,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3735,7 +3735,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ratoo Li \uF8FF",
@@ -3769,7 +3769,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3792,7 +3792,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3815,7 +3815,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3838,7 +3838,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3861,7 +3861,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3884,7 +3884,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3930,7 +3930,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3953,7 +3953,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3976,7 +3976,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3999,7 +3999,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4022,7 +4022,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4045,7 +4045,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4068,7 +4068,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4091,7 +4091,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4114,7 +4114,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4137,7 +4137,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "fisio \uF8FF",
@@ -4189,7 +4189,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Ng",
@@ -4223,7 +4223,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4246,7 +4246,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4269,10 +4269,10 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dupola",
+      "name" : "\u675C\u4EAC dupola",
       "screen_name" : "dupola",
       "indices" : [ 0, 7 ],
       "id_str" : "1074441",
@@ -4303,7 +4303,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4326,7 +4326,7 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

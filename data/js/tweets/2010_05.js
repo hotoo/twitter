@@ -3439,7 +3439,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "19815242",
       "id" : 19815242
     }, {
-      "name" : "John Mayer",
+      "name" : "Nelly",
       "screen_name" : "baoye",
       "indices" : [ 16, 22 ],
       "id_str" : "51397279",
@@ -5717,7 +5717,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://www.mixero.com\" rel=\"nofollow\">Mixero</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "maoxupeng",
+      "name" : "Acher",
       "screen_name" : "acherking",
       "indices" : [ 0, 10 ],
       "id_str" : "101988998",
@@ -6785,7 +6785,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://twitalker.appspot.com/\" rel=\"nofollow\">TwiTalker</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B64\u5E10\u53F7\u5DF2\u6CE8\u9500",
+      "name" : "\u56E7.\u53F2\u5BC6\u65AF",
       "screen_name" : "_J_Smith",
       "indices" : [ 3, 12 ],
       "id_str" : "67271239",

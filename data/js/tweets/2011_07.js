@@ -715,13 +715,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "<a href=\"http://twitalker.appspot.com/\" rel=\"nofollow\">TwiTalker</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "MessyCS",
-      "screen_name" : "messycs",
-      "indices" : [ 0, 8 ],
-      "id_str" : "242310614",
-      "id" : 242310614
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -735,7 +729,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88098141911519232,
   "in_reply_to_status_id" : 87555447673987072,
   "created_at" : "Tue Jul 05 04:13:28 +0000 2011",
-  "in_reply_to_screen_name" : "messycs",
+  "in_reply_to_screen_name" : "ryaneof",
   "in_reply_to_user_id_str" : "242310614",
   "user" : {
     "name" : "\u95F2\u8018\u2122",

@@ -2073,7 +2073,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "62807917",
       "id" : 62807917
     }, {
-      "name" : "nipao",
+      "name" : "__NP",
       "screen_name" : "nipao",
       "indices" : [ 20, 26 ],
       "id_str" : "7328422",
