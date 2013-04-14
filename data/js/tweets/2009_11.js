@@ -4328,7 +4328,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 17, 24 ],
       "id_str" : "19148962",
@@ -6039,7 +6039,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 13, 20 ],
       "id_str" : "19148962",
@@ -6332,7 +6332,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "14329889",
       "id" : 14329889
     }, {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 22, 29 ],
       "id_str" : "19148962",

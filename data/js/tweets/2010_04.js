@@ -2412,7 +2412,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "3315071",
       "id" : 3315071
     }, {
-      "name" : "Rini Indri",
+      "name" : "\u79BD\u517D\u4EAC\u4EAC",
       "screen_name" : "kyokyo8899",
       "indices" : [ 16, 27 ],
       "id_str" : "15104655",
@@ -2436,7 +2436,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Rini Indri",
+        "name" : "\u79BD\u517D\u4EAC\u4EAC",
         "screen_name" : "kyokyo8899",
         "indices" : [ 3, 14 ],
         "id_str" : "15104655",
@@ -5733,7 +5733,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "32292741",
       "id" : 32292741
     }, {
-      "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801",
+      "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801\u8D5A\u94B1",
       "screen_name" : "missdeerme",
       "indices" : [ 22, 33 ],
       "id_str" : "99696616",
@@ -5775,7 +5775,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "<a href=\"http://www.yoono.com\" rel=\"nofollow\">yoono</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801",
+        "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801\u8D5A\u94B1",
         "screen_name" : "missdeerme",
         "indices" : [ 12, 23 ],
         "id_str" : "99696616",

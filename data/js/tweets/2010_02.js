@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 63, 70 ],
       "id_str" : "19148962",

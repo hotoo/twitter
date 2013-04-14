@@ -4128,7 +4128,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "mys_721tx",
       "protected" : false,
       "id_str" : "111509244",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2993875121/1aa0c5359df4943581ff6ec2d6ab1a63_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3465220988/d5b92a265cdf6b99a91c9f67ec1952c4_normal.jpeg",
       "id" : 111509244,
       "verified" : false
     }

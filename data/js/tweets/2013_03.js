@@ -1,5 +1,5 @@
 Grailbird.data.tweets_2013_03 = 
-[ {
+ [ {
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
@@ -588,7 +588,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "144132868",
       "id" : 144132868
     }, {
-      "name" : "\u00A1Kani",
+      "name" : "\u6912\u9E7D\u8611\u83C7",
       "screen_name" : "istkani",
       "indices" : [ 22, 30 ],
       "id_str" : "211524832",
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2013_03 =
     "source" : "<a href=\"https://embr.in\" rel=\"nofollow\">embr</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u00A1Kani",
+        "name" : "\u6912\u9E7D\u8611\u83C7",
         "screen_name" : "istkani",
         "indices" : [ 3, 11 ],
         "id_str" : "211524832",

@@ -1636,7 +1636,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "106975664",
       "id" : 106975664
     }, {
-      "name" : "\u5154\u5B50.\u6770\u897F",
+      "name" : "\u6770\u897F\u5154",
       "screen_name" : "jessetoo",
       "indices" : [ 21, 30 ],
       "id_str" : "117054654",
@@ -1660,7 +1660,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u5154\u5B50.\u6770\u897F",
+        "name" : "\u6770\u897F\u5154",
         "screen_name" : "jessetoo",
         "indices" : [ 5, 14 ],
         "id_str" : "117054654",
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "ykjzl",
       "protected" : false,
       "id_str" : "457324674",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3433697519/b8e1e234da0dba4ae689ff1a32fd985c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3472991050/33ea7ceefcc7151236cc488d7eda3bbe_normal.jpeg",
       "id" : 457324674,
       "verified" : false
     }
@@ -2236,7 +2236,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801",
+      "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801\u8D5A\u94B1",
       "screen_name" : "missdeerme",
       "indices" : [ 0, 11 ],
       "id_str" : "99696616",

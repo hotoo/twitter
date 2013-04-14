@@ -3034,7 +3034,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "14329889",
       "id" : 14329889
     }, {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 16, 23 ],
       "id_str" : "19148962",
@@ -3307,7 +3307,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 0, 7 ],
       "id_str" : "19148962",
@@ -3341,7 +3341,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 48, 55 ],
       "id_str" : "19148962",

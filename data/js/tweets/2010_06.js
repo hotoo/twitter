@@ -3723,7 +3723,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "indices" : [ 3, 10 ],
       "id_str" : "19148962",
@@ -3770,11 +3770,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16379453089,
     "created_at" : "Thu Jun 17 10:57:00 +0000 2010",
     "user" : {
-      "name" : "\u4E91\u5347",
+      "name" : "\u5085\u5C0F\u4E1C",
       "screen_name" : "yuishy",
       "protected" : false,
       "id_str" : "19148962",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2425697237/2v4lv2d12s765xhixuoh_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3466939052/41abc49bb74948a0896fee2515ee46f8_normal.png",
       "id" : 19148962,
       "verified" : false
     }
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "yanyaoer",
       "protected" : false,
       "id_str" : "16040115",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1217684604/cat_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3471764456/1a7ae6db7998b3ab7cef8965c04ba7a2_normal.jpeg",
       "id" : 16040115,
       "verified" : false
     }
@@ -7860,7 +7860,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "17113368",
       "id" : 17113368
     }, {
-      "name" : "panda_L \u3055\u3093@\u3084\u305B\u3089\u308C\u306A\u3044",
+      "name" : "panda_L \u3055\u3093@\u305D\u308C\u3067\u3082\u524D\u306B\u9032\u3080",
       "screen_name" : "panda_L",
       "indices" : [ 27, 35 ],
       "id_str" : "21375829",
@@ -7884,7 +7884,7 @@ Grailbird.data.tweets_2010_06 =
         "id_str" : "17113368",
         "id" : 17113368
       }, {
-        "name" : "panda_L \u3055\u3093@\u3084\u305B\u3089\u308C\u306A\u3044",
+        "name" : "panda_L \u3055\u3093@\u305D\u308C\u3067\u3082\u524D\u306B\u9032\u3080",
         "screen_name" : "panda_L",
         "indices" : [ 15, 23 ],
         "id_str" : "21375829",

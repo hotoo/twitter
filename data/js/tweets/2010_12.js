@@ -1465,7 +1465,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "16496434",
       "id" : 16496434
     }, {
-      "name" : "chee.q",
+      "name" : "\u8001Q",
       "screen_name" : "cheeq",
       "indices" : [ 8, 14 ],
       "id_str" : "14529145",
@@ -1798,7 +1798,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "18066522",
       "id" : 18066522
     }, {
-      "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801",
+      "name" : "\u7ACB\u5FD7\u679C\u9ED1\u7684\u7C7B\u5E93\u8424\u4E00\u4ECE\u6B64\u4EE5\u540E\u597D\u597D\u5199\u4EE3\u7801\u8D5A\u94B1",
       "screen_name" : "missdeerme",
       "indices" : [ 11, 22 ],
       "id_str" : "99696616",

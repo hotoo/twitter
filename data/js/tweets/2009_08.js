@@ -1714,7 +1714,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "20765944",
       "id" : 20765944
     }, {
-      "name" : "\u5C0FA\u540C\u5B66@\u63D0\u4E0D\u8D77\u52B2",
+      "name" : "\u5C0FA@\u63D0\u4E0D\u8D77\u52B2",
       "screen_name" : "Amztion",
       "indices" : [ 15, 23 ],
       "id_str" : "14896493",
