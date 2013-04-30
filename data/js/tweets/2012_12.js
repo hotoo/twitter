@@ -51,7 +51,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5D14\u8D35\u6797",
+      "name" : "C Si P",
       "screen_name" : "amoblin",
       "indices" : [ 0, 8 ],
       "id_str" : "376062650",
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5D14\u8D35\u6797",
+      "name" : "C Si P",
       "screen_name" : "amoblin",
       "indices" : [ 0, 8 ],
       "id_str" : "376062650",

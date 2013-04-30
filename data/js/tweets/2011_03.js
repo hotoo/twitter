@@ -930,6 +930,12 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 29, 38 ],
       "id_str" : "48912033",
       "id" : 48912033
+    }, {
+      "name" : "Xan Chen",
+      "screen_name" : "XanChen",
+      "indices" : [ 39, 47 ],
+      "id_str" : "1376950471",
+      "id" : 1376950471
     } ],
     "media" : [ ],
     "hashtags" : [ ],

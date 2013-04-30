@@ -1051,6 +1051,12 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "3300291",
       "id" : 3300291
     }, {
+      "name" : "Xan Chen",
+      "screen_name" : "XanChen",
+      "indices" : [ 7, 15 ],
+      "id_str" : "1376950471",
+      "id" : 1376950471
+    }, {
       "name" : "yongsun",
       "screen_name" : "yongsun",
       "indices" : [ 16, 24 ],
@@ -1694,7 +1700,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -2520,7 +2526,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",

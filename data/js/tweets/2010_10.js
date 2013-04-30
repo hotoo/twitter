@@ -2106,7 +2106,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 3, 13 ],
       "id_str" : "18066522",
@@ -2135,7 +2135,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27812498014,
     "created_at" : "Tue Oct 19 07:51:02 +0000 2010",
     "user" : {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "protected" : false,
       "id_str" : "18066522",
@@ -2159,7 +2159,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 3, 13 ],
       "id_str" : "18066522",
@@ -2188,7 +2188,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27812467948,
     "created_at" : "Tue Oct 19 07:50:20 +0000 2010",
     "user" : {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "protected" : false,
       "id_str" : "18066522",
@@ -3742,7 +3742,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -3776,7 +3776,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",

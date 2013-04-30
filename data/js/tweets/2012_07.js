@@ -367,7 +367,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "bqcl",
       "protected" : false,
       "id_str" : "27191864",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3401163618/8a4945425be9f5be1ba083de376bf885_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3569662763/535f680eee0b7b80254ce32d4eb1b24f_normal.jpeg",
       "id" : 27191864,
       "verified" : false
     }

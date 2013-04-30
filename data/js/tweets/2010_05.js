@@ -1605,7 +1605,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "KenWong_",
       "protected" : false,
       "id_str" : "730043",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/792778814/___-3_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3547102250/35eb02508eb6b402ab875c51c4e43c92_normal.jpeg",
       "id" : 730043,
       "verified" : false
     }
@@ -3439,7 +3439,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "19815242",
       "id" : 19815242
     }, {
-      "name" : "Eric Mun",
+      "name" : "Archie Kao",
       "screen_name" : "baoye",
       "indices" : [ 16, 22 ],
       "id_str" : "51397279",

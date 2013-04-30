@@ -37,7 +37,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -270,7 +270,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitalker.appspot.com/\" rel=\"nofollow\">TwiTalker</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -304,7 +304,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -1695,7 +1695,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",
@@ -4761,7 +4761,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "18607037",
       "id" : 18607037
     }, {
-      "name" : "Stephen \uF8FF PVG",
+      "name" : "Stephen \uF8FF TPE",
       "screen_name" : "jkgtw",
       "indices" : [ 15, 21 ],
       "id_str" : "792526",
@@ -4779,7 +4779,7 @@ Grailbird.data.tweets_2010_09 =
     "source" : "<a href=\"http://www.nibirutech.com\" rel=\"nofollow\">TwitBird</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Stephen \uF8FF PVG",
+        "name" : "Stephen \uF8FF TPE",
         "screen_name" : "jkgtw",
         "indices" : [ 3, 9 ],
         "id_str" : "792526",

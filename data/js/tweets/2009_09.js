@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "61997536",
       "id" : 61997536
     }, {
-      "name" : "\u8C9D",
+      "name" : "\u4E8C\u968E\u5802\u7D05\u8C9D\u4E38",
       "screen_name" : "hieiking",
       "indices" : [ 71, 80 ],
       "id_str" : "262699943",

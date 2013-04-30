@@ -70,17 +70,12 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "9448477272571904",
   "geo" : {
   },
   "id_str" : "9483231791419392",
-  "in_reply_to_user_id" : 220535798,
   "text" : "@xiaohao99 \u4E00\u4EBA\u4E09\u53F0\uFF0C\u5230\u54EA\u91CC\u53BB\u627E\u8FD9\u4E48\u597D\u7684\u516C\u53F8\u554A\u3002\u3002\u3002",
   "id" : 9483231791419392,
-  "in_reply_to_status_id" : 9448477272571904,
   "created_at" : "Tue Nov 30 05:45:53 +0000 2010",
-  "in_reply_to_screen_name" : "xiaohao99",
-  "in_reply_to_user_id_str" : "220535798",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
@@ -171,17 +166,12 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "9416765519962112",
   "geo" : {
   },
   "id_str" : "9435261511409665",
-  "in_reply_to_user_id" : 220535798,
   "text" : "@xiaohao99 @leeiio \u63B0\u7740\u63B0\u7740\u5C31\u4E60\u60EF\u4E86\u3002\u7528\u60EF\u4E86\u7AD6\u5C4F\uFF0C\u6A2A\u7740\u4E5F\u4F1A\u4E0D\u4E60\u60EF\u7684\u3002",
   "id" : 9435261511409665,
-  "in_reply_to_status_id" : 9416765519962112,
   "created_at" : "Tue Nov 30 02:35:16 +0000 2010",
-  "in_reply_to_screen_name" : "xiaohao99",
-  "in_reply_to_user_id_str" : "220535798",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
@@ -4150,7 +4140,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "18861097",
       "id" : 18861097
     }, {
-      "name" : "32\u53F7\u7981\u4EE4@\u63DB\u884C\u72C2\u9B54",
+      "name" : "32\u53F7\u7981\u4EE4@\u63DB\u884C\u72C2\u9B54\u5947\u884C\u7A2E",
       "screen_name" : "32ndban",
       "indices" : [ 21, 29 ],
       "id_str" : "122569517",

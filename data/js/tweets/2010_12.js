@@ -1792,7 +1792,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "davidx",
+      "name" : "David Xie",
       "screen_name" : "davidx_me",
       "indices" : [ 0, 10 ],
       "id_str" : "18066522",

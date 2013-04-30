@@ -582,13 +582,13 @@ Grailbird.data.tweets_2013_03 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "1224\u5C5E",
+      "name" : "F",
       "screen_name" : "fantastic_liu",
       "indices" : [ 3, 17 ],
       "id_str" : "144132868",
       "id" : 144132868
     }, {
-      "name" : "\u6912\u9E7D\u8611\u83C7",
+      "name" : "extraordinary baer",
       "screen_name" : "istkani",
       "indices" : [ 22, 30 ],
       "id_str" : "211524832",
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2013_03 =
     "source" : "<a href=\"https://embr.in\" rel=\"nofollow\">embr</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u6912\u9E7D\u8611\u83C7",
+        "name" : "extraordinary baer",
         "screen_name" : "istkani",
         "indices" : [ 3, 11 ],
         "id_str" : "211524832",
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308509093025443840,
     "created_at" : "Mon Mar 04 09:27:54 +0000 2013",
     "user" : {
-      "name" : "1224\u5C5E",
+      "name" : "F",
       "screen_name" : "fantastic_liu",
       "protected" : false,
       "id_str" : "144132868",
@@ -762,7 +762,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "793926",
       "id" : 793926
     }, {
-      "name" : "\u90D1\u86CB\u86CB",
+      "name" : "\u86CB\u86CB\u86CB\u86CB\u5305\u996D",
       "screen_name" : "meowdan",
       "indices" : [ 22, 30 ],
       "id_str" : "252601371",

@@ -1897,7 +1897,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "<a href=\"http://otweets.com\" rel=\"nofollow\">OTweets</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen \uF8FF PVG",
+      "name" : "Stephen \uF8FF TPE",
       "screen_name" : "jkgtw",
       "indices" : [ 3, 9 ],
       "id_str" : "792526",

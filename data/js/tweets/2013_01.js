@@ -214,7 +214,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rzosea",
       "protected" : false,
       "id_str" : "37871907",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3159915467/34b4c481045edd731b393cb7c6438c02_normal.gif",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3548035187/34b4c481045edd731b393cb7c6438c02_normal.gif",
       "id" : 37871907,
       "verified" : false
     }
