@@ -589,7 +589,13 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "<a href=\"http://twitalker.appspot.com/\" rel=\"nofollow\">TwiTalker</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Leave me alone\nSocce",
+      "screen_name" : "LeaveBoy",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1864707019",
+      "id" : 1864707019
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

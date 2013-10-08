@@ -808,7 +808,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://www.twitgether.com\" rel=\"nofollow\">twitgether</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zhao",
+      "name" : "\u8001\u8D75",
       "screen_name" : "jeffz_cn",
       "indices" : [ 3, 12 ],
       "id_str" : "21320324",
@@ -1715,13 +1715,7 @@ Grailbird.data.tweets_2009_07 =
 }, {
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "alpha~",
-      "screen_name" : "alpha000001",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15315537",
-      "id" : 15315537
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4663,7 +4657,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bruce \u26A1 Wang ",
+      "name" : "Bruce Wang ",
       "screen_name" : "number5",
       "indices" : [ 0, 8 ],
       "id_str" : "13581",

@@ -266,7 +266,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -334,7 +334,7 @@ Grailbird.data.tweets_2013_01 =
     "in_reply_to_screen_name" : "bigman510",
     "in_reply_to_user_id_str" : "28527406",
     "user" : {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -426,7 +426,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "scomper",
       "protected" : false,
       "id_str" : "23386642",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1817401344/IMG_01_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000498010885/496b1f25c506ca223c754507fd0c9812_normal.jpeg",
       "id" : 23386642,
       "verified" : false
     }

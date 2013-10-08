@@ -858,7 +858,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "51391336",
       "id" : 51391336
     }, {
-      "name" : "Kouga(SR+)\u827E\u5229\u6B27\u578B",
+      "name" : "Kouga(SR+)\u6C42\u5582\u517B\u55B5\uFF5E",
       "screen_name" : "Kouga_",
       "indices" : [ 73, 80 ],
       "id_str" : "46597506",

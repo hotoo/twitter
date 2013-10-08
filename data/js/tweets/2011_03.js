@@ -1237,7 +1237,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",

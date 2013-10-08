@@ -1414,7 +1414,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "16496434",
       "id" : 16496434
     }, {
-      "name" : "DaQ",
+      "name" : "QII",
       "screen_name" : "cheeq",
       "indices" : [ 8, 14 ],
       "id_str" : "14529145",
@@ -1799,7 +1799,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -1904,7 +1904,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -1937,7 +1937,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -3202,6 +3202,12 @@ Grailbird.data.tweets_2010_12 =
       "indices" : [ 8, 16 ],
       "id_str" : "6435322",
       "id" : 6435322
+    }, {
+      "name" : "Sungeb",
+      "screen_name" : "All",
+      "indices" : [ 17, 21 ],
+      "id_str" : "1741728181",
+      "id" : 1741728181
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3849,7 +3855,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",

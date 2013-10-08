@@ -112,8 +112,8 @@ Grailbird.data.tweets_2010_09 =
       "name" : "\uF8FF MLChen \uF8FF",
       "screen_name" : "MLChen",
       "indices" : [ 3, 10 ],
-      "id_str" : "2533071",
-      "id" : 2533071
+      "id_str" : "1943054394",
+      "id" : 1943054394
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -136,8 +136,8 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25945338277,
     "created_at" : "2010-09-30 03:16:09 +0000",
     "user" : {
-      "name" : "\uF8FF MLChen \uF8FF",
-      "screen_name" : "MLChen",
+      "name" : "\uF8FF MLCh3n \uF8FF",
+      "screen_name" : "mlch3n",
       "protected" : false,
       "id_str" : "2533071",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000374674237/24800ca954747f2e0ce39c727bbc03ae_normal.jpeg",
@@ -1018,7 +1018,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25800047795,
     "created_at" : "2010-09-28 16:29:21 +0000",
     "user" : {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -2254,7 +2254,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "freetstar",
       "protected" : false,
       "id_str" : "154524101",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1388121481/p_large_yk6i_7b59000279d55c3f_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000531485062/823fe4fa30b6a0a100acbde9c066135f_normal.jpeg",
       "id" : 154524101,
       "verified" : false
     }
@@ -4601,7 +4601,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "mys_721tx",
       "protected" : false,
       "id_str" : "111509244",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000036140989/d46213e4e5b7a51aae9f0a4042232271_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000495384845/352f2893b21bc2ba763fa01faa59d591_normal.jpeg",
       "id" : 111509244,
       "verified" : false
     }
@@ -5785,19 +5785,13 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "alpha~",
-      "screen_name" : "alpha000001",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15315537",
-      "id" : 15315537
-    }, {
       "name" : "\u4F50\u62C9\u24CB",
       "screen_name" : "zuola",
       "indices" : [ 20, 26 ],
       "id_str" : "5397942",
       "id" : 5397942
     }, {
-      "name" : "Kenyth Y. Zeng",
+      "name" : "Kenyth Zeng",
       "screen_name" : "kenyth",
       "indices" : [ 31, 38 ],
       "id_str" : "9913612",
@@ -5826,7 +5820,7 @@ Grailbird.data.tweets_2010_09 =
         "id_str" : "5397942",
         "id" : 5397942
       }, {
-        "name" : "Kenyth Y. Zeng",
+        "name" : "Kenyth Zeng",
         "screen_name" : "kenyth",
         "indices" : [ 14, 21 ],
         "id_str" : "9913612",
@@ -5848,9 +5842,9 @@ Grailbird.data.tweets_2010_09 =
     "id" : 23155305492,
     "created_at" : "2010-09-06 15:43:00 +0000",
     "user" : {
-      "name" : "alpha~",
-      "screen_name" : "alpha000001",
-      "protected" : false,
+      "name" : "Hown",
+      "screen_name" : "HownLi",
+      "protected" : true,
       "id_str" : "15315537",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1453192457/gfw-1_normal.jpg",
       "id" : 15315537,

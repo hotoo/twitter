@@ -891,7 +891,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zhao",
+      "name" : "\u8001\u8D75",
       "screen_name" : "jeffz_cn",
       "indices" : [ 3, 12 ],
       "id_str" : "21320324",
@@ -1414,7 +1414,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zhao",
+      "name" : "\u8001\u8D75",
       "screen_name" : "jeffz_cn",
       "indices" : [ 3, 12 ],
       "id_str" : "21320324",
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zhao",
+      "name" : "\u8001\u8D75",
       "screen_name" : "jeffz_cn",
       "indices" : [ 3, 12 ],
       "id_str" : "21320324",
@@ -5430,12 +5430,6 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "alpha~",
-      "screen_name" : "alpha000001",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15315537",
-      "id" : 15315537
-    }, {
       "name" : "Amazing.life",
       "screen_name" : "Amazing_life",
       "indices" : [ 20, 33 ],

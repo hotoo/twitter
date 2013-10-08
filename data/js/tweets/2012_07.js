@@ -548,7 +548,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5305\u5B50",
+      "name" : "\u9A0E\u884C\u5305\u5B50",
       "screen_name" : "Alanerzhao",
       "indices" : [ 0, 11 ],
       "id_str" : "462526905",
@@ -615,7 +615,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "tualatrix",
       "protected" : false,
       "id_str" : "121908437",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2741317848/b291133a8c2b3f597fe458acdb02aaf4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000460056950/f4af67c041e9737b9ba40fbaa189ad19_normal.jpeg",
       "id" : 121908437,
       "verified" : false
     }

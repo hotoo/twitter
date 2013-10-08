@@ -2066,7 +2066,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "wukra",
       "protected" : false,
       "id_str" : "31120777",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000400069801/8987e6f87f09018e3d73772d2d31bcd9_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000565884775/d3e5df9c3dced745d86420bfa0f10a24_normal.jpeg",
       "id" : 31120777,
       "verified" : false
     }

@@ -1330,7 +1330,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "DMpat",
       "protected" : false,
       "id_str" : "49362661",
-      "profile_image_url_https" : "https://si0.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
       "id" : 49362661,
       "verified" : false
     }
@@ -4150,7 +4150,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -4177,7 +4177,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 11965485384,
     "created_at" : "2010-04-11 01:16:26 +0000",
     "user" : {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -4318,7 +4318,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "Alice7vong",
       "protected" : false,
       "id_str" : "71773561",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000138536614/8d1aefa61c816aba81f5418f846352f4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000460645324/8e3778fb9409d23d9d9f7aece8c20ee5_normal.jpeg",
       "id" : 71773561,
       "verified" : false
     }
@@ -5223,7 +5223,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://otweets.com\" rel=\"nofollow\">OTweets</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 45, 56 ],
       "id_str" : "50969839",

@@ -283,13 +283,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "<a href=\"http://twitalker.appspot.com/\" rel=\"nofollow\">TwiTalker</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joshua Rehak",
-      "screen_name" : "rehawk",
-      "indices" : [ 0, 7 ],
-      "id_str" : "542725205",
-      "id" : 542725205
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2729,7 +2723,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "trotrotro",
       "protected" : false,
       "id_str" : "71717173",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2278193919/3hz7k92q16l1d2p8qjbq_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000529927116/2660a1ef281e2ed48814f50e4bdf2dc8_normal.jpeg",
       "id" : 71717173,
       "verified" : false
     }

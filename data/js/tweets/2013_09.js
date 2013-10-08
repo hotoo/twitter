@@ -2,6 +2,187 @@ Grailbird.data.tweets_2013_09 =
 [ {
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5FA1\u5B85\u66B4\u541B",
+      "screen_name" : "acgtyrant",
+      "indices" : [ 0, 10 ],
+      "id_str" : "174626000",
+      "id" : 174626000
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "381256514960236545",
+  "geo" : { },
+  "id_str" : "382744285918932993",
+  "in_reply_to_user_id" : 174626000,
+  "text" : "@acgtyrant \u53EF\u4EE5",
+  "id" : 382744285918932993,
+  "in_reply_to_status_id" : 381256514960236545,
+  "created_at" : "2013-09-25 05:52:03 +0000",
+  "in_reply_to_screen_name" : "acgtyrant",
+  "in_reply_to_user_id_str" : "174626000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "381764932401766400",
+  "text" : "\u4E3A\u4EC0\u4E48\u8F6E\u8239\u5BA2\u8FD0\u4FE1\u606F\u5728\u7F51\u4E0A\u90FD\u627E\u4E0D\u5230\u4EC0\u4E48\u4FE1\u606F\uFF0C\u73ED\u6B21\u7684\u4FE1\u606F\u90FD\u4E0D\u5145\u5206\u3002\u73B0\u5728\u8F6E\u8239\u5BA2\u8FD0\u884C\u4E1A\u6D88\u5931\u4E86\u4E48\uFF1F",
+  "id" : 381764932401766400,
+  "created_at" : "2013-09-22 13:00:27 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "379842209144528897",
+  "text" : "\u62D2\u7EDD\u88AB\u798F\u5229\u662F\u4E00\u79CD\u8BA4\u771F\u7684\u751F\u6D3B\u6001\u5EA6\u3002",
+  "id" : 379842209144528897,
+  "created_at" : "2013-09-17 05:40:14 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "379525158299389952",
+  "text" : "\u56E2\u961F\u641E\u4E86\u642D\u552E\u7684\u56E2\u5EFA\u6D3B\u52A8\uFF0C\u9001 100\uFF0C\u81EA\u5DF1\u642D 100\u3002",
+  "id" : 379525158299389952,
+  "created_at" : "2013-09-16 08:40:23 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "JavaScript\u5F02\u5E38",
+      "indices" : [ 59, 72 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 35, 58 ],
+      "url" : "https://t.co/g3Q0aG16Po",
+      "expanded_url" : "https://github.com/totorojs/javascript-exception-archives/issues/19",
+      "display_url" : "github.com/totorojs/javas\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "378441547181588481",
+  "text" : "\u6BCF\u5468\u5F02\u5E38\uFF1A\u7B2C 9\u671F\uFF0C\u641C\u72D7\u6D4F\u89C8\u5668\u4E2D\u795E\u4E00\u6837\u7684 try/catch \u7279\u6027\u3002 https://t.co/g3Q0aG16Po #JavaScript\u5F02\u5E38",
+  "id" : 378441547181588481,
+  "created_at" : "2013-09-13 08:54:30 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "377684025311518720",
+  "text" : "\u8F6F\u4EF6\u6CA1\u6709\u8C01\u6BD4\u8C01\u597D\uFF0C\u53EA\u662F\u5404\u6709\u5404\u7684\u70C2\u3002",
+  "id" : 377684025311518720,
+  "created_at" : "2013-09-11 06:44:23 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "JavaScript\u5F02\u5E38",
+      "indices" : [ 39, 52 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 15, 38 ],
+      "url" : "https://t.co/oVT3Wh2JBM",
+      "expanded_url" : "https://github.com/totorojs/javascript-exception-archives/issues/18",
+      "display_url" : "github.com/totorojs/javas\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "375897680745988096",
+  "text" : "\u6BCF\u5468\u5F02\u5E38\uFF1A\u7B2C 8\u671F\uFF0C\u5F02\u5E38\u8C61\u9650 https://t.co/oVT3Wh2JBM #JavaScript\u5F02\u5E38",
+  "id" : 375897680745988096,
+  "created_at" : "2013-09-06 08:26:05 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -37,7 +218,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "105760624",
       "id" : 105760624
     }, {
-      "name" : "\u9ED1\u732B\u624D\u4E0D\u662F\u8B66\u957F",
+      "name" : "\u9ED1\u732B\u6C42\u5185\u63A8",
       "screen_name" : "hitigon",
       "indices" : [ 17, 25 ],
       "id_str" : "18399227",

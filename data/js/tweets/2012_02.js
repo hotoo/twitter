@@ -320,7 +320,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6076\u5C0F\u72AC\u5E08\u5085\u73B0\u5DF2\u52A0\u5165\u4E2D\u5173\u67515\u5143\u76D2\u996D\u7F51\u7EDC\u8BA2\u9910",
+      "name" : "\u5E38\u88AB\u8BEF\u4F1A30\u591A\u5176\u5B9E\u521A25\u5468\u5C81\u7684\u6076\u5C0F\u72AC\u5E08\u5085",
       "screen_name" : "Fatal1tyV",
       "indices" : [ 3, 13 ],
       "id_str" : "36973250",
@@ -347,7 +347,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 168732096599306240,
     "created_at" : "2012-02-12 16:24:01 +0000",
     "user" : {
-      "name" : "\u6076\u5C0F\u72AC\u5E08\u5085\u73B0\u5DF2\u52A0\u5165\u4E2D\u5173\u67515\u5143\u76D2\u996D\u7F51\u7EDC\u8BA2\u9910",
+      "name" : "\u5E38\u88AB\u8BEF\u4F1A30\u591A\u5176\u5B9E\u521A25\u5468\u5C81\u7684\u6076\u5C0F\u72AC\u5E08\u5085",
       "screen_name" : "Fatal1tyV",
       "protected" : false,
       "id_str" : "36973250",
@@ -393,7 +393,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -426,7 +426,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 154260967415488515,
     "created_at" : "2012-01-03 18:00:55 +0000",
     "user" : {
-      "name" : "\u624D\u7C7D",
+      "name" : "\u624D\u7C7D\u2122",
       "screen_name" : "M1kooo",
       "protected" : true,
       "id_str" : "359627281",

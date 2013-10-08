@@ -833,13 +833,7 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "alpha~",
-      "screen_name" : "alpha000001",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15315537",
-      "id" : 15315537
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1727,7 +1721,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "20765944",
       "id" : 20765944
     }, {
-      "name" : "\u5C0FA",
+      "name" : "\u826F\u6CBC",
       "screen_name" : "Amztion",
       "indices" : [ 15, 23 ],
       "id_str" : "14896493",
@@ -5552,7 +5546,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Tse",
+      "name" : "lg",
       "screen_name" : "lgsoltek",
       "indices" : [ 0, 9 ],
       "id_str" : "14174987",
@@ -5585,7 +5579,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Tse",
+      "name" : "lg",
       "screen_name" : "lgsoltek",
       "indices" : [ 0, 9 ],
       "id_str" : "14174987",

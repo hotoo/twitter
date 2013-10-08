@@ -2078,7 +2078,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "yuishy",
       "protected" : false,
       "id_str" : "19148962",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3466939052/41abc49bb74948a0896fee2515ee46f8_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000474566038/d62d7a0a878a29151acb99cb5b35fb11_normal.jpeg",
       "id" : 19148962,
       "verified" : false
     }
@@ -3481,7 +3481,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "19815242",
       "id" : 19815242
     }, {
-      "name" : "Wentworth Miller",
+      "name" : "Justin Bartha",
       "screen_name" : "baoye",
       "indices" : [ 16, 22 ],
       "id_str" : "51397279",
@@ -3701,7 +3701,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://www.mixero.com\" rel=\"nofollow\">Mixero</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 0, 11 ],
       "id_str" : "50969839",
@@ -5897,7 +5897,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://www.mixero.com\" rel=\"nofollow\">Mixero</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -5924,7 +5924,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13714174938,
     "created_at" : "2010-05-10 07:38:21 +0000",
     "user" : {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -6577,7 +6577,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://www.mixero.com\" rel=\"nofollow\">Mixero</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rei",
+      "name" : "\u4E09\u7B20\u00B7\u963F\u514B\u66FC",
       "screen_name" : "chloerei",
       "indices" : [ 3, 12 ],
       "id_str" : "7252032",
@@ -6604,11 +6604,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13652111905,
     "created_at" : "2010-05-09 05:47:59 +0000",
     "user" : {
-      "name" : "Rei",
+      "name" : "\u4E09\u7B20\u00B7\u963F\u514B\u66FC",
       "screen_name" : "chloerei",
       "protected" : false,
       "id_str" : "7252032",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2499624063/8sj61tk197v77ckv7uny_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000550434709/31bd56022e109fcb54fa289c9d74bb38_normal.png",
       "id" : 7252032,
       "verified" : false
     }

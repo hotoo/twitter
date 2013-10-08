@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zhao",
+      "name" : "\u8001\u8D75",
       "screen_name" : "jeffz_cn",
       "indices" : [ 0, 9 ],
       "id_str" : "21320324",

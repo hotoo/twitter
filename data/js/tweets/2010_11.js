@@ -2319,7 +2319,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "103768350",
       "id" : 103768350
     }, {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 17, 28 ],
       "id_str" : "50969839",
@@ -2336,7 +2336,7 @@ Grailbird.data.tweets_2010_11 =
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u00E9",
+        "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
         "screen_name" : "laoyang945",
         "indices" : [ 4, 15 ],
         "id_str" : "50969839",
@@ -2596,7 +2596,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -2623,7 +2623,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 3031681476853760,
     "created_at" : "2010-11-12 10:29:43 +0000",
     "user" : {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -3806,7 +3806,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "18861097",
       "id" : 18861097
     }, {
-      "name" : "32\u662F\u6700\u4F73\u644A\u4E3B\u4F34\u4FA3",
+      "name" : "32\u7D76\u671Bver.",
       "screen_name" : "32ndban",
       "indices" : [ 21, 29 ],
       "id_str" : "122569517",

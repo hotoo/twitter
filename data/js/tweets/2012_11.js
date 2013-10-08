@@ -1455,7 +1455,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "KOLALAUU",
       "protected" : false,
       "id_str" : "225795310",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2266014512/phpdIh7zn_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000542995375/bb695a3a658abffb90fdcd961c6ce5ba_normal.jpeg",
       "id" : 225795310,
       "verified" : false
     }

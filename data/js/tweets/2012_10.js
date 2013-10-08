@@ -428,7 +428,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "46080891",
       "id" : 46080891
     }, {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 8, 19 ],
       "id_str" : "50969839",

@@ -702,7 +702,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mattw",
+      "name" : "matt",
       "screen_name" : "ymattw",
       "indices" : [ 0, 7 ],
       "id_str" : "19237613",

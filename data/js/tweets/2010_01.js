@@ -2497,7 +2497,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bruce \u26A1 Wang ",
+      "name" : "Bruce Wang ",
       "screen_name" : "number5",
       "indices" : [ 54, 62 ],
       "id_str" : "13581",

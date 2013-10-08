@@ -198,7 +198,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Alice7vong",
       "protected" : false,
       "id_str" : "71773561",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000138536614/8d1aefa61c816aba81f5418f846352f4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000460645324/8e3778fb9409d23d9d9f7aece8c20ee5_normal.jpeg",
       "id" : 71773561,
       "verified" : false
     }
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "lzyy",
       "protected" : false,
       "id_str" : "5600002",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2758703049/ddeab7304834021eb230bcf8c0305207_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000560521187/dc530d5010783b489ec1f62b8f14151e_normal.png",
       "id" : 5600002,
       "verified" : false
     }
@@ -1506,7 +1506,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u738B\u8FDC\u8F69",
+      "name" : "Yuanxuan Wang",
       "screen_name" : "zellux",
       "indices" : [ 3, 10 ],
       "id_str" : "40798726",
@@ -1533,7 +1533,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28478001887,
     "created_at" : "2010-10-23 06:32:01 +0000",
     "user" : {
-      "name" : "\u738B\u8FDC\u8F69",
+      "name" : "Yuanxuan Wang",
       "screen_name" : "zellux",
       "protected" : false,
       "id_str" : "40798726",
@@ -3860,7 +3860,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -3899,7 +3899,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26815568550,
     "created_at" : "2010-10-09 04:40:53 +0000",
     "user" : {
-      "name" : "\u00E9",
+      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",
@@ -5055,7 +5055,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u256F\u00B0\u25A1\u00B0)\u256F\uFE35 \u01DD\u0250p\u0183uo\u027E \u026F\u0131\u029E",
+      "name" : "\u5251\u950B",
       "screen_name" : "nnfish",
       "indices" : [ 3, 10 ],
       "id_str" : "331894964",

@@ -4753,7 +4753,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://dabr.co.uk\" rel=\"nofollow\">dabr</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zhao",
+      "name" : "\u8001\u8D75",
       "screen_name" : "jeffz_cn",
       "indices" : [ 13, 22 ],
       "id_str" : "21320324",
