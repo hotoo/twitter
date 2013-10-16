@@ -17,7 +17,7 @@ Grailbird.data.tweets_2012_06 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
@@ -39,12 +39,12 @@ Grailbird.data.tweets_2012_06 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u660E\u57CE",
@@ -75,12 +75,12 @@ Grailbird.data.tweets_2012_06 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u660E\u57CE",
@@ -111,12 +111,12 @@ Grailbird.data.tweets_2012_06 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Karl Zheng",
@@ -133,7 +133,7 @@ Grailbird.data.tweets_2012_06 =
   "id_str" : "212187542630580225",
   "text" : "RT @karlzheng: \u6709\u5F88\u591A\u4EBA\u79BB\u5F00\u4E86\u4E00\u5BB6\u516C\u53F8\u662F\u89C9\u5F97\u516C\u53F8\u5BF9\u4ED6\u4E0D\u516C\u5E73\uFF0C\u5176\u5B9E\u5927\u53EF\u4E0D\u5FC5\u8FD9\u4E48\u8BA4\u4E3A\uFF0C\u516C\u53F8\u4F5C\u4E3A\u4E00\u4E2A\u76C8\u5229\u7EC4\u7EC7\u53EA\u662F\u5728\u6CD5\u5F8B\u4E0A\u548C\u4F60\u662F\u96C7\u4F63\u5173\u7CFB\u3002\u4F60\u6240\u4EA7\u751F\u7684\u4EFB\u4F55\u60C5\u611F\uFF0C\u7231\u4E5F\u597D\u6068\u4E5F\u597D\u53EA\u4E0D\u8FC7\u662F\u57FA\u4E8E\u4E00\u7FA4\u4EBA\uFF0C\u51E0\u4E2A\u4EBA\u6216\u4E00\u4E2A\u4EBA\u3002\u5BA2\u89C2\u5730\u770B\u5F85\u79BB\u5F00\u8FD9\u4EF6\u4E8B\u60C5\u4F1A\u66F4\u52A0\u7406\u6027\u3002",
   "retweeted_status" : {
-    "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -150,7 +150,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "karlzheng",
       "protected" : false,
       "id_str" : "21559051",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1902977739/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1902977739\/image_normal.jpg",
       "id" : 21559051,
       "verified" : false
     }
@@ -162,12 +162,12 @@ Grailbird.data.tweets_2012_06 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u660E\u57CE",
@@ -198,7 +198,7 @@ Grailbird.data.tweets_2012_06 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }

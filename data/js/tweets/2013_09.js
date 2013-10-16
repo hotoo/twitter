@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_09 = 
-[ {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u5FA1\u5B85\u66B4\u541B",
@@ -28,12 +28,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -50,12 +50,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -72,12 +72,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -94,12 +94,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -109,14 +109,14 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "urls" : [ {
       "indices" : [ 35, 58 ],
-      "url" : "https://t.co/g3Q0aG16Po",
-      "expanded_url" : "https://github.com/totorojs/javascript-exception-archives/issues/19",
-      "display_url" : "github.com/totorojs/javas\u2026"
+      "url" : "https:\/\/t.co\/g3Q0aG16Po",
+      "expanded_url" : "https:\/\/github.com\/totorojs\/javascript-exception-archives\/issues\/19",
+      "display_url" : "github.com\/totorojs\/javas\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "378441547181588481",
-  "text" : "\u6BCF\u5468\u5F02\u5E38\uFF1A\u7B2C 9\u671F\uFF0C\u641C\u72D7\u6D4F\u89C8\u5668\u4E2D\u795E\u4E00\u6837\u7684 try/catch \u7279\u6027\u3002 https://t.co/g3Q0aG16Po #JavaScript\u5F02\u5E38",
+  "text" : "\u6BCF\u5468\u5F02\u5E38\uFF1A\u7B2C 9\u671F\uFF0C\u641C\u72D7\u6D4F\u89C8\u5668\u4E2D\u795E\u4E00\u6837\u7684 try\/catch \u7279\u6027\u3002 https:\/\/t.co\/g3Q0aG16Po #JavaScript\u5F02\u5E38",
   "id" : 378441547181588481,
   "created_at" : "2013-09-13 08:54:30 +0000",
   "user" : {
@@ -124,12 +124,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -146,12 +146,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -161,14 +161,14 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "urls" : [ {
       "indices" : [ 15, 38 ],
-      "url" : "https://t.co/oVT3Wh2JBM",
-      "expanded_url" : "https://github.com/totorojs/javascript-exception-archives/issues/18",
-      "display_url" : "github.com/totorojs/javas\u2026"
+      "url" : "https:\/\/t.co\/oVT3Wh2JBM",
+      "expanded_url" : "https:\/\/github.com\/totorojs\/javascript-exception-archives\/issues\/18",
+      "display_url" : "github.com\/totorojs\/javas\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "375897680745988096",
-  "text" : "\u6BCF\u5468\u5F02\u5E38\uFF1A\u7B2C 8\u671F\uFF0C\u5F02\u5E38\u8C61\u9650 https://t.co/oVT3Wh2JBM #JavaScript\u5F02\u5E38",
+  "text" : "\u6BCF\u5468\u5F02\u5E38\uFF1A\u7B2C 8\u671F\uFF0C\u5F02\u5E38\u8C61\u9650 https:\/\/t.co\/oVT3Wh2JBM #JavaScript\u5F02\u5E38",
   "id" : 375897680745988096,
   "created_at" : "2013-09-06 08:26:05 +0000",
   "user" : {
@@ -176,12 +176,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -198,12 +198,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u535A\u6BD4",
@@ -249,12 +249,12 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -264,14 +264,14 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "urls" : [ {
       "indices" : [ 19, 41 ],
-      "url" : "http://t.co/J9EArvoCaC",
-      "expanded_url" : "http://www.vim.org/account/profile.php?user_id=66604",
-      "display_url" : "vim.org/account/profil\u2026"
+      "url" : "http:\/\/t.co\/J9EArvoCaC",
+      "expanded_url" : "http:\/\/www.vim.org\/account\/profile.php?user_id=66604",
+      "display_url" : "vim.org\/account\/profil\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "374008205581369344",
-  "text" : "#VimTee \u7684\u6350\u52A9\u4FE1\u606F\u73B0\u5728\u53EF\u4EE5\u5728 http://t.co/J9EArvoCaC \u770B\u5230\u3002\u5404\u4F4D\u53C2\u52A0\u56E2\u6350\u7684\u540C\u5B66\u8BF7\u67E5\u6536\u90AE\u4EF6\u6295\u7968 13\u9879 Vim \u65B0\u7279\u6027\u3002",
+  "text" : "#VimTee \u7684\u6350\u52A9\u4FE1\u606F\u73B0\u5728\u53EF\u4EE5\u5728 http:\/\/t.co\/J9EArvoCaC \u770B\u5230\u3002\u5404\u4F4D\u53C2\u52A0\u56E2\u6350\u7684\u540C\u5B66\u8BF7\u67E5\u6536\u90AE\u4EF6\u6295\u7968 13\u9879 Vim \u65B0\u7279\u6027\u3002",
   "id" : 374008205581369344,
   "created_at" : "2013-09-01 03:17:59 +0000",
   "user" : {
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2013_09 =
     "screen_name" : "hotoo",
     "protected" : false,
     "id_str" : "20674328",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/961629577/xianyun76_normal.png",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/961629577\/xianyun76_normal.png",
     "id" : 20674328,
     "verified" : false
   }
