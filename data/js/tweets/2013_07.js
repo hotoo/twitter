@@ -629,7 +629,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ken Wong\uFF08\u5E7B\u706D\uFF09",
+      "name" : "Ken Wong",
       "screen_name" : "KenWong_",
       "indices" : [ 0, 9 ],
       "id_str" : "730043",
@@ -830,7 +830,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "21157148",
       "id" : 21157148
     }, {
-      "name" : "Leask Huang",
+      "name" : "Leask Wong",
       "screen_name" : "Leaskh",
       "indices" : [ 8, 15 ],
       "id_str" : "10065202",

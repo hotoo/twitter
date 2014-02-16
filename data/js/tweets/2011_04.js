@@ -121,7 +121,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ken Wong\uFF08\u5E7B\u706D\uFF09",
+      "name" : "Ken Wong",
       "screen_name" : "KenWong_",
       "indices" : [ 0, 9 ],
       "id_str" : "730043",

@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "yunzhenger",
       "protected" : false,
       "id_str" : "52291325",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1472471393\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432647487376326657\/YwaAsLDq_normal.jpeg",
       "id" : 52291325,
       "verified" : false
     }
@@ -1588,7 +1588,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "106975664",
       "id" : 106975664
     }, {
-      "name" : "\u8FDB\u6B65\u9752\u5E74\u6770\u897F\u5154",
+      "name" : "\u6770\u897F\u5154",
       "screen_name" : "jessetoo",
       "indices" : [ 21, 30 ],
       "id_str" : "117054654",
@@ -1611,7 +1611,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "\u003Ca href=\"https:\/\/play.google.com\/store\/apps\/details?id=org.mariotaku.twidere\" rel=\"nofollow\"\u003ETwidere for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u8FDB\u6B65\u9752\u5E74\u6770\u897F\u5154",
+        "name" : "\u6770\u897F\u5154",
         "screen_name" : "jessetoo",
         "indices" : [ 5, 14 ],
         "id_str" : "117054654",
@@ -2349,7 +2349,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "StarKnight",
       "protected" : false,
       "id_str" : "8956502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424763215017287680\/9W-60xIm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426301309940035585\/BYfw78rm_normal.jpeg",
       "id" : 8956502,
       "verified" : false
     }

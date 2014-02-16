@@ -257,7 +257,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ken Wong\uFF08\u5E7B\u706D\uFF09",
+      "name" : "Ken Wong",
       "screen_name" : "KenWong_",
       "indices" : [ 30, 39 ],
       "id_str" : "730043",
@@ -425,7 +425,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ken Wong\uFF08\u5E7B\u706D\uFF09",
+      "name" : "Ken Wong",
       "screen_name" : "KenWong_",
       "indices" : [ 0, 9 ],
       "id_str" : "730043",
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ken Wong\uFF08\u5E7B\u706D\uFF09",
+      "name" : "Ken Wong",
       "screen_name" : "KenWong_",
       "indices" : [ 0, 9 ],
       "id_str" : "730043",

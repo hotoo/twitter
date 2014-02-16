@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6709\u4E86\u5C0F\u718A\u732B\uFF0C\u751F\u6D3B\u597D\u6ECB\u5473",
+      "name" : "\u5C0F\u718A\u732B\u9171",
       "screen_name" : "ailurus1991",
       "indices" : [ 0, 12 ],
       "id_str" : "383503253",
@@ -148,7 +148,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "6433582",
       "id" : 6433582
     }, {
-      "name" : "\u6218\u573A\u539F\u9ED1\u4EEA",
+      "name" : "\u8499\u5E03\u6717\u00B7\u8BFA\u5170\u5FB7",
       "screen_name" : "chloerei",
       "indices" : [ 8, 17 ],
       "id_str" : "7252032",
@@ -275,10 +275,7 @@ Grailbird.data.tweets_2013_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.2867924346, 120.1164330613 ]
-  },
+  "geo" : { },
   "id_str" : "417483811212238848",
   "text" : "GitHub \u662F\u6C47\u96C6\u4E86\u4F17\u591A\u5F00\u6E90\u9879\u76EE\u7684\u95ED\u6E90\u7CFB\u7EDF\uFF0CGitLab \u662F\u6C47\u805A\u4E86\u8F83\u591A\u95ED\u6E90\u9879\u76EE\u7684\u5F00\u6E90\u7CFB\u7EDF\u3002",
   "id" : 417483811212238848,

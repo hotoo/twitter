@@ -827,7 +827,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "chrisyipw",
       "protected" : false,
       "id_str" : "26438828",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3224706561\/0be68986a014987c4545c77acbe49121_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427630606231425024\/JS2vGt4N_normal.jpeg",
       "id" : 26438828,
       "verified" : false
     }
@@ -2363,7 +2363,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 0, 9 ],
       "id_str" : "419565358",

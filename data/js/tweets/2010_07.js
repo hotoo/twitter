@@ -92,7 +92,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "xiaolai",
       "protected" : false,
       "id_str" : "61356505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3052907595\/69b2650853ce5510cfe2f3abf43bed23_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433957932435124224\/rvfau9ty_normal.jpeg",
       "id" : 61356505,
       "verified" : false
     }
@@ -2072,7 +2072,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "wukra",
       "protected" : false,
       "id_str" : "31120777",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424178541710692352\/BTwmNufx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433542441476444160\/Whg9PR-4_normal.jpeg",
       "id" : 31120777,
       "verified" : false
     }
@@ -2957,13 +2957,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "tjmao",
-      "screen_name" : "tjmao",
-      "indices" : [ 3, 9 ],
-      "id_str" : "44579866",
-      "id" : 44579866
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2986,10 +2980,10 @@ Grailbird.data.tweets_2010_07 =
     "created_at" : "2010-07-14 12:27:55 +0000",
     "user" : {
       "name" : "tjmao",
-      "screen_name" : "tjmao",
-      "protected" : false,
+      "screen_name" : "tjmao_hibernate",
+      "protected" : true,
       "id_str" : "44579866",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422054785739546625\/bsnld5nn_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428066300569452544\/BSrYzi6d_normal.png",
       "id" : 44579866,
       "verified" : false
     }
@@ -5351,7 +5345,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "xiaolai",
       "protected" : false,
       "id_str" : "61356505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3052907595\/69b2650853ce5510cfe2f3abf43bed23_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433957932435124224\/rvfau9ty_normal.jpeg",
       "id" : 61356505,
       "verified" : false
     }

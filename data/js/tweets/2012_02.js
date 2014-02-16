@@ -320,7 +320,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u82E6\u903C\u722A\u74E6\u7801\u519C\u6076\u5C0F\u72AC\u5E08\u2026",
+      "name" : "\u6076\u5C0F\u72AC\u5E08\u5085\u5373\u2026",
       "screen_name" : "Fatal1tyV",
       "indices" : [ 3, 13 ],
       "id_str" : "36973250",
@@ -347,7 +347,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 168732096599306240,
     "created_at" : "2012-02-12 16:24:01 +0000",
     "user" : {
-      "name" : "\u82E6\u903C\u722A\u74E6\u7801\u519C\u6076\u5C0F\u72AC\u5E08\u2026",
+      "name" : "\u6076\u5C0F\u72AC\u5E08\u5085\u5373\u2026",
       "screen_name" : "Fatal1tyV",
       "protected" : false,
       "id_str" : "36973250",

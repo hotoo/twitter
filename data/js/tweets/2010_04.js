@@ -1896,7 +1896,7 @@ Grailbird.data.tweets_2010_04 =
     "user" : {
       "name" : "Thinkqob",
       "screen_name" : "Thinkqob",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "10759922",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2511042436\/wfowew8xjeyb894dmsom_normal.jpeg",
       "id" : 10759922,
@@ -4321,7 +4321,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "Alice7vong",
       "protected" : false,
       "id_str" : "71773561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000460645324\/8e3778fb9409d23d9d9f7aece8c20ee5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434609827797426176\/V_y9QvD8_normal.jpeg",
       "id" : 71773561,
       "verified" : false
     }

@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "kaihsyn",
       "protected" : false,
       "id_str" : "6086692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3054145500\/a4e9cef00e5de1b778472c7ba5767a13_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433483933208936448\/hCjcfhyI_normal.jpeg",
       "id" : 6086692,
       "verified" : false
     }
@@ -2248,7 +2248,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "freetstar",
       "protected" : false,
       "id_str" : "154524101",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000531485062\/823fe4fa30b6a0a100acbde9c066135f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428700002287099904\/lUxep_lF_normal.jpeg",
       "id" : 154524101,
       "verified" : false
     }
@@ -3920,7 +3920,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "18607037",
       "id" : 18607037
     }, {
-      "name" : "Stephen \uF8FF PVG",
+      "name" : "Stephen \uF8FF TPE",
       "screen_name" : "jkgtw",
       "indices" : [ 15, 21 ],
       "id_str" : "792526",
@@ -3937,7 +3937,7 @@ Grailbird.data.tweets_2010_09 =
     "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Stephen \uF8FF PVG",
+        "name" : "Stephen \uF8FF TPE",
         "screen_name" : "jkgtw",
         "indices" : [ 3, 9 ],
         "id_str" : "792526",
@@ -5781,19 +5781,19 @@ Grailbird.data.tweets_2010_09 =
     "user_mentions" : [ {
       "name" : "\u4F50\u62C9\u24CB",
       "screen_name" : "zuola",
-      "indices" : [ 20, 26 ],
+      "indices" : [ 122, 123 ],
       "id_str" : "5397942",
       "id" : 5397942
     }, {
       "name" : "Kenyth Zeng",
       "screen_name" : "kenyth",
-      "indices" : [ 31, 38 ],
+      "indices" : [ 122, 123 ],
       "id_str" : "9913612",
       "id" : 9913612
     }, {
       "name" : "ItTalks",
       "screen_name" : "ItTalks",
-      "indices" : [ 52, 60 ],
+      "indices" : [ 122, 123 ],
       "id_str" : "5853982",
       "id" : 5853982
     } ],

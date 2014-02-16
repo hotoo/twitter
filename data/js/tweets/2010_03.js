@@ -306,6 +306,12 @@ Grailbird.data.tweets_2010_03 =
       "indices" : [ 3, 12 ],
       "id_str" : "54762159",
       "id" : 54762159
+    }, {
+      "name" : "can\u0131 TIN",
+      "screen_name" : "TINCok",
+      "indices" : [ 17, 24 ],
+      "id_str" : "2328038470",
+      "id" : 2328038470
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -317,7 +323,13 @@ Grailbird.data.tweets_2010_03 =
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
-      "user_mentions" : [ ],
+      "user_mentions" : [ {
+        "name" : "can\u0131 TIN",
+        "screen_name" : "TINCok",
+        "indices" : [ 3, 10 ],
+        "id_str" : "2328038470",
+        "id" : 2328038470
+      } ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -1723,7 +1735,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/otweets.com\" rel=\"nofollow\"\u003EOTweets\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen \uF8FF PVG",
+      "name" : "Stephen \uF8FF TPE",
       "screen_name" : "jkgtw",
       "indices" : [ 3, 9 ],
       "id_str" : "792526",

@@ -375,7 +375,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "124190073",
       "id" : 124190073
     }, {
-      "name" : "\u676F\u5B50",
+      "name" : "Fxxk google\uFF01",
       "screen_name" : "onlycup",
       "indices" : [ 19, 27 ],
       "id_str" : "20494726",

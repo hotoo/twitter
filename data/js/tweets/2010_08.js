@@ -2574,7 +2574,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "14076531",
       "id" : 14076531
     }, {
-      "name" : "c o \u0280 u  \u2716",
+      "name" : "\u0274\u026A\u1D04\u1D0F\u0280\u1D1C  \u2605 \u2606 ",
       "screen_name" : "nnfish",
       "indices" : [ 8, 15 ],
       "id_str" : "331894964",

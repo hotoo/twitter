@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "yummyelin",
       "protected" : false,
       "id_str" : "873229026",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000847246186\/b60eb682d3b6a3ef4f5632ac94a356c1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430442560473927681\/ut6DZBJ-_normal.jpeg",
       "id" : 873229026,
       "verified" : false
     }

@@ -3806,7 +3806,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "18861097",
       "id" : 18861097
     }, {
-      "name" : "32\u4E2A\u7537\u53CB",
+      "name" : "32\u4E2A\u7537\u53CB\u6C42\u53D1\u7CD6",
       "screen_name" : "32ndban",
       "indices" : [ 21, 29 ],
       "id_str" : "122569517",

@@ -289,7 +289,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/dabr.co.uk\" rel=\"nofollow\"\u003Edabr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 0, 9 ],
       "id_str" : "419565358",

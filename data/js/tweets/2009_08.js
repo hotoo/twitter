@@ -833,13 +833,7 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/dabr.co.uk\" rel=\"nofollow\"\u003Edabr\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uCE74\uC9C0\uB178\uC8FC\uC18C\uBC14\uCE74\uB77C\uC8FC\uC18C\uC2E4\uC2DC\uAC04\uCE74\uC9C0\uB178\uCD94\uCC9C",
-      "screen_name" : "alpha000001",
-      "indices" : [ 3, 15 ],
-      "id_str" : "1978031258",
-      "id" : 1978031258
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1727,7 +1721,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "20765944",
       "id" : 20765944
     }, {
-      "name" : "\u826F\u6CBC",
+      "name" : "Liang Zhao",
       "screen_name" : "Amztion",
       "indices" : [ 15, 23 ],
       "id_str" : "14896493",

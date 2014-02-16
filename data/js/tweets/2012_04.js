@@ -489,7 +489,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E4B\u4F59",
+      "name" : "\u7B11\u53EF",
       "screen_name" : "my_rest",
       "indices" : [ 0, 8 ],
       "id_str" : "50203115",
@@ -522,7 +522,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E4B\u4F59",
+      "name" : "\u7B11\u53EF",
       "screen_name" : "my_rest",
       "indices" : [ 0, 8 ],
       "id_str" : "50203115",
@@ -555,7 +555,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E4B\u4F59",
+      "name" : "\u7B11\u53EF",
       "screen_name" : "my_rest",
       "indices" : [ 0, 8 ],
       "id_str" : "50203115",

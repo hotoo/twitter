@@ -558,7 +558,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 0, 9 ],
       "id_str" : "419565358",
@@ -591,7 +591,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 0, 9 ],
       "id_str" : "419565358",
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 0, 9 ],
       "id_str" : "419565358",
@@ -722,7 +722,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 0, 9 ],
       "id_str" : "419565358",
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "3060241",
       "id" : 3060241
     }, {
-      "name" : "YasmimChris",
+      "name" : "Yasmim Chris",
       "screen_name" : "Chris_ys",
       "indices" : [ 7, 16 ],
       "id_str" : "419565358",
