@@ -335,7 +335,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(null)",
+      "name" : "RANDOM INSOMNIA",
       "screen_name" : "dword1511",
       "indices" : [ 3, 13 ],
       "id_str" : "303864681",
@@ -375,11 +375,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271186166362034176,
     "created_at" : "2012-11-21 09:39:55 +0000",
     "user" : {
-      "name" : "(null)",
+      "name" : "RANDOM INSOMNIA",
       "screen_name" : "dword1511",
       "protected" : true,
       "id_str" : "303864681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2283695085\/cnm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449774627854630912\/T5gu7KV5_normal.png",
       "id" : 303864681,
       "verified" : false
     }

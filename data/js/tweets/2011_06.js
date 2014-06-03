@@ -594,7 +594,7 @@ Grailbird.data.tweets_2011_06 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -628,57 +628,6 @@ Grailbird.data.tweets_2011_06 =
   "text" : "\u6628\u5929\u505A\u68A6\uFF0C\u7528\u7740\u6211\u5FC3\u7231\u7684\u5C0F\u9ED1\uFF0C\u7A81\u7136\u60F3\u8D77\u62BD\u5C49\u91CC\u5C01\u5B58\u4E86\u597D\u4E45\u7684\u5C0F\u767D\uFF0C\u8BF4\u4E70\u56DE\u6765\u4E00\u76F4\u90FD\u6CA1\u7528\u8FC7\uFF0C\u7136\u540E\u60F3\uFF1A\u4E0D\u5BF9\u554A\uFF0C\u6700\u8FD1\u6211\u624B\u673A\u5FEB\u4E0D\u884C\u4E86\uFF0C\u4E3A\u4EC0\u4E48\u4E0D\u662FiPhone",
   "id" : 81033115224645632,
   "created_at" : "2011-06-15 16:19:34 +0000",
-  "user" : {
-    "name" : "\u95F2\u8018\u2122",
-    "screen_name" : "hotoo",
-    "protected" : false,
-    "id_str" : "20674328",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000751927179\/d088ea1004a6dcbed7fa520d2eef3f82_normal.jpeg",
-    "id" : 20674328,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Maxim Kim",
-      "screen_name" : "mxmkim",
-      "indices" : [ 3, 10 ],
-      "id_str" : "224304307",
-      "id" : 224304307
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "80611442813960192",
-  "text" : "RT @mxmkim: Good news everyone! Vimwiki 1.2 is ready. http:\/\/code.google.com\/p\/vimwiki\/downloads\/list",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/wiki.ubuntu.com\/Gwibber\" rel=\"nofollow\"\u003EUbuntu\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "79612119376601088",
-    "text" : "Good news everyone! Vimwiki 1.2 is ready. http:\/\/code.google.com\/p\/vimwiki\/downloads\/list",
-    "id" : 79612119376601088,
-    "created_at" : "2011-06-11 18:13:03 +0000",
-    "user" : {
-      "name" : "Maxim Kim",
-      "screen_name" : "mxmkim",
-      "protected" : false,
-      "id_str" : "224304307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1185705158\/photoshare.ru-2740254_normal.jpg",
-      "id" : 224304307,
-      "verified" : false
-    }
-  },
-  "id" : 80611442813960192,
-  "created_at" : "2011-06-14 12:24:00 +0000",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",
@@ -1261,7 +1210,7 @@ Grailbird.data.tweets_2011_06 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ggarlic",
@@ -1300,7 +1249,7 @@ Grailbird.data.tweets_2011_06 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "gfrog",
@@ -1333,7 +1282,7 @@ Grailbird.data.tweets_2011_06 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Aben",

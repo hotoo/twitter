@@ -724,7 +724,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "leeiio",
       "protected" : false,
       "id_str" : "13726452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420951912196743168\/qDTY7d3V_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456000201874866176\/dwN0xqro_normal.png",
       "id" : 13726452,
       "verified" : false
     }
@@ -986,13 +986,7 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "M.B.samnew",
-      "screen_name" : "samnew2008",
-      "indices" : [ 0, 11 ],
-      "id_str" : "45530113",
-      "id" : 45530113
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1005,7 +999,7 @@ Grailbird.data.tweets_2013_05 =
   "id" : 338831119032135680,
   "in_reply_to_status_id" : 338804581150625792,
   "created_at" : "2013-05-27 01:36:48 +0000",
-  "in_reply_to_screen_name" : "samnew2008",
+  "in_reply_to_screen_name" : "samdlcong",
   "in_reply_to_user_id_str" : "45530113",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
@@ -1019,13 +1013,7 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "M.B.samnew",
-      "screen_name" : "samnew2008",
-      "indices" : [ 0, 11 ],
-      "id_str" : "45530113",
-      "id" : 45530113
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1038,7 +1026,7 @@ Grailbird.data.tweets_2013_05 =
   "id" : 338802981338243072,
   "in_reply_to_status_id" : 338802454546239488,
   "created_at" : "2013-05-26 23:45:00 +0000",
-  "in_reply_to_screen_name" : "samnew2008",
+  "in_reply_to_screen_name" : "samdlcong",
   "in_reply_to_user_id_str" : "45530113",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
@@ -1067,7 +1055,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "338800236942209026",
   "text" : "RT @ideawu: \u7537\u4EBA\u6709\u94B1\u5C31\u53D8\u574F\uFF0C\u7EC8\u4E8E\u660E\u767D\u90A3\u4E9B\u5973\u751F\u603B\u662F\u5BF9\u6211\u8BF4\u201C\u4F60\u662F\u4E2A\u597D\u4EBA\u201D\u7684\u610F\u601D\u4E86\u3002\u554A~~~\u591A\u4E48\u75DB\u7684\u9886\u609F...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1103,13 +1091,7 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "M.B.samnew",
-      "screen_name" : "samnew2008",
-      "indices" : [ 0, 11 ],
-      "id_str" : "45530113",
-      "id" : 45530113
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1125,7 +1107,7 @@ Grailbird.data.tweets_2013_05 =
   "id" : 338789260041789442,
   "in_reply_to_status_id" : 338696856194412544,
   "created_at" : "2013-05-26 22:50:28 +0000",
-  "in_reply_to_screen_name" : "samnew2008",
+  "in_reply_to_screen_name" : "samdlcong",
   "in_reply_to_user_id_str" : "45530113",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
@@ -1195,7 +1177,7 @@ Grailbird.data.tweets_2013_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ken Wong",
@@ -1606,7 +1588,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "iVane Hwang",
+      "name" : "iVane Hwang (\u827E\u6587\u738B) ",
       "screen_name" : "ivane",
       "indices" : [ 0, 6 ],
       "id_str" : "1458581",
@@ -1713,7 +1695,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "336085994954702848",
   "text" : "RT @irrenhaeusler: \u300CYahoo \u53C8\u8CB7\u4E86\uFF0C\u9019\u56DE\u662F tumblr\u3002\u300D\u300C\u679C\u7136\uFF0C\u5973\u4EBA\u5C31\u662F\u611B Shopping...\u300D",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2210,7 +2192,7 @@ Grailbird.data.tweets_2013_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ethan Wang",
@@ -2817,7 +2799,7 @@ Grailbird.data.tweets_2013_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mou",

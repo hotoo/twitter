@@ -1170,7 +1170,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "363300544804175872",
   "text" : "RT @lilydjwg: gvim for Win32 7.4b.5 \u7248\u672C\u7F16\u8BD1\u5B8C\u6210\uFF0C\u6B22\u8FCE\u4F7F\u7528\u2014\u2014http:\/\/t.co\/PDtbU6X2uI",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

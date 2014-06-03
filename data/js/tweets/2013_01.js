@@ -235,7 +235,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u652F\u4ED8\u5B9D|Alipay",
+      "name" : "Alipay",
       "screen_name" : "Alipay",
       "indices" : [ 15, 22 ],
       "id_str" : "13712792",
@@ -266,7 +266,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
+      "name" : "\u8001\u6768",
       "screen_name" : "laoyang945",
       "indices" : [ 3, 14 ],
       "id_str" : "50969839",
@@ -298,7 +298,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "294462800250667009",
   "text" : "RT @laoyang945: \u522B\u65AD\u53E5\uFF0C\u662F\u300CB\u80FD\u5E72\u7684\u300D RT @bigman510 \u6709\u6B67\u4E49 RT @zuihulu B\u9879\u5305\u62EC\u4F1A\u505A\u996D\u5427RT @ripleyyu: \u4E16\u754C\u672B\u65E5\u5927\u9003\u4EA1\u7684\u65F6\u5019\uFF0C\u6709\u4E09\u79CD\u5973\u4EBA\uFF0C\u4F60\u8BA4\u4E3A\u54EA\u79CD\u80FD\u6D3B\u5F97\u6700\u4E45\uFF1FA \u6F02\u4EAE\u7684 B \u80FD\u5E72\u7684 C \u4F1A\u5356\u840C\u7684",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "\u5927\u7537",
@@ -334,7 +334,7 @@ Grailbird.data.tweets_2013_01 =
     "in_reply_to_screen_name" : "bigman510",
     "in_reply_to_user_id_str" : "28527406",
     "user" : {
-      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
+      "name" : "\u8001\u6768",
       "screen_name" : "laoyang945",
       "protected" : false,
       "id_str" : "50969839",

@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_11 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "FMN \u81EA\u66F2\u65B0\u95FB",
@@ -51,7 +51,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BB9z",
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "404634478431051776",
   "text" : "RT @lepture: \u6709\u4E00\u56DE\u9A6C\u4E91\u53D1\u90AE\u4EF6\uFF0C\u8C08\u8981\u6CE8\u610F\u7EC6\u8282\u3002\u6211\u5F53\u65F6\u7279\u522B\u60F3\u56DE\u90AE\u4EF6\u8BF4\uFF0C\u8BF7\u5148\u628A\u9519\u522B\u5B57\u4FEE\u6B63\uFF0C\u628A\u6807\u70B9\u7528\u5BF9\uFF0C\u7136\u540E\u6211\u4EEC\u518D\u8C08\u4EC0\u4E48\u53EB\u6CE8\u610F\u7EC6\u8282\u3002",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -448,7 +448,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "lepture",
       "protected" : false,
       "id_str" : "18478599",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735383044\/c21bcf4c9a605d3f6e0b2ee2052dd7c0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472365470843027456\/RMwHOQQL_normal.jpeg",
       "id" : 18478599,
       "verified" : false
     }
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "403513755377893376",
   "text" : "RT @shangguanluan: \u95EE\uFF1A\u201C\u9C81\u8FC5\u5148\u751F\uFF0C\u8BF7\u95EE\u4F60\u5BF9\u4F60\u7684\u4E66\u4FE1\u88AB\u62CD\u5356\u4E86\u516D\u767E\u591A\u4E07\u8FD9\u4E8B\u600E\u4E48\u770B\uFF1F\u201D\u9C81\u8FC5\uFF1A\u201C\u554A\uFF1F\u201D\u2014\u2014\u5206\u6790\uFF1A\u9C81\u8FC5\u5728\u56DE\u7B54\u4E2D\u53EA\u7528\u4E86\u4E00\u4E2A\u201C\u554A\u201D\u5B57\uFF0C\u5145\u5206\u5C55\u793A\u4E86\u4ED6\u7684\u9707\u60CA\u4E0E\u65E0\u5948\uFF0C\u5BF9\u4E8E\u8FD9\u4E48\u5927\u7684\u4E8B\u4EF6\u5374\u53EA\u7528\u4E00\u4E2A\u8BED\u6C14\u8BCD\uFF0C\u8868\u73B0\u4E86\u4ED6\u5BF9\u9ED1\u6697\u73B0\u5B9E\u96BE\u4EE5\u5BB9\u5FCD\u5374\u5F3A\u5FCD\u6124\u6012\u7684\u60C5\u611F\uFF0C\u4E00\u4E2A\u95EE\u53F7\u66F4\u589E\u52A0\u4E86\u8BFB\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u652F\u4ED8\u5B9D|Alipay",
+      "name" : "Alipay",
       "screen_name" : "Alipay",
       "indices" : [ 51, 58 ],
       "id_str" : "13712792",
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "401920540132122624",
   "text" : "RT @multiple1902: \u55EF\u90A3\u4E2A\u6628\u5929\u6211\u4E0D\u5C0F\u5FC3\u5F00\u4E86\u300C\u8C46\u74E3 FM\u300DApp \u7684\u300C\u6447\u52A8\u6362\u6B4C\u300D\u529F\u80FD\uFF0C\u628A\u624B\u673A\u653E\u5728\u53E3\u888B\u91CC\u8D70\u53BB\u516C\u4EA4\u8F66\u7AD9\u3002\u63A5\u4E0B\u6765\u7684\u6545\u4E8B\u4F60\u4EEC\u90FD\u77E5\u9053\u4E86\u3002",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

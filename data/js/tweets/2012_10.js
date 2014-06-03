@@ -17,7 +17,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263598857701703680",
   "text" : "RT @scavin: \u65B0 Gmail Compose \u754C\u9762\u4E0D\u9519\u5462",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -422,13 +422,13 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u55B5\u5154",
+      "name" : "\u55B5\u5154\u2122",
       "screen_name" : "gomixo",
       "indices" : [ 0, 7 ],
       "id_str" : "46080891",
       "id" : 46080891
     }, {
-      "name" : "\u60A8\u7684\u597D\u53CB\u8001\u6768\u4E34\u7761\u524D",
+      "name" : "\u8001\u6768",
       "screen_name" : "laoyang945",
       "indices" : [ 8, 19 ],
       "id_str" : "50969839",

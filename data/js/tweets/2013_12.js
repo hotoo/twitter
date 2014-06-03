@@ -148,7 +148,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "6433582",
       "id" : 6433582
     }, {
-      "name" : "\u8499\u5E03\u6717\u00B7\u8BFA\u5170\u5FB7",
+      "name" : "Rei",
       "screen_name" : "chloerei",
       "indices" : [ 8, 17 ],
       "id_str" : "7252032",
@@ -387,7 +387,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u86CB\u54E5",
+      "name" : "\u704C\u86CB",
       "screen_name" : "guandan",
       "indices" : [ 3, 11 ],
       "id_str" : "17189927",
@@ -414,7 +414,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 416183881533235200,
     "created_at" : "2013-12-26 12:29:04 +0000",
     "user" : {
-      "name" : "\u86CB\u54E5",
+      "name" : "\u704C\u86CB",
       "screen_name" : "guandan",
       "protected" : false,
       "id_str" : "17189927",
@@ -678,7 +678,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "cosbeta",
       "protected" : false,
       "id_str" : "14697308",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413215724887228416\/bWeTX0Ik_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470217687683973120\/sBMvNyYV_normal.jpeg",
       "id" : 14697308,
       "verified" : false
     }

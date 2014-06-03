@@ -24,6 +24,67 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "amoblin",
+      "screen_name" : "amoblin",
+      "indices" : [ 0, 8 ],
+      "id_str" : "376062650",
+      "id" : 376062650
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "283920752841986048",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 28.3591286, 116.1010096037 ]
+  },
+  "id_str" : "284085025807409152",
+  "in_reply_to_user_id" : 376062650,
+  "text" : "@amoblin \u62B1\u6B49\uFF0C\u8FD9\u672C\u5E94\u8BE5\u662F\u4E00\u6761\u72EC\u7ACB\u63A8\uFF0C\u4E0D\u5C0F\u5FC3\u53D8\u6210\u4E86@\u3002\u4F60\u7684\u5E94\u7528\u6211\u521D\u6B65\u770B\u4E86\u4E0B\uFF0C\u86EE\u6709\u610F\u601D\uFF0C\u56DE\u5230\u7535\u8111\u4E0A\u6211\u4F1A\u5C1D\u8BD5\u4E0B\u7684\u3002",
+  "id" : 284085025807409152,
+  "in_reply_to_status_id" : 283920752841986048,
+  "created_at" : "2012-12-26 23:55:22 +0000",
+  "in_reply_to_screen_name" : "amoblin",
+  "in_reply_to_user_id_str" : "376062650",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000751927179\/d088ea1004a6dcbed7fa520d2eef3f82_normal.jpeg",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 28.3601265512, 116.110032323 ]
+  },
+  "id_str" : "284085026050699264",
+  "text" : "\u8001\u7238\u5DF2\u7ECF\u80CC\u4E0D\u52A8\u6211\u4E86",
+  "id" : 284085026050699264,
+  "created_at" : "2012-12-26 23:55:22 +0000",
+  "user" : {
+    "name" : "\u95F2\u8018\u2122",
+    "screen_name" : "hotoo",
+    "protected" : false,
+    "id_str" : "20674328",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000751927179\/d088ea1004a6dcbed7fa520d2eef3f82_normal.jpeg",
+    "id" : 20674328,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -94,67 +155,6 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "284085025518010369",
   "text" : "12306 \u5565\u65F6\u5019\u53EF\u4EE5\u652F\u6301\u9009\u5EA7\u3001\u94FA\uFF1F\u8FD9\u968F\u673A\u5206\u914D\u7684\u4E5F\u592A\u4E0D\u50CF\u8BDD\u4E86\u301C",
   "id" : 284085025518010369,
-  "created_at" : "2012-12-26 23:55:22 +0000",
-  "user" : {
-    "name" : "\u95F2\u8018\u2122",
-    "screen_name" : "hotoo",
-    "protected" : false,
-    "id_str" : "20674328",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000751927179\/d088ea1004a6dcbed7fa520d2eef3f82_normal.jpeg",
-    "id" : 20674328,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "amoblin",
-      "screen_name" : "amoblin",
-      "indices" : [ 0, 8 ],
-      "id_str" : "376062650",
-      "id" : 376062650
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "283920752841986048",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 28.3591286, 116.1010096037 ]
-  },
-  "id_str" : "284085025807409152",
-  "in_reply_to_user_id" : 376062650,
-  "text" : "@amoblin \u62B1\u6B49\uFF0C\u8FD9\u672C\u5E94\u8BE5\u662F\u4E00\u6761\u72EC\u7ACB\u63A8\uFF0C\u4E0D\u5C0F\u5FC3\u53D8\u6210\u4E86@\u3002\u4F60\u7684\u5E94\u7528\u6211\u521D\u6B65\u770B\u4E86\u4E0B\uFF0C\u86EE\u6709\u610F\u601D\uFF0C\u56DE\u5230\u7535\u8111\u4E0A\u6211\u4F1A\u5C1D\u8BD5\u4E0B\u7684\u3002",
-  "id" : 284085025807409152,
-  "in_reply_to_status_id" : 283920752841986048,
-  "created_at" : "2012-12-26 23:55:22 +0000",
-  "in_reply_to_screen_name" : "amoblin",
-  "in_reply_to_user_id_str" : "376062650",
-  "user" : {
-    "name" : "\u95F2\u8018\u2122",
-    "screen_name" : "hotoo",
-    "protected" : false,
-    "id_str" : "20674328",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000751927179\/d088ea1004a6dcbed7fa520d2eef3f82_normal.jpeg",
-    "id" : 20674328,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 28.3601265512, 116.110032323 ]
-  },
-  "id_str" : "284085026050699264",
-  "text" : "\u8001\u7238\u5DF2\u7ECF\u80CC\u4E0D\u52A8\u6211\u4E86",
-  "id" : 284085026050699264,
   "created_at" : "2012-12-26 23:55:22 +0000",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
@@ -583,57 +583,6 @@ Grailbird.data.tweets_2012_12 =
   "text" : "\u6628\u5929\u66F4\u65B0\u4E86\u7CFB\u7EDF\uFF0CChrome \u4E0B\u7684 MacOS L3VPN Client \u5C31\u65E0\u6CD5\u52A0\u8F7D\u4E86\u3002Safari \u4E0B\u53EF\u7528\uFF0C\u4F46\u662F\u63D0\u793A Java \u6709\u66F4\u65B0\uFF0C\u4ECA\u5929\u66F4\u65B0\u540E\u7A81\u7136\u7CFB\u7EDF\u5C31\u6302\u4E86\uFF0C\u9ED1\u5C4F\uFF0C\u7136\u540E\u7ECF\u5178\u7070\u8272\uFF0C\u63D0\u793A\u6309\u4E00\u4E0B\u952E\u91CD\u542F\u7CFB\u7EDF\u3002\u3002\u3002",
   "id" : 279029268888051712,
   "created_at" : "2012-12-13 01:05:36 +0000",
-  "user" : {
-    "name" : "\u95F2\u8018\u2122",
-    "screen_name" : "hotoo",
-    "protected" : false,
-    "id_str" : "20674328",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000751927179\/d088ea1004a6dcbed7fa520d2eef3f82_normal.jpeg",
-    "id" : 20674328,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u7EF5\u7EF5\u7684\u8001\u6C49",
-      "screen_name" : "zqweb",
-      "indices" : [ 3, 9 ],
-      "id_str" : "123718949",
-      "id" : 123718949
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "278832433816817666",
-  "text" : "RT @zqweb: \u5A36\u4EB2\u662F\u5927\u4E8B\uFF0C\u4E07\u4E07\u9A6C\u864E\u4E0D\u5F97\uFF0C\u82E5\u4F60\u7239\u5A36\u9519\u4E86\u5973\u4EBA\uFF0C\u90A3\u4E48\u4F60\u7684\u7AE5\u5E74\u5C06\u4F1A\u751F\u6D3B\u5728\u75DB\u82E6\u4E4B\u4E2D\uFF1B\u82E5\u4F60\u5A36\u9519\u4E86\u5973\u4EBA\uFF0C\u90A3\u4F60\u7684\u4E2D\u5E74\u4E5F\u5C06\u751F\u6D3B\u5728\u75DB\u82E6\u4E2D\uFF1B\u4E07\u4E00\u4F60\u513F\u5B50\u518D\u5A36\u9519\u4E86\u5973\u4EBA\uFF0C\u4F60\u5C06\u4F1A\u5728\u5B64\u72EC\u75DB\u82E6\u4E2D\u4E86\u6B64\u6B8B\u751F\u3002",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "278783202460585984",
-    "text" : "\u5A36\u4EB2\u662F\u5927\u4E8B\uFF0C\u4E07\u4E07\u9A6C\u864E\u4E0D\u5F97\uFF0C\u82E5\u4F60\u7239\u5A36\u9519\u4E86\u5973\u4EBA\uFF0C\u90A3\u4E48\u4F60\u7684\u7AE5\u5E74\u5C06\u4F1A\u751F\u6D3B\u5728\u75DB\u82E6\u4E4B\u4E2D\uFF1B\u82E5\u4F60\u5A36\u9519\u4E86\u5973\u4EBA\uFF0C\u90A3\u4F60\u7684\u4E2D\u5E74\u4E5F\u5C06\u751F\u6D3B\u5728\u75DB\u82E6\u4E2D\uFF1B\u4E07\u4E00\u4F60\u513F\u5B50\u518D\u5A36\u9519\u4E86\u5973\u4EBA\uFF0C\u4F60\u5C06\u4F1A\u5728\u5B64\u72EC\u75DB\u82E6\u4E2D\u4E86\u6B64\u6B8B\u751F\u3002",
-    "id" : 278783202460585984,
-    "created_at" : "2012-12-12 08:47:49 +0000",
-    "user" : {
-      "name" : "\u7EF5\u7EF5\u7684\u8001\u6C49",
-      "screen_name" : "zqweb",
-      "protected" : false,
-      "id_str" : "123718949",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1842938422\/2007-10-19-071019jzm20_normal.jpg",
-      "id" : 123718949,
-      "verified" : false
-    }
-  },
-  "id" : 278832433816817666,
-  "created_at" : "2012-12-12 12:03:27 +0000",
   "user" : {
     "name" : "\u95F2\u8018\u2122",
     "screen_name" : "hotoo",

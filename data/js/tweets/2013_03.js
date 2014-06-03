@@ -51,7 +51,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "Dr_zhan",
       "protected" : false,
       "id_str" : "134034571",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424553490732445696\/KjRf4Tl3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449996102129823744\/wpE0CbmX_normal.jpeg",
       "id" : 134034571,
       "verified" : false
     }

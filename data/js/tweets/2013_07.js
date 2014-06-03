@@ -113,7 +113,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Reeder",
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9898\u53F6",
+      "name" : "JiyinYiyong \u9898\u53F6",
       "screen_name" : "jiyinyiyong",
       "indices" : [ 0, 12 ],
       "id_str" : "147880724",
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hmsea",
+      "name" : "\u7686\u662F\u6D6E\u4E91",
       "screen_name" : "hmsea",
       "indices" : [ 1, 7 ],
       "id_str" : "6825592",
@@ -626,7 +626,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ken Wong",
@@ -703,7 +703,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352703820255600640",
   "text" : "RT @hikaru095: \u4ECE\u524D\uFF0C\u695A\u56FD\u6709\u4E2A\u4EBA\u5728\u8857\u4E0A\u53EB\u5356\u77DB\u548C\u76FE\u3002\u4ED6\u8BF4\uFF1A\u201D\u6211\u7684\u77DB\uFF0C\u540D\u66F0\u9A6C\u5217\uFF0C\u7CFB\u897F\u65B9\u5148\u8FDB\u5DE5\u827A\u6253\u9020\uFF0C\u8FDC\u80DC\u672C\u571F\u7CDF\u7C95\uFF0C\u5B87\u5B99\u6700\u950B\u5229\u3002\u201C\u53C8\u8BF4\uFF1A\u201D\u6211\u7684\u76FE\uFF0C\u540D\u66F0\u56FD\u60C5\uFF0C\u7CFB\u4E1C\u65B9\u667A\u6167\u7ED3\u6676\uFF0C\u5B8C\u80DC\u897F\u65B9\u8150\u673D\u6280\u672F\uFF0C\u5929\u4E0B\u6700\u575A\u56FA\u3002\u201C\u6709\u56F4\u89C2\u8005\u4E0A\u524D\u95EE\u9053\u201D\u7528\u4F60\u7684\u77DB\u523A\u4F60\u7684\u76FE\uFF0C\u4F1A\u600E\u6837\uFF1F\u201C\u4ED6\u7B54\u4E0D\u51FA\u6765\uFF0C\u5C31\u4E00\u77DB\u628A\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -896,7 +896,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ken Wong\uFF08\u5E7B\u706D\uFF09",
+      "name" : "Ken Wong",
       "screen_name" : "KenWong_",
       "indices" : [ 0, 9 ],
       "id_str" : "730043",
